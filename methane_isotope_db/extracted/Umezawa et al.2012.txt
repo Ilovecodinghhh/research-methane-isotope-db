@@ -1,0 +1,26 @@
+# Extracted from: Umezawa et al. 2012
+# "Carbon and hydrogen isotopic ratios of atmospheric methane in the upper troposphere over the Western Pacific"
+# ACP 12, 8095–8113, DOI: 10.5194/acp-12-8095-2012
+
+## Source signature ranges (cited from literature):
+- Biogenic: δ¹³C ~−60‰, δD ~−300‰
+- Fossil fuel: δ¹³C ~−40‰, δD ~−180‰
+- Biomass burning: δ¹³C −30 to −16‰, δD −330 to −190‰
+- Wetlands (biogenic): δ¹³C −80 to −40‰, δD −400 to −300‰
+- Fossil fuel (Schoell 1980): δ¹³C −90 to −30‰, δD −280 to −130‰
+
+## Observations (upper troposphere, Western Pacific, 2007–2009):
+- Background δ¹³C: −47.07 ± 0.06‰; δD: −98.8 ± 2.1‰
+- NH mid-latitude δ¹³C: −47.12 ± 0.10‰ (pre-gap)
+- Shift to −46.85 ± 0.09‰ after instrument gap
+
+## Asian methane source characterization:
+- South Asia excess (Keeling): δ¹³C = −56.5‰, δD = −329‰
+- East Asia excess (Keeling): δ¹³C = −49.6‰, δD = −277‰
+- Average: South Asia δ¹³C −47.08 ± 0.11‰, δD −90.3 ± 4.1‰
+- Average: East Asia δ¹³C −47.01 ± 0.11‰, δD −90.5 ± 3.9‰
+
+## Key observations:
+- Decreases in δ¹³C and δD during 2007–2008 in the upper troposphere
+- OH KIE of about −3.9‰ (lab) but observed slope suggests ~−13‰ (larger fractionation)
+- Cl KIE ~−60‰ in the marine boundary layer

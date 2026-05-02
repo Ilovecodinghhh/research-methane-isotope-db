@@ -1,0 +1,22 @@
+# Extracted from: Monteil et al. 2011
+# "Interpreting methane variations in the past two decades using measurements of CH4 mixing ratio and δ13C"
+# ACP 11, 9141–9153, DOI: 10.5194/acp-11-9141-2011
+
+## Key findings (TM5 3-D inversion, 1970–2010):
+
+### Source isotopic signatures used in model:
+- Wetlands: δ¹³C = −67 to −53‰ (from Quay et al. 1988)
+- Biomass burning: δ¹³C = −32 to −16‰ (from Etiope)
+- Geological sources: measurements range from −33‰ (to much lighter values)
+- Fossil fuel: rapid increase causes +0.3‰/yr model drift in δ¹³C
+
+### Budget constraints:
+- Wetland emissions adjusted to 182 TgCH₄/yr
+- Biomass burning adjusted to 30 TgCH₄/yr (in steady state)
+- Post-2000: model overestimates global growth rates by 10 ppb/yr and δ¹³C by 0.02‰/yr
+- To match δ¹³C evolution: requires biomass burning reduction of 18% (2002–2008) + fossil fuel growth ≤1%/yr
+- Geological source uncertainty: 6.6 to 45 TgCH₄/yr
+
+### Interpretation:
+- Changes in both emissions AND isotopic source mix needed to explain observations
+- Fossil fuel emission growth vs. biogenic source changes are key unknowns
