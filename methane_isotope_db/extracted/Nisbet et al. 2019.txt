@@ -1,0 +1,64 @@
+# Extracted from: Nisbet et al. 2019.pdf
+
+## Isotope-relevant passages (19)
+
+[1] Fossil fuel methane emissions are mostly somewhat more positive in δ13CCH4 than −47‰ to −53‰.
+
+[2] Thus, this hypothesis is only consistent with the observed isotopic shift if either (a) the new fossil fuel emissions have δ13CCH4 markedly more negative than −47‰; or (b) if there has been a concurrent decline in a source of much more 13C rich emissions, such as from biomass burning (Worden et al., 2017); or (c) both changes have occurred.
+
+[3] Background atmospheric δ13CCH4 is currently around −47‰.
+
+[4] Methane removal by atmospheric hydroxyl, OH imposes a kinetic isotope effect of around 3.9‰ (Saueressig et al., 2001) or 5.4‰ (Cantrell et al., 1990), which implies a bulk global emission δ13CCH4 value from all sources contributing to the current bur- den of between −54‰ and −52‰ (Nisbet et al., 2016).
+
+[5] Thus, the sustained post‐2007 negative isotopic shift, if driven primarily by an emission increase and over a long period, a decade or more, implies increasing emissions from sources more negative than about −53‰.
+
+[6] Emissions from the Arctic and boreal zone north of 50°N come dominantly from widespread summer C3 wetlands (δ13CCH4 about −70 ± 5‰) and also from releases, especially in winter, from the very large Arctic gas ﬁelds (δ13CCH4 about −50 ± 5‰; Fisher et al., 2011, 2017; France et al., 2016).
+
+[7] These come from extensive Russian and Canadian C3 wetlands (δ13CCH4 approximately −65 ± 5‰); from the natural gas industry (δ13CCH4 approximately −50‰ to −30‰), with much of the 10.1029/2018GB006009 Global Biogeochemical Cycles NISBET ET AL.
+
+[8] See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License  world's production in the United States, Russia, and the Middle East; and from coal production (δ13CCH4 approximately −40 ± 15‰), especially in China.
+
+[9] These are primarily from the Amazon and Pantanal wetlands, and in Africa from the Congo, Nile, Zambesian, and other C4 papyrus wetlands: their δ13CCH4 signatures are poorly studied but likely approxi- mately −55 ± 10‰ (e.g., Brownlow et al., 2017).
+
+[10] The Hypothesis That Biogenic Methane Emissions (Mainly From Wetlands and Cattle) Have Increased, While Destruction by OH Has Been Relatively Constant The ﬁrst hypothesis to explain the methane growth and negative δ13CCH4 trend is that much of the 2014– 2016 growth could have come from increased biogenic emissions, while destruction rates remained steady.
+
+[11] Using a spatially resolved source signature map, they found mean δ13CCH4 of northern wetland methane emissions to be −67.8‰, and mean tropical wetland emissions to have δ13CCH4–56.7‰.
+
+[12] Methane emitted during extraction, transport, and combustion of coal and natural gas has characteristically more positive δ13CCH4 (say −35‰ to −50‰) than the bulk −53‰ global methane source (Dlugokencky et al., 2011; Zazzeri et al., 2016), although it should be noted that the global mean for fossil fuel‐related emissions has recently been shown to be around −44 ± 0.7‰, iso- topically somewhat more negative than hitherto assumed (Schwietzke et al., 2017).
+
+[13] Indeed, methane from some Arctic gas ﬁelds and also Australian coalﬁelds has relatively negative δ13CCH4 around −50‰ or less (Dlugokencky et al., 2011; Zazzeri et al., 2016), but these high latitude and southern emissions are geogra- phically unlikely to have driven global methane growth, which has been led primarily from the wet tropics and low northern temperate latitudes.
+
+[14] (2016) suggested δ13CCH4 values for bituminous coals of −65‰ for open cast mines and −55‰ for deep mines, while methane from anthracite mines ranged from −40‰ to −30‰.
+
+[15] Methane from ﬁres, especially in tropical savannas domi- nated by C4 grasses, is much enriched in δ13CCH4 (Brownlow et al., 2017; Dlugokencky et al., 2011); thus, pulses of methane from tropical savanna and peatland ﬁres (δ13CCH4 around −30‰ to −15‰) have strong leverage on ambient values.
+
+[16] Possibly the apparent standstill in the tropical δ13CCH4 trend in the years 2014– 2016 (see section 4.3) may reﬂect increased biomass burning methane emissions in this period.
+
+[17] What is clear is that because the δ13CCH4 signature of biomass burning is relatively so positive, the global negative isotopic shift excludes an increase in biomass burning as an explanation for the methane rise, despite the warmth of 2015–2017, and this is supported by direct measurements of ﬁre extent (van der Werf et al., 2017).
+
+[18] Sources have been getting isotopically lighter in 30–90°N and 0–30°S but not in 0–30°N.
+
+[19] The upper two parts of the table summarize lifetimes and then sources with their δ13CCH4 values, averaged over the 2000–2005 period, that match the observed mole fraction and δ13CCH4 data.
+
+
+## Table-like lines (19)
+
+  δ13CCH4 than −47‰ to −53‰. Thus, this hypothesis is only consistent with the observed isotopic
+  shift if either (a) the new fossil fuel emissions have δ13CCH4 markedly more negative than −47‰;
+  and Zeppelin δ13CCH4 records in 2014–2016 (Figure 2) show a continuation of the post‐2007 shift to more
+  Background atmospheric δ13CCH4 is currently around −47‰. Methane removal by atmospheric hydroxyl,
+  den of between −54‰ and −52‰ (Nisbet et al., 2016). However, interpretation of isotopic observations is
+  emissions with δ13CCH4 between −47‰ and −53‰ initially help move the total atmospheric burden nega-
+  wetlands (δ13CCH4 about −70 ± 5‰) and also from releases, especially in winter, from the very large
+  Arctic gas ﬁelds (δ13CCH4 about −50 ± 5‰; Fisher et al., 2011, 2017; France et al., 2016). This region also
+  −65 ± 5‰); from the natural gas industry (δ13CCH4 approximately −50‰ to −30‰), with much of the
+  they found mean δ13CCH4 of northern wetland methane emissions to be −67.8‰, and mean tropical wetland
+  emissions to have δ13CCH4–56.7‰.
+  of coal and natural gas has characteristically more positive δ13CCH4 (say −35‰ to −50‰) than the bulk
+  some Arctic gas ﬁelds and also Australian coalﬁelds has relatively negative δ13CCH4 around −50‰ or less
+  et al. (2016) suggested δ13CCH4 values for bituminous coals of −65‰ for open cast mines and −55‰ for deep
+  mines, while methane from anthracite mines ranged from −40‰ to −30‰. Thus, growth in open cast mines
+  pulses of methane from tropical savanna and peatland ﬁres (δ13CCH4 around −30‰ to −15‰) have strong
+  Note. The upper two parts of the table summarize lifetimes and then sources with their δ13CCH4 values, averaged over the 2000–2005 period, that match the
+  The lower parts summarize changes in emissions and their δ13CCH4, or in the removal rate and its kinetic isotope effect, that match data over 2007–2014 and
+  δ13CH4 trend and spatial distribution. Atmospheric Environment, 174, 99–111. https://doi.org/10.1016/j.atmosenv.2017.11.037

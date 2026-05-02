@@ -1,0 +1,61 @@
+# Extracted from: Fernandez et al.2022.pdf
+
+## Isotope-relevant passages (19)
+
+[1] This calculates the linear  regression between the measured delta value (δ13CCH4 or δ2HCH4) and  the inverse mole fraction ([CH4]-1) of the air samples, where the  y-intercept represents the estimated source signature (Keeling, 1958,  1961; Pataki et al., 2003).
+
+[2] δ13CCH4 source signatures ranged from -61‰ to -36‰ (mean = -49 ± 6‰ s.d.; n = 55), and δ2HCH4 ranged from -388‰ to -157‰ (mean = 274 ± 69‰ s.d.; n = 55).
+
+[3] The δ13CCH4 source signatures of this leak ranged  from -51‰ to -47‰ (mean = -49‰ ± 2 s.d., n = 4) and δ2HCH4 signa­ tures ranged from -175‰ to -132‰ (mean = -154‰ ± 31 s.d.; n = 2).
+
+[4] All  known fossil fuel source signatures have a δ13CCH4 mean of -50‰ ± 5 s.
+
+[5] The most  depleted δ13CCH4 fossil fuel signature was -60‰, which was directly  sampled from a domestic gas supply box (SI Fig.
+
+[6] 4) in Ploiești and had a  δ2HCH4 signature of -198.4‰ (Table 3, source P-9c).
+
+[7] These measurements resulted in a known landfill  signature of δ13CCH4 = -58‰ ± 1 s.d.
+
+[8] For a known wastewater signature, Glina water treatment  plant was targeted and sampled downwind which resulted in a δ13CCH4  of -50‰ and a δ2HCH4 of -335‰ (SI Table 1).
+
+[9] Known δ13CCH4 source  signature ranges: gas -60 to -44‰ (yellow &  orange, n = 5), landfill -59 to 58‰ (green  triangle, n = 2), and wastewater is -50‰  (circle).
+
+[10] Known δ2HCH4 source signature  ranges: natural gas -270 to -166‰, landfill  -288 to -280‰, and wastewater is -335‰.
+
+[11] Histogram showing a  unimodal distribution of δ13CCH4 (top) signatures ranging from -65‰ to -37‰.
+
+[12] δ2HCH4 source signatures (bottom) show a bimodal distribution ranging from -388‰ to  -157‰.
+
+[13] Using C2:C1 ratios, CH4:CO2 ratio, and δ13CCH4–δ2H CH4, just half  (0.19 L min−1 km−1) of the Hamburg’s total emissions are from fossil  fuels.
+
+[14] It was difficult to assign specific source types using δ13CCH4  due to the close similarity between signatures of background air  (δ13CCH4 -48‰ ± 1‰ s.d.
+
+[15] Unlike δ13CCH4, atmospheric background δ2HCH4 (-96‰ ± 7‰ s.d.; n = 12) was relatively far from δ2HCH4 signatures found for  natural gas (-196‰ ± 13‰ s.e.; n = 7) and the Drumul Potcoavei leaks  (-175‰ ± 2‰; n = 5).
+
+[16] C2:C1 and δ2HCH4  tracers attributed our total emissions to 58%–63% wastewater, 32%–  42% natural gas, and 0–5% pyrogenic CH4 sources (Tables 2 and 3).
+
+[17] Biogenic sources (<-270‰, <0.005) are assumed to be  from wastewater and thermogenic sources (≥-270‰; ≥0.005 to < 0.090) are  assumed to be from the natural gas distribution system.
+
+[18] δ13CCH4 source appor­ tionment is not utilized because observed signatures strongly overlap between  biogenic (-58 to - 49‰) and thermogenic (-60 to -43‰).
+
+[19] Methane (CH4) sources in Krakow, Poland: insights from  isotope analysis, 10.5194/acp-2021-146 Chem.
+
+
+## Table-like lines (16)
+
+  δ13CCH4 source signatures ranged from -61‰ to -36‰ (mean = -49 ±
+  6‰ s.d.; n = 55), and δ2HCH4 ranged from -388‰ to -157‰ (mean =
+  from -51‰ to -47‰ (mean = -49‰ ± 2 s.d., n = 4) and δ2HCH4 signa­
+  tures ranged from -175‰ to -132‰ (mean = -154‰ ± 31 s.d.; n = 2). All
+  known fossil fuel source signatures have a δ13CCH4 mean of -50‰ ± 5 s.
+  d. (n = 8) and a δ2HCH4 mean of -188‰ ± 40 s.d. (n = 8). The most
+  depleted δ13CCH4 fossil fuel signature was -60‰, which was directly
+  δ2HCH4 signature of -198.4‰ (Table 3, source P-9c). The δ13CCH4 values
+  signature of δ13CCH4 = -58‰ ± 1 s.d. (n = 2) and δ2HCH4 = -280‰ ± 6 s.
+  of -50‰ and a δ2HCH4 of -335‰ (SI Table 1).
+  -288 to -280‰, and wastewater is -335‰.
+  unimodal distribution of δ13CCH4 (top) signatures ranging from -65‰ to -37‰. δ2HCH4 source signatures (bottom) show a bimodal distribution ranging from -388‰ to
+  (δ13CCH4 -48‰ ± 1‰ s.d. (n = 14)), and 13C depleted natural gas sources
+  signatures. Unlike δ13CCH4, atmospheric background δ2HCH4 (-96‰ ±
+  by δ2HCH4 and C2:C1. Biogenic sources (<-270‰, <0.005) are assumed to be
+  biogenic (-58 to - 49‰) and thermogenic (-60 to -43‰).

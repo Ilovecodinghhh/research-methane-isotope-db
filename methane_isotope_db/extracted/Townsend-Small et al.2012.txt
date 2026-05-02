@@ -1,0 +1,14 @@
+# Extracted from: Townsend-Small et al.2012.pdf
+
+## Isotope-relevant passages (3)
+
+[1] Additional Measurements of CH4 in Air Samples From Around Los Angeles Not Associated With a Specific Point Source and Measured for d13C Onlya Sample Type Location Dateb CH4 (ppm) d13C-CH4 City air: freeway traffic I-5 at 60 freeway 3/6/08 2.03 46.39 City air: freeway traffic I-5 at Dodger Stadium 3/6/08 1.98 46.32 City air: freeway traffic I-5 at Atlantic Blvd.
+
+[2] However, since our CH4 sample sizes were so small (0.05 – 0.12 mg C), the relative error ranged from 4 to 10‰ after propagating the errors involved in background corrections, and precision generally varied with sample size (Table 3).
+
+[3] Vijarnsorn (2002), Stable isotope and radiocarbon compositions of methane emitted from tropical rice paddies and swamps in southern Thailand, Biogeochemistry, 61, 1–19, doi:10.1023/A:1020270032512.
+
+
+## Table-like lines (1)
+
+  1‰ and a decrease in dD of 15–20‰ (Figures 3b and 3c).

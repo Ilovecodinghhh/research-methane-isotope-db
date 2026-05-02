@@ -1,0 +1,39 @@
+# Extracted from: Woolley Maisch et al.2023.pdf
+
+## Isotope-relevant passages (14)
+
+[1] Long-term records of both methane mole fraction and δ 13C from five  sites across the UK are presented, showing post-2007 growth in CH4 and negative trend in δ 13C, consistent  with global background sites.
+
+[2] Miller-Tans analyses of atmospheric measurements identified that the δ 13C  signature of the methane source mix varied between −50.1 and −56.1‰, with less depleted δ 13C signatures  at sites receiving air from urban areas, consistent with an increased proportion of thermogenic sources.
+
+[3] These values, based on the mobile campaign measurements, highlight that for UK sources, one can clearly  Site name Latitude Longitude Type of sample Collection frequency Type of site EGH 51.426 −0.562 Stainless steel flasks Weekly Suburban BAR 56.942 −7.537 Tedlar or Flexfoil 3 L bags Weekly Rural/coastal WCO L4 50.250 −4.217 Tedlar or Flexfoil 3 L bags Weekly Marine WCO E1 50.033 −4.367 Tedlar or Flexfoil 3 L bags Biweekly Marine WAO 52.951 1.122 Tedlar or Flexfoil 3 L bags Weekly Coastal Table 1  Longitude and Latitude of the Sites at Which RHUL Have Been Collecting Roughly Weekly Bag/Flask Samples for  Atmospheric CH4 and δ 13C Measurements  21698996, 2023, 21, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JD039098, Wiley Online Library on [02/05/2026].
+
+[4] 10.1029/2023JD039098 3 of 14 SNAP category NFR  code Source δ 13C  average  isotopic  signature  UK  sources  (‰) 1  SD N Reference Source (NAEI category) δ 13C  weighted  by NAEI  sources  (‰) 1  SD Reference Fossil Fuels 1B1 Coal mines −43.2 6.8 11 Zazzeri et al.
+
+[5] The results from  this analysis for each site can be seen in Figure 3, which includes the source signature calculated from the whole  time series of each site, and Figure 4 where the values are calculated for the time period 2017–2021 for every site.
+
+[6] Urban emissions  are dominated by thermogenic sources (δ 13C value around −40‰, see Figure 4), and rural emissions by agricul- ture and/or waste (δ 13C value around −60‰).
+
+[7] This method results in a weighted NAEI/NAME source signature  of −56.6 ± 1.1‰ for WAO and −54.2 ± 1.3‰ for EGH, compared with the  measured source values of −51.4 ± 0.9‰ and −50.1 ± 0.7‰, respectively.
+
+[8] Discussion Miller-Tans analysis of all of the sites that RHUL has been collecting long- term CH4 and δ 13C data at, show that EGH has the most enriched δ 13C signa- ture (−50.1 ± 0.7)‰ of all the sites, suggesting that it is the site most affected  by combustion or thermogenic sources.
+
+[9] WAO can be affected by London  and mainland European emissions (Forster et al., 2012), which is reflected  in its source signature, (−51.4 ± 0.9)‰; it is not as depleted as the other  coastal sites BAR (−56.1 ± 1.8)‰ and the WCO (−53.3 ± 0.9)‰ and also  not as enriched as EGH.
+
+[10] However, the average source signature of δ 13C from weighting the data from the NAEI maps for the whole UK  is (−58.2 ± 1.1)‰ for 2020, even BAR, which has the most depleted source signature of the RHUL UK sites, is  more enriched than the average value from the NAEI maps.
+
+[11] The method outlined in Section 3.4 results in a weighted NAEI/NAME source signature of (−56.6 ± 1.1)‰ for  WAO.
+
+[12] The  same calculation was done for EGH which resulted in a source signature, weighted by the NAME footprints and  NAEI maps emissions, of (−54.2 ± 1.3)‰.
+
+[13] The average  δ 13C source signature calculated by the authors is −47.1‰, compared to those calculated in this work for EGH;  (−50.1 ± 0.7)‰.
+
+[14] Improved global wetland carbon isotopic signatures support post-2006  microbial methane emission increase.
+
+
+## Table-like lines (4)
+
+  δ 13C). The analysis results in a δ 13C value of −61.3 ± 1.1‰ for the year 2021, and −60.7 ± 1.1‰ for 2020 for
+  of −56.6 ± 1.1‰ for WAO and −54.2 ± 1.3‰ for EGH, compared with the
+  measured source values of −51.4 ± 0.9‰ and −50.1 ± 0.7‰, respectively.
+  coastal sites BAR (−56.1 ± 1.8)‰ and the WCO (−53.3 ± 0.9)‰ and also

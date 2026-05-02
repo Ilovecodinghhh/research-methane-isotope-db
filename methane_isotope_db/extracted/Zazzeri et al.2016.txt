@@ -1,0 +1,11 @@
+# Extracted from: Zazzeri et al.2016.pdf
+
+## Isotope-relevant passages (2)
+
+[1] The d13C signatures for landﬁll sites span a range between 60.2 ± 1.4‰ (2SD) and - 55.2 ± 0.6‰ (2SD), whereas signatures for coal mines fall within a range of 51.2 ± 0.3‰ (2SD) to 30.9 ± 1.4‰ (2SD).
+
+[2] Gas installation Current status Sampling date Number of samples collected d13C signature (‰) Staines Closed (2014) Apr-14 16 36.3 ± 0.3 Bacton Active Apr-14 14 35.7 ± 1.2 G.
+
+
+## Table-like lines (0)
+

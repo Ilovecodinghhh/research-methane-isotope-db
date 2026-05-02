@@ -1,0 +1,27 @@
+# Extracted from: Schaefer et al.2019.pdf
+
+## Isotope-relevant passages (9)
+
+[1] Important observa- tional constraints are as follows: (i) temporal and geographic [CH4] variabilities measured in surface observations and by This article is part of the Topical Collection on Carbon Cycle and Climate * Hinrich Schaefer Hinrich.Schaefer@niwa.co.nz 1 National Institute of Water and Atmospheric Research, 301 Evans Bay Parade, Wellington 6021, New Zealand https://doi.org/10.1007/s40641-019-00140-z Published online: 22 August 2019 Current Climate Change Reports (2019) 5:259–274  satellites; (ii) the isotopic signature of methane, mostly its stable carbon isotope ratio (13C/12C; expressed as δ13CH4 rel- ative to the PDB standard in per mille), which indicates vary- ing activities of source and sink types; (iii) proxies undergoing the same processes as methane, e.g.
+
+[2] Calibration with satellite data of [CO] (a fire proxy) brings the difference to 3.7 Tg/a [11•], explaining the post-2007 δ13CH4 decrease with the decline of the most 13C- enriched [25•] source.
+
+[3] Including the low- and high-fire years of 1999–2001 and 2015, respectively, lowers the GFED4s differ- ence between plateau and renewed rise by 40%, suggesting a smaller influence on the δ13CH4 evolution.
+
+[4] wetland and agricultural emissions) with δ13CS of ~ −62%, fossil fuel emissions (pre- dominantly thermogenic) ~ −44‰ and biomass burning ~ − 22‰ [25•].
+
+[5] Possibly, temporal changes in δ13CS of a given source cat- egory cause, or contribute to, the post-2007 δ13CH4 trend.
+
+[6] Emission inventories for 1990–2010 indicate shifts to 13C-rich coal in China and more livestock emissions from the tropics (where more 13C- enriched feed from C4 plants leads to lower δ13CS).
+
+[7] Tropical wet- lands are predominantly in the southern tropics and their δ13CH4 (~ −55‰ [114]) is higher than other biogenic sources and the additional emissions of the renewed rise until 2014 [62•].
+
+[8] Measurement of the C-13 isotopic signature of methane emissions from northern European wetlands.
+
+[9] Isotopic source signatures: impact of regional variability on the delta(CH4)-C-13 trend and spatial distribution.
+
+
+## Table-like lines (2)
+
+  emissions) with δ13CS of ~ −62%, fossil fuel emissions (pre-
+  δ13CH4 (~ −55‰ [114]) is higher than other biogenic sources

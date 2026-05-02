@@ -1,0 +1,62 @@
+# Extracted from: Nisbet et al. 2023.pdf
+
+## Isotope-relevant passages (22)
+
+[1] Starting around the years 1750–1800 (Figure 3b), with the onset of coal-fired and then oil and gas-powered  industrialization, the 𝐴𝐴13CCH4 trend rapidly shifted positive (Etheridge et al., 1998; Ferretti et al., 2005; Lowe  et al., 1991; Mischler et al., 2009; Sapart et al., 2012).
+
+[2] That exceptionally rapid positive shift accompanying  fossil-fuel industrialization from the years 1800–2007 was +2‰ in 250 years, or about 0.01‰ per year, inter- preted as evidence that the rise was primarily driven by fossil fuel emissions, first mainly from coal, then with  methane emissions as a by-product of oil extraction and use, and more recently from the gas industry too.
+
+[3] Moreover, methane's  post-2006 isotopic record is isotopically quite unlike the record of the “fossil-fuel” industrial 19th and 20th centu- ries.
+
+[4] Methane Sources and Sinks; Isotopic Impacts The bulk source of global methane emissions has 𝐴𝐴13CCH4  ≅ −53‰ for all sources (Dlugokencky et al., 2011;  Nisbet et al., 2019; Sherwood et al., 2017).
+
+[5] This reflects a mix between northern high-latitude C3 plant wetlands (mean −67.8‰) and  tropical C4-rich wetlands (mean −56.7‰) (Dlugokencky et al., 2011; Ganesan et al., 2018; MOYA/ZWAMPS  Team et al., 2021; Quay et al., 1988; Menoud et al., 2022; Sherwood et al., 2017).
+
+[6] (2021) found methane from South American and African southern outer  tropical (seasonal) wetlands had 𝐴𝐴13CCH4 −60 ± 5‰ while equatorial wetlands emitted methane with 𝐴𝐴13CCH4  −52 ± 2‰.
+
+[7] Farmed ruminant emissions vary with diet, with a global average 𝐴𝐴13CCH4 perhaps around −65‰  (e.g., J.
+
+[8] Chang et al., 2019), but data are scarce from tropical ruminants where C4 fodder can dominate; for  example, for Kenyan pastured cattle, 𝐴𝐴13CCH4 is around −57‰ (MOYA/ZWAMPS Team et al., 2021).
+
+[9] Fossil fuel  emissions have 𝐴𝐴13CCH4 globally roughly between −43‰ and −45‰ (Lan, Basu, et al., 2021).
+
+[10] However, 𝐴𝐴13CCH4  values range widely from highly positive values (e.g., −25‰ for some gasfields) to very negative (as light as  −70‰ in some cases).
+
+[11] (2022) concluded the spatial distribution of wetland 𝐴𝐴13CCH4 emissions is consistent with the observed lati- tudinal gradient in 𝐴𝐴13CCH4 , implying the growth in microbial emissions has been the dominant driver for meth- ane's post-2006 rise and concurrent negative trend in 𝐴𝐴13CCH4 .
+
+[12] Interestingly, the regional 𝐴𝐴13CCH4 isotopic signa- tures of emissions of outer (single rainy season) tropical C4/C3 wetlands in Zambia and Bolivian Amazonia were  very similar, around −59‰ to −60‰ (France et al., 2021; MOYA Team et al., 2021), presumably reflecting the  similarity of the seasonal outer tropical C4/C3 vegetation mix.
+
+[13] For the periods 2007–2012 and  2013–2017, inversions of both mixing ratio and isotopic data suggest overall global pyrogenic emissions dropped  slightly or showed little change (Z.
+
+[14] (biogenic 85% component)   Model to 2035 2006 to 2035 573 1,584 10 −1.1‰ (roughly equivalent to −4.4‰ if  injected into much smaller glacial burden) Note.
+
+[15] The isotopic signatures of the “Initial” (i.e., pre-transition) sources (S), here termed δ 13CS, are taken  as having δ 13CS 4‰ heavier than present sources, and the source pulse of increased emission lead- ing into the transition is taken as having δ 13CS = −59‰, a value typical of modern outer (seasonal)  tropical wetlands (France et al., 2021; MOYA/ZWAMPS Team et al., 2021).
+
+[16] Source Tg/yr (running annual average) Source δ 13CS ‰ 30°S–90°S 0°S–30°S 0°N–30°N 30–°N90°N Global 30°S–90°S 0°S–30°S 0°N–30°N 30°N–90°N Global Initial 23.6 46.7 41.8 21.4 133.5 −49.8 −50.8 −51.7 −56.4 −51.8 Post 30.9 78.2 79.6 45.1 233.7 −53.8 −54.3 −54.8 −57.5 −55.0 Mixing ratio ppb (running annual average) Atmospheric δ 13CM ‰ 30°S–90°S 0°S–30°S 0°N–30°N 30°N–90°N Global 30°S–90°S 0°S–30°S 0°N–30°N 30°N–90°N Global Initial 408.6 403.5 396.7 393.8 400.7 −44.7 −44.7 −44.7 −44.82 −44.75 Post 694.2 695.1 698.9 699.9 697.0 −47.9 −47.9 −48.0 −48.0 −48.0 Note.
+
+[17] Stabilization of δ 13CM takes longer than for the mixing ratio because of the Tans effect, with 𝐴𝐴13CCH4 eventually  reaching a minimum in 2040, followed by some limited recovery as the burden equilibrates, while the global  mean δ 13Cs of source emissions decreases from −54.3‰ in 2006 to −55.2‰ in 2099.
+
+[18] Our modeling suggests that the modern pulse of new biogenic methane, despite ongoing anthropogenic fossil fuel  inputs with relatively positive 𝐴𝐴13CCH4 , is capable of shifting the 𝐴𝐴13CCH4 of the much larger whole modern atmos- pheric burden by, say, −1.1‰ over the full 30 year period 2007–2037.
+
+[19] The accompanying 𝐴𝐴13CCH4 shift  of about −0.55‰ includes a “positive” isotopic input from thermogenic sources such as anthropogenic fossil fuel  emissions and biomass burning with isotopic signatures more  13C rich than the bulk atmospheric source.
+
+[20] Had  there been no such positive leverage, the total biogenic-driven 𝐴𝐴13CCH4 shift over 2007–2022 that we would now  be measuring would have been perhaps −0.7‰.
+
+[21] A comparable pulse into the glacial air would  shift 𝐴𝐴13CCH4 negative by 3–4‰ over a complete termination, including turn-on of boreal sources.
+
+[22] Improved global wetland carbon isotopic signatures support post-2006  microbial methane emission increase.
+
+
+## Table-like lines (11)
+
+  et al., 2019). 𝐴𝐴13CCH4 values in Arctic air declined from −47.3‰ in 2006 toward −48‰ in mid-2022. At the
+  South Pole (Figure 4), 𝐴𝐴13CCH4 values were about −46.9‰ in 2006, sinking toward −47.4‰ in 2022 (Michel
+  −61.3 ± 0.7‰. This reflects a mix between northern high-latitude C3 plant wetlands (mean −67.8‰) and
+  −61 ± 4‰. Farmed ruminant emissions vary with diet, with a global average 𝐴𝐴13CCH4 perhaps around −65‰
+  emissions have 𝐴𝐴13CCH4 globally roughly between −43‰ and −45‰ (Lan, Basu, et al., 2021). However, 𝐴𝐴13CCH4
+  very similar, around −59‰ to −60‰ (France et al., 2021; MOYA Team et al., 2021), presumably reflecting the
+  −1.1‰ (roughly equivalent to −4.4‰ if
+  Over full terminations, negative drops in 𝐴𝐴13CCH4 ranged between −5‰ and −3‰ (Bock et al., 2017). For exam-
+  ple, in Termination V, 𝐴𝐴13CCH4 dropped from about −44‰ to −49‰, while in Termination II there was a similar
+  mean δ 13Cs of source emissions decreases from −54.3‰ in 2006 to −55.2‰ in 2099.
+  pheric burden by, say, −1.1‰ over the full 30 year period 2007–2037. That includes inputs of equatorial methane

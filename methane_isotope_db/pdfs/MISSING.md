@@ -1,17 +1,18 @@
-# Missing PDFs (Anti-Bot / Paywall Blocked)
+# Missing / Paywalled Papers
 
-These 3 papers could not be downloaded automatically:
+Only 3 papers remain without full-text access:
 
-1. **Dean et al. 2018** — "Methane Feedbacks to the Global Climate System"
-   - DOI: 10.1002/2017RG000559
-   - Reason: Radboud repository requires browser session
+1. **Milkov & Etiope (2018)** — "Revised genetic diagrams for natural gases" — Org. Geochem.
+   - DOI: 10.1016/j.orggeochem.2018.09.002
+   - **Highest priority**: >20,000 samples with dual-isotope data
+   - Elsevier paywall
 
-2. **Nisbet et al. 2019** — "Very Strong Atmospheric Methane Growth 2014–2017"
-   - DOI: 10.1029/2018GB006009  
-   - Reason: Wiley anti-bot, Oxford ORA returns landing page
+2. **Schwietzke et al. (2016)** — "Upward revision of global fossil fuel methane emissions" — Nature
+   - DOI: 10.1038/nature19797
+   - Key value (−44.0 ± 0.7‰) obtained from citations; full dataset paywalled
 
-3. **Nisbet et al. 2023** — "Atmospheric Methane: 2006–2022 vs Glacial Terminations"
-   - DOI: 10.1029/2023GB007875
-   - Reason: Wiley anti-bot, no alternative repository found
+3. **Schaefer (2019)** — "Causes and consequences of trends in atmospheric methane" — Curr. Clim. Change Rep.
+   - DOI: 10.1007/s40641-019-00140-z
+   - Key values extracted from PDF; full supplementary data in Springer paywall
 
-All 3 are Open Access — download manually from the DOI links above.
+All other papers (31/34) have been fully downloaded and archived.

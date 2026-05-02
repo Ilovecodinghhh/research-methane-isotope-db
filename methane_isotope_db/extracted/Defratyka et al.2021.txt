@@ -1,0 +1,32 @@
+# Extracted from: Defratyka et al.2021.pdf
+
+## Isotope-relevant passages (7)
+
+[1] Mobile measurements have been successfully used to detect leaks in diﬀerent cities, helping to prioritize mitigation strategies and verifying existing invento- ries.5−8 Combining mobile concentration measurements with chemical ﬁngerprinting, such as determining stable isotopic signatures of CH4, enables the partitioning of methane emissions by source type.4,5,9−13 This allows for the identiﬁcation and attribution of the source emitters in urban environments.
+
+[2] Globally, in the case of isotopes, more depleted δ13CH4 values (−80‰ to −40‰) (median ∼−62‰) are signatures of microbial sources, which are highly selective for 12C.5,9,11,12 In contrast, methane from fossil fuels typically varies between −75‰ and −25‰ (median ≈−44‰) and methane from pyrogenic sources varies between −35‰ and −7‰5,9,11,12 (median ≈−22‰).
+
+[3] In the case of the region Ile-de-France (IDF), based on data from surveys conducted between 2012 and 2015, when CH4 enhancements were measured downwind from sources, narrower signature ranges were found: from −55.3 ± 0.1‰ to −51.9 ± 0.1‰ for wastewater treatment Received: February 5, 2021 Revised: April 9, 2021 Accepted: April 9, 2021 Published: June 23, 2021 Article pubs.acs.org/est © 2021 The Authors.
+
+[4] plants (WWTP) and from −43.4 ± 01‰ to −33.8 ± 01‰14 for natural gas storage facilities.
+
+[5] On the basis of the location of detected peaks from venting grids and the location where isotopic samples were collected, we determined two isotopic source signatures: one equal to −36.4 ± 2.6‰ and another equal to −39.5 ± 5.0‰.
+
+[6] A small isolated CH4 leak indication (238 ppb above local background), that was observed twice in the central part of the city of Paris, had a δ13CH4 isotopic signature of −52.2 ± 8.1‰.
+
+[7] Another isolated leak indication, observed in the northeast part of Paris, had an isotopic signature of −39.5 ± 5.0‰ which is comparable to thermogenic sources.
+
+
+## Table-like lines (11)
+
+  values (−80‰ to −40‰) (median ∼−62‰) are signatures
+  −75‰ and −25‰ (median ≈−44‰) and methane from
+  pyrogenic sources varies between −35‰ and −7‰5,9,11,12
+  −55.3 ± 0.1‰ to −51.9 ± 0.1‰ for wastewater treatment
+  plants (WWTP) and from −43.4 ± 01‰ to −33.8 ± 01‰14
+  cluster area A range between −50.8 ± 6.0‰ and −36.4 ±
+  −36.4 ± 2.6‰ and another equal to −39.5 ± 5.0‰. To our
+  within the range of −59.5 ± 8.1‰ to −52.4 ± 3.1‰. This
+  city of Paris, had a δ13CH4 isotopic signature of −52.2 ±
+  0.2‰ and −55.3 ± 0.1‰).14 Accordingly, the leak indication’s
+  ± 2‰ and −41.8 ± 2‰.14 Our study detected a leak
