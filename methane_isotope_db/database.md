@@ -1,6 +1,6 @@
 # Methane (CH₄) Isotope Database: δ¹³C and δD Source Signatures (2016–Present)
 
-> **Version**: 1.0 | **Date**: 2026-05-02 | **Status**: Phase 3 complete — 34 entries (28 with isotope data, 6 context-only)
+> **Version**: 1.1 | **Date**: 2026-05-02 | **Status**: Phase 3 complete — 34 entries (31 with isotope data, 3 context-only)
 > 
 > **Key**: Values marked with † are compiled/review ranges. ± values are reported SD unless noted (2SD where specified). "—" = not reported or not accessible.
 > All δ¹³C relative to VPDB; all δD (= δ²H) relative to VSMOW.
@@ -9,11 +9,17 @@
 
 ## Core Reference Sources (Deep-Dive Cards)
 
-### 📦 Milkov & Etiope (2018) — Org. Geochem. [Paywalled]
+### 📦 Milkov & Etiope (2018) — Org. Geochem. ✅ [Now extracted]
 - **Paper**: "Revised genetic diagrams for natural gases based on a global dataset of >20,000 samples"
-- **Size**: >20,000 gas samples with dual-isotope (δ¹³C + δD)
+- **Size**: 20,621 gas samples; δ¹³C: N=17,683 (−110.2 to +45.0‰); δ²H: N=7,027 (−531 to +301‰)
 - **DOI**: [10.1016/j.orggeochem.2018.09.002](https://doi.org/10.1016/j.orggeochem.2018.09.002)
-- **Note**: Definitive dual-isotope genetic classification. Supersedes Schoell (1983), Bernard (1978), Whiticar (1999).
+- **Revised genetic field boundaries (Table 2)**:
+  - Primary microbial (CO₂ reduction): δ¹³C = −90 to −60‰, δ²H = −350 to −125‰
+  - Primary microbial (methyl-type fermentation): δ¹³C = −90 to −50‰, δ²H = −450 to −250‰
+  - Thermogenic: δ¹³C = −75 to −15‰, δ²H = −350 to −100‰
+  - Secondary microbial: δ¹³C = −60 to −35‰, δ²H = −350 to −150‰
+  - Abiotic: δ¹³C = −50 to +10‰, δ²H = −450 to −50‰
+- **Key finding**: Traditional δ¹³C = −55‰ cutoff between microbial/thermogenic is inadequate; 14% of conventional gas has δ¹³C < −55‰
 
 ### 📦 Etiope, Ciotoli & Schwietzke (2019) — ESSD ✅ OA
 - **Paper**: "Gridded maps of geological methane emissions and their isotopic signature"
@@ -39,13 +45,33 @@
   - BB C₃: δ¹³C = −28.4 ± 0.65‰; BB C₄: ~−18‰
   - Updated global weighted mean: δ¹³C = −46.6 ± 1.8‰, δ²H = −192 ± 7‰
 
-### 📦 Sherwood et al. (2017) — Global Source Signature Inventory (Foundational)
-- **Key values** (cited via Menoud 2022 & Basu 2022):
-  - Fossil fuel: δ¹³C = −44.8 ± 0.1‰ (n=8,128)
-  - Microbial: δ¹³C = −61.7 ± 6.2‰
-  - Thermogenic: δ¹³C = −44.8 ± 10.7‰
-  - Pyrogenic: δ¹³C = −26.2 ± 15‰
-  - Ruminant C₃: −54.5‰; C₄: −67.8‰
+### 📦 Sherwood et al. (2017) — Global Source Signature Inventory (Foundational) ✅ [Fully extracted]
+- **Paper**: "Global Inventory of Gas Geochemistry Data from Fossil Fuel, Microbial and Burning Sources"
+- **DOI**: [10.5194/essd-9-639-2017](https://doi.org/10.5194/essd-9-639-2017)
+- **Size**: 10,706 samples (8,734 fossil fuel + 1,972 non-fossil), 190 references
+- **Table 5 — δ¹³C (unweighted mean ± SD)**:
+  - Conventional gas: −44.0 ± 10.7‰ (n=6,079)
+  - Coal gas: −49.5 ± 11.2‰ (n=1,402) — **much lighter than assumed in budgets (−35 to −37‰)**
+  - Shale gas: −42.5 ± 6.7‰ (n=647)
+  - All fossil fuel: −44.8 ± 10.7‰ (n=8,128)
+  - Rice paddies: −62.2 ± 3.9‰ (n=253)
+  - Ruminants: −65.4 ± 6.7‰ (n=171, unweighted by C3/C4)
+  - Termites: −63.4 ± 6.4‰ (n=29)
+  - Waste: −56.0 ± 7.6‰ (n=56)
+  - Wetlands: −61.5 ± 5.4‰ (n=556)
+  - All microbial: −61.7 ± 6.2‰ (n=1,065)
+  - Biomass burning: −26.2 ± 4.8‰ (n=907, unweighted by C3/C4)
+- **Table 5 — δ²H (unweighted mean ± SD)**:
+  - Conventional gas: −194 ± 47‰ (n=1,969)
+  - Coal gas: −232 ± 52‰ (n=511)
+  - Shale gas: −167 ± 44‰ (n=398)
+  - All fossil fuel: −197 ± 51‰ (n=2,878)
+  - Rice paddies: −323 ± 16‰ (n=139)
+  - Ruminants: −316 ± 29‰ (n=79)
+  - Waste: −298 ± 11‰ (n=23)
+  - Wetlands: −322 ± 42‰ (n=173)
+  - All microbial: −317 ± 33‰ (n=415)
+  - Biomass burning: −211 ± 15‰ (n=4)
 
 ### 📦 Douglas et al. (2021) — Biogeosciences ✅ OA [**KEY for δD**]
 - **Paper**: "Geographic variability in freshwater methane hydrogen isotope ratios"
@@ -76,7 +102,7 @@
 | 5 | 2020 | Menoud, van der Veen, Scheeren | Netherlands (gas, agriculture, waste) | Gas: −40.3 ± 2.3; Ruminants: −66.3 ± 3.2; Waste: −58.1 ± 2.8 | Gas: −185 ± 15; Agriculture: −319 ± 12 | Methane Sources in Lutjewad, Netherlands | Tellus B | [10.1080/16000889.2020.1823733](https://doi.org/10.1080/16000889.2020.1823733) | 68 | ✅ OA | 2018–2019 |
 | 6 | 2021 | Menoud, van der Veen, Nęcki | Krakow, Poland (coal, gas, waste) | Coal: −58 to −45; Gas: −39.3 to −36; Waste: −55 to −52 | Coal: −210 to −180; Fossil: −190 ± 9; Sewage: <−300; Manholes: −202 to −146 | Methane sources in Krakow: isotope analysis | ACP | [10.5194/acp-21-13167-2021](https://doi.org/10.5194/acp-21-13167-2021) | 46 | ✅ OA | 2018–2019 |
 | 7 | 2022 | Basu, Lan, Dlugokencky | Global isotopic inversion | Source-weighted: ~−53.5; BB C₃: −26.7; C₄: −12.5; Ruminant C₃: −54.5; C₄: −67.8 | — | Estimating Methane Emissions Consistent with δ¹³C | ACP | [10.5194/acp-22-15351-2022](https://doi.org/10.5194/acp-22-15351-2022) | 110 | ✅ OA | 1997–2016 |
-| 8 | 2018 | Milkov, Etiope | Natural gas (>20k samples) | Thermogenic: −50 to −20; Biogenic: −110 to −50; Abiotic: −50 to −5 | Thermo: −275 to −100; Biogenic: −450 to −150; Abiotic: −450 to −50 | Revised genetic diagrams for natural gases | Org. Geochem. | [10.1016/j.orggeochem.2018.09.002](https://doi.org/10.1016/j.orggeochem.2018.09.002) | — | ❌ PW | Multi-decadal |
+| 8 | 2018 | Milkov, Etiope | Natural gas (>20k samples) | **Table 2 boundaries**: Microbial CO₂-red: −90 to −60; Microbial ferment: −90 to −50; Thermogenic: −75 to −15; Secondary microbial: −60 to −35; Abiotic: −50 to +10; W. Siberia microbial mean: −51.8 | Microbial CO₂-red: −350 to −125; Microbial ferment: −450 to −250; Thermogenic: −350 to −100; Secondary: −350 to −150; Abiotic: −450 to −50 | Revised genetic diagrams for natural gases | Org. Geochem. | [10.1016/j.orggeochem.2018.09.002](https://doi.org/10.1016/j.orggeochem.2018.09.002) | — | ✅ PDF | Multi-decadal |
 | 9 | 2017 | Worden, Bloom, Pandey | BB/Fossil/Microbial rebalancing | Source mix: −56 to −61; BB: −25 to −12 | — | Reduced biomass burning reconciles post-2006 methane | Nat. Comms. | [10.1038/s41467-017-02246-0](https://doi.org/10.1038/s41467-017-02246-0) | 144 | ✅ OA | 2006–2014 |
 | 10 | 2021 | Lu, Harris, Fisher | Queensland, Australia (CSG, cattle, landfill) | CSG: −55.1 to −44.2; Shallow coal: −80 to −50; Cattle: −62 to −65; Abattoir: −46; WWTP: −47.6 ± 2 | CSG: −310 to −191; Shallow: −310 to −210; Cattle: ~−320 | Isotopic signatures in coal seam gas fields, Queensland | ACP | [10.5194/acp-21-10527-2021](https://doi.org/10.5194/acp-21-10527-2021) | — | ✅ OA | 2018–2019 |
 | 11 | 2022 | Menoud, van der Veen, Lowry | EMID — Europe + global update | Fossil (excl. seeps): −44.6 ± 0.4 (n=452); Extraction PL+RO: −48.5 ± 0.6; Gas UK+NL: −38.9 ± 0.3; Waste: −53.6 ± 0.4; Wetlands: −73.6 ± 2.27; BB C₃: −28.4 ± 0.65; BB C₄: ~−18 | Fossil: −182 ± 2; Global: −192 ± 7 | EMID: New contributions to global inventory | ESSD | [10.5194/essd-14-4365-2022](https://doi.org/10.5194/essd-14-4365-2022) | 40 | ✅ OA | 2017–2020 |
@@ -113,7 +139,10 @@
 | Methane Source Category | δ¹³C Range (‰, VPDB) | Best Estimate | n | Key References |
 |------------------------|----------------------|---------------|---|----------------|
 | **FOSSIL FUEL — GLOBAL** | | | | |
-| Fossil fuel — global weighted | — | −44.8 ± 0.1 | 8,128 | Sherwood 2017 |
+| Fossil fuel — global weighted | — | −44.8 ± 10.7 | 8,128 | Sherwood 2017 (Table 5) |
+| Conventional oil & gas (Sherwood) | −87.0 to −14.8 | −44.0 ± 10.7 | 6,079 | Sherwood 2017 |
+| Coal gas (Sherwood) | −85.5 to −16.8 | −49.5 ± 11.2 | 1,402 | Sherwood 2017 |
+| Shale gas (Sherwood) | −69.7 to −24.4 | −42.5 ± 6.7 | 647 | Sherwood 2017 |
 | Fossil fuel — Schwietzke revision | — | −44.0 ± 0.7 | — | Schwietzke 2016 |
 | Fossil fuel — EMID Europe (excl. seeps) | — | −44.6 ± 0.4 | 452 | Menoud 2022 |
 | Fossil — global (Sherwood categories) | — | −44.8 ± 10.7 (thermogenic) | — | Sherwood 2017 via Gonzalez Moguel 2022 |
@@ -148,8 +177,15 @@
 | Microbial seeps | −90 to −55 | — | — | Etiope 2019 |
 | Geothermal | −25 to −15 | — | — | Etiope 2019 |
 | Natural geological (¹⁴C-constrained) | — | ~1.6 Tg/yr only | — | Hmiel 2020 |
+| **MILKOV 2018 GENETIC FIELDS** | | | | |
+| Primary microbial (CO₂ reduction) | −90 to −60 | — | 17,683 | Milkov 2018 (Table 2) |
+| Primary microbial (fermentation) | −90 to −50 | — | — | Milkov 2018 |
+| Thermogenic (revised) | −75 to −15 | — | — | Milkov 2018 |
+| Secondary microbial | −60 to −35 | — | — | Milkov 2018 |
+| Abiotic | −50 to +10 | — | — | Milkov 2018 |
 | **RUMINANTS / LIVESTOCK** | | | | |
 | Ruminants (Netherlands) | — | −66.3 ± 3.2 | — | Menoud 2020 |
+| Ruminants (Sherwood, unweighted) | −74.4 to −50.3 | −65.4 ± 6.7 | 171 | Sherwood 2017 |
 | Ruminants (Queensland) | −62 to −65 | — | — | Lu 2021 |
 | Ruminant C₃ feed (global) | — | −54.5 | — | Sherwood via Basu 2022 |
 | Ruminant C₄ feed (global) | — | −67.8 | — | Sherwood via Basu 2022 |
@@ -162,6 +198,7 @@
 | LA biological (cows, feedlots) | −65 to −45 | — | — | Townsend-Small 2012 |
 | **WASTE / LANDFILL** | | | | |
 | Waste (EMID) | — | −53.6 ± 0.4 | 202 | Menoud 2022 |
+| Waste (Sherwood) | −73.9 to −45.5 | −56.0 ± 7.6 | 56 | Sherwood 2017 |
 | Waste (Netherlands) | — | −58.1 ± 2.8 | — | Menoud 2020 |
 | Landfill (UK, Zazzeri) | −60.2 to −55.2 (2SD) | −58 ± 3 | — | Zazzeri 2016 |
 | Landfill (UK, NAEI) | — | −57.1 | — | Woolley-Maisch 2023 |
@@ -178,6 +215,7 @@
 | Sewage (Krakow) | −55 to −52 | — | — | Menoud 2021 |
 | **WETLANDS** | | | | |
 | Wetlands (EMID Europe) | — | −73.6 ± 2.27 | — | Menoud 2022 |
+| Wetlands (Sherwood) | −70.1 to −48.0 | −61.5 ± 5.4 | 556 | Sherwood 2017 |
 | Wetlands (global, Nisbet review) | −70 to −55 | — | — | Nisbet 2020 |
 | Wetlands (global, Douglas) | — | −63.9 ± 3.3 | — | Douglas 2021 |
 | C₃ plant wetlands (global) | — | −67.8 | — | Nisbet 2023 |
@@ -193,7 +231,13 @@
 | BB — C₄ (EMID) | — | ~−18 | — | Menoud 2022 |
 | BB — C₄ (Basu) | — | −12.5 | — | Basu 2022 |
 | BB (Schaefer review) | — | ~−22 | — | Schaefer 2019 |
+| BB (Sherwood, unweighted) | −32.4 to −12.5 | −26.2 ± 4.8 | 907 | Sherwood 2017 |
 | Pyrogenic global (Defratyka) | −35 to −7 | median ~−22 | — | Defratyka 2021 |
+| **RICE PADDIES** | | | | |
+| Rice paddies (Sherwood) | −67.2 to −54.0 | −62.2 ± 3.9 | 253 | Sherwood 2017 |
+| **TERMITES** | | | | |
+| Termites (Sherwood) | −72.8 to −55.7 | −63.4 ± 6.4 | 29 | Sherwood 2017 |
+| Termites (Surat Basin, possible) | — | ~−80.2 | — | Kelly 2022 |
 | **URBAN MIX** | | | | |
 | Urban fossil mix (NL/DE) | −50 to −40 | — | — | Maazallahi 2020 |
 | Urban microbial (NL/DE) | −55 to −70 | — | — | Maazallahi 2020 |
@@ -214,6 +258,10 @@
 | Methane Source Category | δD Range (‰, VSMOW) | Best Estimate | Key References |
 |------------------------|---------------------|---------------|----------------|
 | **FOSSIL FUEL** | | | |
+| Fossil fuel — all (Sherwood) | −415 to −62 | −197 ± 51 (n=2,878) | Sherwood 2017 (Table 5) |
+| Conventional oil & gas (Sherwood) | −393 to −62 | −194 ± 47 (n=1,969) | Sherwood 2017 |
+| Coal gas (Sherwood) | −415 to −75 | −232 ± 52 (n=511) | Sherwood 2017 |
+| Shale gas (Sherwood) | −315 to −101 | −167 ± 44 (n=398) | Sherwood 2017 |
 | Fossil fuel (EMID Europe) | — | −182 ± 2 | Menoud 2022 |
 | Natural gas (NL) | — | −185 ± 15 | Menoud 2020 |
 | Fossil urban (NL/DE) | −150 to −200 | — | Maazallahi 2020 |
@@ -228,6 +276,7 @@
 | Coal seam gas (Australia) | −310 to −191 | — | Lu 2021 |
 | CSG shallow (<200 m, Aus.) | −310 to −210 | — | Lu 2021 |
 | **RUMINANTS** | | | |
+| Ruminants (Sherwood) | −358 to −295 | −316 ± 29 (n=79) | Sherwood 2017 |
 | Cattle (Queensland) | — | ~−320 | Lu 2021 |
 | Agriculture (Netherlands) | — | −319 ± 12 | Menoud 2020 |
 | Cow farm (Upper Silesia) | — | −358.7 | Fiehn 2023 |
@@ -257,7 +306,20 @@
 | Biogenic (free trop., Silesia) | — | −335 ± 24 | Fiehn 2023 |
 | Inflow BL (Silesia) | — | −296 ± 37 | Fiehn 2023 |
 | **BIOMASS BURNING** | | | |
+| BB (Sherwood) | −232 to −195 | −211 ± 15 (n=4) | Sherwood 2017 |
 | BB (review range) | −230 to −200 | — | Nisbet 2020 |
+| **MILKOV 2018 GENETIC BOUNDARIES** | | | |
+| Primary microbial (CO₂ reduction) | −350 to −125 | — | Milkov 2018 (Table 2) |
+| Primary microbial (fermentation) | −450 to −250 | — | Milkov 2018 |
+| Thermogenic (revised) | −350 to −100 | — | Milkov 2018 |
+| Secondary microbial | −350 to −150 | — | Milkov 2018 |
+| Abiotic | −450 to −50 | — | Milkov 2018 |
+| **RICE PADDIES** | | | |
+| Rice paddies (Sherwood) | −336 to −301 | −323 ± 16 (n=139) | Sherwood 2017 |
+| **WASTE (Sherwood)** | | | |
+| Waste (Sherwood) | −312 to −281 | −298 ± 11 (n=23) | Sherwood 2017 |
+| **ALL MICROBIAL** | | | |
+| All microbial (Sherwood) | −442 to −281 | −317 ± 33 (n=415) | Sherwood 2017 |
 | **BIOGENIC (GENERAL)** | | | |
 | Biogenic (review range) | −400 to −280 | — | Nisbet 2020 |
 | Biogenic threshold (Fiehn) | < −280 to −320 | — | Fiehn 2023 |

@@ -1,0 +1,57 @@
+# Extracted from: Sherwood et al. 2017.pdf
+# "Global Inventory of Gas Geochemistry Data from Fossil Fuel, Microbial and Burning Sources, version 2017"
+# Earth System Science Data 9, 639–656 (2017)
+
+## Database scope:
+- 10,706 total samples (8,734 fossil fuel + 1,972 non-fossil)
+- 190 published references
+- Covers 84% of global natural gas production, 80% of coal production (2000–2015)
+
+## Table 5 — Summary Statistics (unweighted) by Source and Parameter
+
+### δ¹³C-CH₄ (‰ VPDB)
+
+| Source | N | Mean | Median | Min | Max | SD |
+|--------|---|------|--------|-----|-----|-----|
+| Conventional oil & gas | 6,079 | −44.0 | −42.2 | −87.0 | −14.8 | 10.7 |
+| Coal gas | 1,402 | −49.5 | −49.8 | −85.5 | −16.8 | 11.2 |
+| Shale gas | 647 | −42.5 | −41.1 | −69.7 | −24.4 | 6.7 |
+| ALL fossil fuel | 8,128 | −44.8 | −42.9 | −87.0 | −14.8 | 10.7 |
+| Rice paddies | 253 | −62.2 | −63.2 | −67.2 | −54.0 | 3.9 |
+| Ruminants (raw) | 171 | −65.4 | −67.1 | −74.4 | −50.3 | 6.7 |
+| Termites | 29 | −63.4 | −63.3 | −72.8 | −55.7 | 6.4 |
+| Waste | 56 | −56.0 | −55.4 | −73.9 | −45.5 | 7.6 |
+| Wetlands | 556 | −61.5 | −62.5 | −70.1 | −48.0 | 5.4 |
+| ALL microbial | 1,065 | −61.7 | −63.0 | −74.4 | −45.5 | 6.2 |
+| Biomass burning | 907 | −26.2 | −26.8 | −32.4 | −12.5 | 4.8 |
+
+### δ²H-CH₄ (‰ VSMOW)
+
+| Source | N | Mean | Median | Min | Max | SD |
+|--------|---|------|--------|-----|-----|-----|
+| Conventional oil & gas | 1,969 | −194 | −186 | −393 | −62 | 47 |
+| Coal gas | 511 | −232 | −215 | −415 | −75 | 52 |
+| Shale gas | 398 | −167 | −146 | −315 | −101 | 44 |
+| ALL fossil fuel | 2,878 | −197 | −192 | −415 | −62 | 51 |
+| Rice paddies | 139 | −323 | −328 | −336 | −301 | 16 |
+| Ruminants (raw) | 79 | −316 | −305 | −358 | −295 | 29 |
+| Termites | 1 | −343 | −343 | −343 | −343 | n/a |
+| Waste | 23 | −298 | −298 | −312 | −281 | 11 |
+| Wetlands | 173 | −322 | −310 | −442 | −288 | 42 |
+| ALL microbial | 415 | −317 | −308 | −442 | −281 | 33 |
+| Biomass burning | 4 | −211 | −208 | −232 | −195 | 15 |
+
+## Key insights:
+- Coal gas mean δ¹³C (−49.5‰) is MUCH more depleted than −35 to −37‰ assumed in previous budgets
+- Coal gas mean δ²H (−232‰) is 60–120‰ lighter than literature values
+- Natural gas mean δ²H (−194‰) is 10–15‰ lighter than literature values
+- Shale gas: lower mean δ¹³C (−42.5‰) and δ²H (−167‰) than previously assumed
+- Flux-weighted atmospheric mean δ¹³C ≈ −53.6‰ (inferred from atmospheric measurements)
+- Flux-weighted atmospheric δ²H ranges between −245 and −415‰
+- Ruminant values NOT weighted by C3 vs C4 diet proportion
+- Biomass burning values NOT weighted by C3 vs C4 vegetation proportion
+
+## Notes on representativeness:
+- δ¹³C data representative of 84% of global gas production, 80% of coal production
+- δ²H data more sparse: only 2,878 fossil fuel samples vs 8,128 for δ¹³C
+- Non-fossil δ²H extremely sparse: only 4 biomass burning, 1 termite sample

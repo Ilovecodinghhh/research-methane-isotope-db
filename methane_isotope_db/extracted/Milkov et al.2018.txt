@@ -1,0 +1,35 @@
+# Extracted from: Milkov et al. 2018.pdf
+# "Revised genetic diagrams for natural gases based on a global dataset of >20,000 samples"
+# Organic Geochemistry 125 (2018) 109–120
+
+## Key Statistics (from text, page 5)
+- Total samples: 20,621
+- δ¹³C-CH₄: N=17,683, Min=−110.2‰, Max=+45.0‰
+- δ²H-CH₄: N=7,027, Min=−531‰, Max=+301‰
+- C₁/(C₂+C₃): N=15,759
+- From 76 countries, 6 continents
+
+## Table 2 — Revised Genetic Field Boundaries
+
+| Genetic Field | C1/(C2+C3) Min | C1/(C2+C3) Max | δ¹³C-CH₄ Min (‰) | δ¹³C-CH₄ Max (‰) | δ²H-CH₄ Min (‰) | δ²H-CH₄ Max (‰) | δ¹³C-CO₂ Min | δ¹³C-CO₂ Max |
+|---|---|---|---|---|---|---|---|---|
+| Primary microbial (CO₂ reduction) | 200 | 100,000 | −90 | −60 | −350 | −125 | −50 | +15 |
+| Primary microbial (methyl-type fermentation) | 1,000 | 100,000 | −90 | −50 | −450 | −250 | −25 | +2 |
+| Thermogenic | 0.1 | 100,000 | −75 | −15 | −350 | −100 | −40 | +10 |
+| Secondary microbial | 2 | 100,000 | −60 | −35 | −350 | −150 | +2 | +40 |
+| Abiotic | 0.1 | 100,000 | −50 | +10 | −450 | −50 | −40 | +2 |
+
+## Key findings (from text):
+- Thermogenic field extends to δ¹³C = −75‰ (early mature) and to −67‰ (low maturity / biodegraded)
+- Traditional cutoff of δ¹³C = −55‰ between microbial and thermogenic is inadequate
+- 14% of conventional gas samples have δ¹³C < −55‰
+- Abiotic gas can have δ¹³C as low as −50‰ (Driefontein, South Africa) or as high as +10‰ (Oman, Greece)
+- Primary microbial gas with δ¹³C as high as −32.6‰ reported in endoevaporitic settings (rare)
+- Significant overlap between genetic fields — multiple diagrams needed for interpretation
+- Oxidation can shift δ¹³C as high as +45‰ and δ²H as high as +301‰
+- West Siberia Basin microbial gas (mean δ¹³C = −51.8‰) accounts for ~17% of global conventional gas
+
+## Discussion points:
+- Many samples in δ¹³C −60 to −40‰ and δ²H −250 to −150‰ have MIXED origin
+- Early mature thermogenic gas can be misidentified as primary microbial
+- Biodegradation + secondary methanogenesis creates complex isotopic signatures
