@@ -43,3 +43,23 @@ See `database.md` for the main table.
 
 ---
 *Generated: 2026-05-02 | Last updated: 2026-05-02*
+
+---
+
+## MinerU Extractions (Phase 5)
+
+**Date**: 2026-05-03
+
+All PDFs have been re-processed through the [MinerU API](https://mineru.net) for high-quality PDF→Markdown conversion with table preservation.
+
+**Location**: `mineru_extractions/` directory
+
+**Results**: 30 out of 33 PDFs successfully converted. 3 failures (parsing issues): `feinberg2018`, `hmiel2020`, `kirschke2013`.
+
+The MinerU extractions preserve:
+- Tables (as HTML `<table>` elements)
+- Mathematical expressions
+- Figures references
+- Full document structure
+
+These replace the earlier PyMuPDF text extractions in `extracted/` for better data quality.
