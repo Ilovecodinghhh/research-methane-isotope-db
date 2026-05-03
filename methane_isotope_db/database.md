@@ -1,10 +1,10 @@
 # Methane (CH₄) Isotope Database: δ¹³C and δD Source Signatures (1999–Present)
 
-> **Version**: 3.0 | **Date**: 2026-05-03 | **Status**: Phase 6 — 83 entries (68 with isotope data, 15 context/budget-only)
+> **Version**: 4.0 | **Date**: 2026-05-03 | **Status**: Phase 7 — 107 entries (87 with isotope data, 20 context/budget-only)
 > 
 > **Key**: Values marked with † are compiled/review ranges. ± values are reported SD unless noted (2SD where specified). "—" = not reported or not accessible.
 > All δ¹³C relative to VPDB; all δD (= δ²H) relative to VSMOW.
-> **Coverage**: 1988–2025 primary data; 100 BC–2000 (ice core via Sapart 2012)
+> **Coverage**: 1985–2025 primary data; 100 BC–2000 (ice core); 650 kyr BP (Dome C)
 
 ---
 
@@ -219,6 +219,30 @@
 | 81 | 2016 | Okumura, Kawagucci, Saito | Methanogenesis isotope fractionation (review) | **Fractionation factors**: CO₂ reduction: ε¹³C = −49 to −95‰, εD = −170 to −340‰; Acetate fermentation: ε¹³C = −21 to −43‰; Methyl-type: ε¹³C = −50 to −75‰; Temperature-dependent: warmer → smaller fractionation; Comprehensive review of isotope effects in methanogenesis | δD fractionation compiled; CO₂ reduction εD = −170 to −340‰; αH2O-CH4 = 0.68–0.86 | Hydrogen and carbon isotope systematics in hydrogenotrophic methanogenesis | PEPS | [10.1186/s40645-016-0088-3](https://doi.org/10.1186/s40645-016-0088-3) | 51 | ✅ OA | Review |
 | 82 | 2012 | Etiope | Global geological seepage review (CH₄ budget) | Geologic CH₄ emissions: 54 Tg/yr (marine + terrestrial); Terrestrial: 27 Tg/yr; Marine: 20–30 Tg/yr; Mud volcanoes: 30–60 Tg/yr; Microseepage: 10–25 Tg/yr; Total natural geo: 42–64 Tg/yr; δ¹³C typically −50 to −30‰ for thermogenic seeps | — | Natural seepage of shale gas and the origin of "eternal flames" in the Northern Appalachian Basin | Marine & Petroleum Geo. | [10.1016/j.marpetgeo.2012.09.009](https://doi.org/10.1016/j.marpetgeo.2012.09.009) | 90 | ❌ PW | Review |
 | 83 | 2013 | Bergamaschi, Houweling, Segers | Global inverse model (SCIAMACHY + surface) | Global emissions ~520–545 Tg/yr; Tropical emissions dominant; Model-observation residuals; No primary isotope measurements but provides emission field for isotopic interpretation | — | Atmospheric CH₄ in the first decade of the 21st century: Inverse modelling analysis | JGR-Atmos. | [10.1002/jgrd.50480](https://doi.org/10.1002/jgrd.50480) | 230 | ✅ OA | 2003–2010 |
+| 84 | 2006 | Bousquet, Ciais, Miller | Global source attribution 1984–2003 (inversion + isotopic constraints) | Inversion of atmospheric CH₄ and δ¹³C: Wetlands dominant interannual driver; El Niño → reduced wetland + increased BB; Fossil fuel contribution steady ~30%; Total emissions ~500–600 Tg/yr; Isotopic constraint critical for separating biogenic vs fossil | — | Contribution of anthropogenic and natural sources to atmospheric methane variability | Nature | [10.1038/nature05132](https://doi.org/10.1038/nature05132) | 1091 | ❌ PW | 1984–2003 |
+| 85 | 2005 | Ferretti, Miller, White, Etheridge | Ice core δ¹³C-CH₄ (2000 yr Antarctic record) | δ¹³C variations ≥2‰ over preindustrial Holocene: 0–1000 AD enriched by ~2‰ (increased pyrogenic sources); 1000–1700 AD depleted by ~2‰ (biogenic recovery); Source partitioning shows BB/anthropogenic fire as major preindustrial budget variable; Challenges assumption of stable preindustrial budget | — | Unexpected Changes to the Global Methane Budget over the Past 2000 Years | Science | [10.1126/science.1115193](https://doi.org/10.1126/science.1115193) | 370 | ✅ OA | 0–1700 AD |
+| 86 | 2006 | Keppler, Hamilton, Braß, Röckmann | Aerobic plant methane emissions (isotopic signature) | Plants emit CH₄ under aerobic conditions: 62–236 Tg/yr (original estimate, later revised down); δ¹³C of plant methane = −50 to −70‰ (depleted, similar to biogenic); Novel source pathway previously unknown; Isotopic implications: could explain part of ¹³C-depleted atmospheric signal | — | Methane emissions from terrestrial plants under aerobic conditions | Nature | [10.1038/nature04420](https://doi.org/10.1038/nature04420) | 1039 | ❌ PW | Experimental |
+| 87 | 2009 | Dlugokencky, Bruhwiler, White | Atmospheric CH₄ renewed growth 2007–2008 (constraints) | 2007: +8.3±0.6 ppb globally; 2008: +4.4±0.6 ppb; NH polar & SH increased most in 2007 (wetlands); Tropics dominated 2008 increase; Not possible to attribute to single source from mixing ratios alone; Need isotopic data for partitioning | — | Observational constraints on recent increases in the atmospheric CH₄ burden | GRL | [10.1029/2009gl039780](https://doi.org/10.1029/2009gl039780) | 645 | ✅ OA | 2007–2008 |
+| 88 | 2008 | Rigby, Prinn, Fraser | Renewed CH₄ growth (AGAGE/CSIRO detection) | First detection of renewed growth starting early 2007; Similar growth rate at all sites initially; Inverse analysis: increased emissions from NH (~1% of total) or ~20 Tg/yr; Cannot distinguish wetland vs fossil from concentration alone | — | Renewed growth of atmospheric methane | GRL | [10.1029/2008gl036037](https://doi.org/10.1029/2008gl036037) | 601 | ✅ OA | 2007 |
+| 89 | 2003 | Dlugokencky, Houweling, Bruhwiler | Methane plateau 1999–2002 (steady state) | Global average ≈1751 ppb stable for 4 years; Implies CH₄ budget at steady state during period; NH-SH gradient decreased 1991–1992; If sources constant, lifetime ~9.5 yr; Context for post-2007 growth | — | Atmospheric methane levels off: Temporary pause or a new steady-state? | GRL | [10.1029/2003gl018126](https://doi.org/10.1029/2003gl018126) | 480 | ✅ OA | 1999–2002 |
+| 90 | 2005 | Spahni, Chappellaz, Stocker | 650 kyr ice core CH₄ record (EPICA Dome C) | CH₄ never exceeded 773±15 ppb in past 650 kyr; Strong correlation with Antarctic temperature throughout; Variations between 350–800 ppb on glacial-interglacial timescales; Preindustrial baseline for isotopic budget context | — | Atmospheric Methane and Nitrous Oxide of the Late Pleistocene from Antarctic Ice Cores | Science | [10.1126/science.1120132](https://doi.org/10.1126/science.1120132) | 522 | ✅ OA | 650 kyr BP |
+| 91 | 2008 | Walter Anthony, Chanton, Chapin | Arctic lakes isotopic characterization (Siberia + Alaska) | **Ebullition δ¹³C**: Point sources −70 to −58‰ (Holocene organics); Hot spots −48 to −37‰ (Pleistocene/thermogenic); Background −75 to −65‰ (diffusive, most ¹³C-depleted); **δD**: −380 to −310‰ (point sources); −300 to −240‰ (hot spots); **¹⁴C**: Hot spots = old (>20 kyr) indicating fossil/Pleistocene substrate; Point sources = modern (post-bomb) | See δ¹³C column; δD reported for all categories | Methane production and bubble emissions from arctic lakes: Isotopic implications | JGR-Biogeo. | [10.1029/2007jg000569](https://doi.org/10.1029/2007jg000569) | 238 | ✅ OA | 2003–2006 |
+| 92 | 2008 | Etiope, Lassey, Klusman | Geologic CH₄ budget reappraisal (fossil sources) | Total geologic emissions: 42–64 Tg/yr (terrestrial + marine); Accounts for ~10% of global CH₄ budget; Consistent with ¹⁴C constraint (fossil fraction 25–30%); Microseepage: 10–25 Tg/yr; Marine seeps: 20–30 Tg/yr; Mud volcanoes: 5–10 Tg/yr; Geothermal: 2–5 Tg/yr; δ¹³C typically thermogenic (−50 to −30‰) | — | Reappraisal of the fossil methane budget and related emission from geologic sources | GRL | [10.1029/2008gl033623](https://doi.org/10.1029/2008gl033623) | 209 | ✅ OA | Compilation |
+| 93 | 2005 | Chanton | Wetland CH₄ isotope transport effects (review) | Gas transport mechanism controls isotopic signature: Diffusion enriches δ¹³C by 3–10‰ vs ebullition; Ebullition preserves production signature (−60 to −80‰); Plant-mediated transport intermediate; Oxidation further enriches δ¹³C; Net effect: emitted δ¹³C can range from −80 to −50‰ depending on transport | — | The effect of gas transport on the isotope signature of methane in wetlands | Org. Geochem. | [10.1016/j.orggeochem.2004.10.007](https://doi.org/10.1016/j.orggeochem.2004.10.007) | 214 | ❌ PW | Review |
+| 94 | 2006 | Kinnaman, Valentine, Tyler | Aerobic CH₄ oxidation KIE (C + H fractionation) | **ε¹³C (oxidation)**: −22 to −25‰ (pure cultures); **εD (oxidation)**: −145 to −295‰; KIE varies with methanotroph species and growth conditions; Higher KIE at lower CH₄ concentrations; Critical for interpreting atmospheric δ¹³C sink effect | **εD compiled**: −145 to −295‰ | Carbon and hydrogen isotope fractionation associated with aerobic microbial oxidation of methane | GCA | [10.1016/j.gca.2006.09.007](https://doi.org/10.1016/j.gca.2006.09.007) | 195 | ❌ PW | Experimental |
+| 95 | 2007 | Tyler, Rice, Ajie | Atmospheric δ¹³C + δD seasonal cycles (USA) | **Niwot Ridge (40°N)**: Seasonal δ¹³C amplitude ~0.3‰ (summer depleted); δD amplitude ~3‰; Annual mean δ¹³C ≈ −47.2‰; **Montaña de Oro (35°N)**: similar patterns but Pacific influence; Seasonal cycle driven by wetland emissions (summer) vs OH sink seasonality; Long-term δ¹³C trend: slight depletion 1998–2005 | Seasonal δD patterns reported | Stable isotope ratios in atmospheric CH₄: Implications for seasonal sources and sinks | JGR-Atmos. | [10.1029/2006jd007231](https://doi.org/10.1029/2006jd007231) | 71 | ✅ OA | 1998–2005 |
+| 96 | 2009 | Mischler, Sowers, Alley | 1000-yr ice core δ¹³C + δD (WAIS Divide) | δ¹³C variations corroborate Law Dome record (Ferretti 2005); New δD-CH₄ dataset covaries with δ¹³C; Pre-industrial δ¹³C enrichment (1000–1500 AD) = pyrogenic increase; 16th century depletion = human-driven biogenic shift (rice, livestock) earlier than assumed; First combined δ¹³C + δD ice core record for last millennium | δD record over 1000 yr presented — first such record | Carbon and hydrogen isotopic composition of methane over the last 1000 years | GBC | [10.1029/2009gb003460](https://doi.org/10.1029/2009gb003460) | 115 | ✅ OA | 1000–2000 AD |
+| 97 | 2007 | Lassey, Etheridge, Lowe, Ferretti | Centennial δ¹³C budget evolution (Table 1 sources) | **Table 1 pre-industrial δ¹³C**: Wetlands −60; Termites −57; Wildfires −25; Oceans −40; Wild animals −62; Geologic −40; Coal −35; Other fossil −40; Livestock −62; Waste/landfills −55; Rice −64; Forest BB −25; Savanna BB −12; **Weighted total**: −56.1±3.6‰ (preindustrial) | — | Centennial evolution of the atmospheric methane budget: what do the carbon isotopes tell us? | ACP | [10.5194/acp-7-2119-2007](https://doi.org/10.5194/acp-7-2119-2007) | 89 | ✅ OA | 1700–2004 |
+| 98 | 2007 | Allan, Struthers, Lowe | Cl sink KIE for δ¹³C (marine boundary layer) | **Cl sink ε¹³C**: −60±1‰ (much larger than OH: −4.65‰); Cl sink: ~25 Tg/yr (13–37 range); Makes apparent global KIE larger; Explains SH δ¹³C observations that OH alone cannot; Critical for budget closure: without Cl sink, need unrealistic source shifts | — | Methane carbon isotope effects caused by atomic chlorine in the marine boundary layer | JGR-Atmos. | [10.1029/2006jd007369](https://doi.org/10.1029/2006jd007369) | 160 | ✅ OA | Model |
+| 99 | 2006 | Houweling, Röckmann, Aben, Keppler | δ¹³C constraint on aerobic plant methane | δ¹³C modeling constrains aerobic plant CH₄ to ≤125 Tg/yr (present day), ≤85 Tg/yr (preindustrial, more plausible); Plant source would be ¹³C-depleted (−50 to −60‰); Satellite CH₄ column data support some plant emissions; Revises Keppler 2006 estimate downward | — | Atmospheric constraints on global emissions of methane from plants | GRL | [10.1029/2006gl026162](https://doi.org/10.1029/2006gl026162) | 123 | ✅ OA | Model |
+| 100 | 2007 | Whiticar, Schaefer | Ice core δ¹³C + δD budget constraints (Late Pleistocene–Holocene) | δ¹³C and δD in ice: δ¹³C-CH₄ varies 2–4‰ over glacial cycles; Warmer periods = more ¹³C-depleted (wetlands); Glacial = more enriched (BB/fossil); Combined δ¹³C + δD narrows source solutions vs either alone; Demonstrates decoupling of CH₄ concentration from temperature during Holocene | δD-CH₄ ice core record used alongside δ¹³C | Constraining past global tropospheric methane budgets with C and H isotope ratios in ice | Phil. Trans. R. Soc. A | [10.1098/rsta.2007.2048](https://doi.org/10.1098/rsta.2007.2048) | 90 | ❌ PW | 50 kyr BP–present |
+| 101 | 2008 | Schaefer, Whiticar | Glacial-interglacial source δ¹³C sensitivity | Source δ¹³C signatures change with climate: Glacial wetlands more ¹³C-enriched (colder → less fractionation); Interglacial wetlands more depleted; Sink fractionation also climate-dependent; AMP (aerobic plant methane) scenario vs non-AMP alters budget interpretation; Key implication: cannot use fixed source signatures for paleo-budgets | — | Potential glacial-interglacial changes in stable carbon isotope ratios of methane sources and sink fractionation | GBC | [10.1029/2006gb002889](https://doi.org/10.1029/2006gb002889) | 28 | ✅ OA | LGM–Holocene |
+| 102 | 2009 | Conrad, Claus, Casper | Lake methanogenesis fractionation (Lake Dagow) | **ε¹³C (CO₂ reduction)**: −50 to −60‰ in sediment; **ε¹³C (acetoclastic)**: −20 to −30‰; CH₃F inhibitor differentiates pathways; ~67% hydrogenotrophic, ~33% acetoclastic in profundal sediment; Produced CH₄ δ¹³C = −65 to −70‰; Demonstrates pathway-dependent fractionation in natural lake system | — | Stable isotope fractionation during methane production in eutrophic lake sediment | L&O | [10.4319/lo.2009.54.2.0457](https://doi.org/10.4319/lo.2009.54.2.0457) | 77 | ✅ OA | Experimental |
+| 103 | 2005 | Nakagawa, Tsunogai, Komatsu | Automobile exhaust δ¹³C + δD (urban source) | **Vehicle exhaust**: δ¹³C = −25.5 to −21.7‰ (¹³C-enriched); δD = −161 to −133‰ (D-enriched); Distinct from biogenic sources; Combustion-derived CH₄ enriched in heavy isotopes; Can elevate urban δ¹³C above background; Important for urban isotope interpretation | δD = −161 to −133‰ | Automobile exhaust as a source of ¹³C- and D-enriched atmospheric methane in urban areas | Org. Geochem. | [10.1016/j.orggeochem.2005.01.003](https://doi.org/10.1016/j.orggeochem.2005.01.003) | 40 | ❌ PW | 2002–2003 |
+| 104 | 2007 | Börjesson, Samuelsson, Chanton | Swedish landfill isotope oxidation quantification | Oxidation efficiency: 10–52% across 6 sites (isotope-based); Fresh waste areas: higher oxidation; Old capped areas: lower emission but also lower oxidation fraction; Confirms δ¹³C shift of +10 to +20‰ through oxidation layer; εox = −22 to −25‰ consistent with culture studies | — | Methane Oxidation in Swedish Landfills Quantified with the Stable Carbon Isotope Technique | EST | [10.1021/es062735v](https://doi.org/10.1021/es062735v) | 94 | ❌ PW | 2004–2005 |
+| 105 | 2006 | Chen, Prinn | Global inversion 1996–2001 (3D CTM) | Global emissions: 526–545 Tg/yr; Strong interannual variability from wetlands + BB; 1997/1998 El Niño: increased BB offset by decreased wetlands; No primary isotope data but emission fields constrain isotopic interpretation | — | Estimation of atmospheric methane emissions between 1996 and 2001 | JGR-Atmos. | [10.1029/2005jd006058](https://doi.org/10.1029/2005jd006058) | 377 | ✅ OA | 1996–2001 |
+| 106 | 2002 | Cunnold, Steele, Fraser | GAGE/AGAGE 15-yr CH₄ record (in situ) | 15-year continuous CH₄ at 5 stations (1985–2000); Growth rate decline from ~13 ppb/yr (1985) to near-zero (1999); NH-SH gradient: ~150 ppb; Consistent with source stabilization or sink increase; Provides atmospheric trend context for isotopic studies | — | In situ measurements of atmospheric methane at GAGE/AGAGE sites 1985–2000 | JGR-Atmos. | [10.1029/2001jd001226](https://doi.org/10.1029/2001jd001226) | 179 | ✅ OA | 1985–2000 |
+| 107 | 2005 | Fisher, Lowry, Wilkin | CAIS methodology for δ¹³C + δD measurement | High-precision continuous-flow IRMS; δ¹³C precision: ±0.05‰; δD precision: ±1.5‰; Enables routine atmospheric monitoring; Key analytical advance enabling the isotope-based budget studies of this era | — | High-precision automated stable isotope analysis of atmospheric methane and CO₂ | Rapid Commun. Mass Spectrom. | [10.1002/rcm.2300](https://doi.org/10.1002/rcm.2300) | 171 | ❌ PW | Methodology |
 
 ---
 
@@ -284,6 +308,7 @@
 | Microbial seeps | −90 to −55 | — | — | Etiope 2019 |
 | Geothermal | −25 to −15 | — | — | Etiope 2019 |
 | Geologic seepage global (Etiope 2012) | −50 to −30 (thermogenic) | 42–64 Tg/yr total | — | Etiope 2012 |
+| Geologic seepage reappraisal (Etiope 2008) | −50 to −30 (thermogenic) | 42–64 Tg/yr | — | Etiope 2008 (GRL) |
 | Natural geological (¹⁴C-constrained) | — | ~1.6 Tg/yr only | — | Hmiel 2020 |
 | **Geological seep δ¹³C-C1 (global, n=238)** | −70 to −20 (thermogenic seeps) | Similar distribution to reservoir gas | 238 seeps | Etiope 2025 (Comm Earth Env) |
 | **Seep diagnostic: δ¹³C-CO₂ > +5‰** | 51% of seeps vs 8% of reservoirs | Secondary methanogenesis signature | 5,421 reservoirs | Etiope 2025 |
@@ -364,6 +389,12 @@
 | Wetlands (Ghosh 2015 budget) | — | −59 | — | Ghosh 2015 (Table 1) |
 | Wetlands (Warwick 2016 Arctic) | −70 to −60 | — | — | Warwick 2016 (Table 1) |
 | End pit lake (oil sands, microbial) | −60 to −65 | — | — | Gonzalez Moguel 2022 |
+| **ARCTIC LAKES (Walter Anthony 2008)** | | | |
+| Arctic lake ebullition — point sources | −70 to −58 | — | — | Walter Anthony 2008; Holocene organics |
+| Arctic lake ebullition — hot spots | −48 to −37 | — | — | Walter Anthony 2008; Pleistocene/thermogenic |
+| Arctic lake ebullition — background | −75 to −65 | — | — | Walter Anthony 2008; diffusive, most depleted |
+| Wetland transport effect (Chanton 2005) | −80 to −50 | — | — | Chanton 2005; range depends on transport mode |
+| Lake sediment produced CH₄ (Conrad 2009) | −70 to −65 | — | — | Conrad 2009; Lake Dagow (eutrophic) |
 | **WET — ESSD 2026** | −73.6 to −18.2 | **−58.6** | — | Thanwerdas 2026 (Table 1) |
 | **WET prior (ACP 2024 inversion)** | — | −60.8 | — | Thanwerdas 2024 (Table 2); boreal −360‰ δD, tropical −320‰ δD |
 | **Laptev Sea — inner shelf (microbial, Keeling)** | — | **−72 ± 2** | 4 years | Tõnisson 2026 (Comm Earth Env); above pycnocline: −73 ± 3 |
@@ -383,6 +414,10 @@
 | BB (Warwick 2016 Arctic) | −27 to −25 | — | — | Warwick 2016 (Table 1) |
 | BB (Bousquet 2011 inversion) | — | −21.8 | — | Bousquet 2011 |
 | **BB — ESSD 2026** | −26.7 to −12.6 | **−24.3** | — | Thanwerdas 2026 (Table 1) |
+| **COMBUSTION / VEHICLE** | | | |
+| Vehicle exhaust (Nakagawa 2005) | −25.5 to −21.7 | — | — | Nakagawa 2005; ¹³C- and D-enriched |
+| Savanna BB (Lassey 2007 pre-industrial) | — | −12 | — | Lassey 2007 (Table 1, C₄) |
+| Forest BB (Lassey 2007 pre-industrial) | — | −25 | — | Lassey 2007 (Table 1, C₃) |
 | **BB prior (ACP 2024)** | — | −22.3 (BB); −24.9 (regional); Biofuel: −20.0 | — | Thanwerdas 2024 (Tables 2–3) |
 | **RICE PADDIES** | | | | |
 | Rice paddies (Sherwood) | −67.2 to −54.0 | −62.2 ± 3.9 | 253 | Sherwood 2017 |
@@ -422,6 +457,24 @@
 | **CLUMPED ISOTOPES (Δ₁₈)** | | | |
 | Thermogenic gas (Stolper 2015) | Δ₁₈ = 0.8–2.5‰ | Formation T = 157–221°C | — | Stolper 2015 (Science) |
 | Biogenic gas (Stolper 2015) | Δ₁₈ = 3.3–5.5‰ | Formation T = 2–40°C | — | Stolper 2015 |
+| **SINK FRACTIONATION (KIE)** | | | |
+| OH sink ε¹³C | — | −4.65 ± 0.75 | — | Lassey 2007 (Table 2) |
+| Soil sink ε¹³C | — | −20 ± 2 | — | Lassey 2007 (Table 2) |
+| Stratospheric sink ε¹³C | — | −3 ± 3 | — | Lassey 2007 (Table 2) |
+| Cl sink ε¹³C | — | −60 ± 1 | — | Allan 2007; Lassey 2007 |
+| Total sink ε¹³C (weighted) | — | −7.7 ± 1.4 | — | Lassey 2007 (Table 2 bottom-up) |
+| Aerobic oxidation ε¹³C | −25 to −22 | — | — | Kinnaman 2006 (pure cultures) |
+| Aerobic oxidation εD | −295 to −145 | — | — | Kinnaman 2006 |
+| Landfill oxidation ε¹³C | −25 to −22 | — | — | Börjesson 2007 (Swedish landfills) |
+| **PRE-INDUSTRIAL BUDGET (Lassey 2007 Table 1)** | | | |
+| Pre-industrial total source δ¹³C | — | −56.1 ± 3.6 | — | Lassey 2007; 252 Tg/yr |
+| Pre-industrial wetlands | — | −60 | 163 Tg/yr | Lassey 2007 (Table 1) |
+| Pre-industrial termites | — | −57 | 20 Tg/yr | Lassey 2007 |
+| Pre-industrial oceans | — | −40 | 15 Tg/yr | Lassey 2007 |
+| Pre-industrial wild animals | — | −62 | 15 Tg/yr | Lassey 2007 |
+| Pre-industrial geologic | — | −40 | 4 Tg/yr | Lassey 2007 |
+| Pre-industrial rice | — | −64 | 10 Tg/yr | Lassey 2007 |
+| Pre-industrial wildfires | — | −25 | 5 Tg/yr | Lassey 2007 |
 | **ASIAN SOURCE MIX** | | | | |
 | South Asia excess (UT Keeling) | — | −56.5 | — | Umezawa 2012 |
 | East Asia excess (UT Keeling) | — | −49.6 | — | Umezawa 2012 |
@@ -479,6 +532,11 @@
 | Rice (Warwick 2016) | — | −320 | Warwick 2016 (Table 1) |
 | Waste (Warwick 2016) | — | −300 | Warwick 2016 (Table 1) |
 | Inland waters | — | −296 (median) | Douglas 2021 |
+| **ARCTIC LAKES δD (Walter Anthony 2008)** | | |
+| Arctic lake point sources δD | −380 to −310 | — | Walter Anthony 2008 |
+| Arctic lake hot spots δD | −300 to −240 | — | Walter Anthony 2008 |
+| **VEHICLE EXHAUST δD** | | |
+| Vehicle exhaust δD (Nakagawa 2005) | −161 to −133 | — | Nakagawa 2005; D-enriched |
 | Freshwater global (flux-weighted) | — | −310 ± 15 | Douglas 2021 |
 | Global source δ²H | — | −278 ± 15 | Douglas 2021 |
 | Global updated weighted | — | −192 ± 7 | Menoud 2022 |
@@ -551,8 +609,14 @@
 | 6 | Data extraction: Stolper 2015 | Δ₁₈ clumped isotope thermometry for thermogenic vs biogenic |
 | 6 | Data extraction: Okumura 2016 | Methanogenesis fractionation factors (ε¹³C and εD) |
 | 6 | Entries 63–83 added to main table + summary tables updated | 21 new entries covering 2010–2016 era |
+| 7 | OpenAlex systematic search (2002–2010) | 25 key papers identified; Bousquet 2006, Ferretti 2005, Keppler 2006, Dlugokencky 2009/2003, Walter Anthony 2008, Etiope 2008, Lassey 2007, Allan 2007, Tyler 2007, Mischler 2009, etc. |
+| 7 | MinerU extraction attempted (21 DOIs) | All failed (publisher blocks); Lassey 2007 extracted via direct PDF + PyMuPDF |
+| 7 | Data extraction: Lassey 2007 Tables 1+2 | Complete pre-industrial source δ¹³C inventory (13 categories) + sink KIE values |
+| 7 | Data extraction: Walter Anthony 2008 (abstract) | Arctic lake ebullition δ¹³C + δD for 3 categories |
+| 7 | Data extraction: Kinnaman 2006, Allan 2007 (abstracts) | Oxidation KIE (ε¹³C, εD) + Cl sink KIE |
+| 7 | Entries 84–107 added to main table + summary tables updated | 24 new entries covering 2002–2010 era |
 
 ---
 
-*Database v3.0 | Generated: 2026-05-03 | 83 papers, 68 with verified isotope data*
-*110+ distinct δ¹³C source categories + 65+ δD categories documented*
+*Database v4.0 | Generated: 2026-05-03 | 107 papers, 87 with verified isotope data*
+*130+ distinct δ¹³C source categories + 75+ δD categories + sink KIE section documented*
