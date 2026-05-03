@@ -1,0 +1,824 @@
+communications earth & environment
+Article
+https://doi.org/10.1038/s43247-024-01990-8
+Methane-rich gas emissions from natural
+geologic seeps can be chemically
+distinguished from anthropogenic leaks
+Check for updates
+Lisa J. Molofsky
+1
+, Giuseppe Etiope2,3, Daniel C. Segal4 & Mark A. Engle1
+Fossil methane, a key component of the atmospheric greenhouse gas budget, is emitted by fugitive
+leaks from petroleum industry activities and natural geologic seepage. Since the gas from these two
+sources can exhibit similar isotopic compositions, differentiating them using atmospheric
+observations is often challenging. Here, we provide a conceptual model that helps distinguish the two
+sources. Using molecular and isotopic data from global seep and reservoir gas inventories, and new
+seep analyses from major hydrocarbon-bearing basins in California, we identify six post-genetic
+changes in gas chemistry. These changes include alterations of molecular ratios among alkanes
+(ethane, propane, and butane) and 13C enrichment of propane and carbon dioxide due to oxidation and
+secondary methanogenesis. Such changes are typical of seepage, and do not occur in deep reservoir
+gas that may leak during extraction and transport. Our model can aid in source attribution of fossil gas
+analyzed in airborne or ﬁeld surveys and serve as a foundation for future work on regional emissions of
+natural gas.
+Fossil methane (CH4), the radiocarbon-free hydrocarbon produced by
+ancient thermogenic or microbial processes in sedimentary rocks and used
+as an energy resource, is an important component of the atmospheric
+greenhouse gas budget contributing to climate changes1–3. It is released to
+the atmosphere through the Earth’s natural degassing (i.e., geologic
+seepage), with an estimated global emission of ~45 [27–63] Tg CH4 yr−12,4
+(see also ref. 5 and ref. 6 for debates and uncertainties regarding global
+emission estimates), and through anthropogenic, fugitive emissions from
+oil–gas industry activities, including petroleum production, transport, and
+reﬁning, with a global emission estimate of ~91 [73–118] Tg yr−12. Ther-
+mogenic gas accumulations account for approximately 80% of the world’s
+natural gas resources7; consequently, the majority of fossil methane emis-
+sions are thermogenic8.
+Fossil gas emitting sites are assessed by means of ground-based mea-
+surements and by satellite and aircraft observations9–14. Yet, if the emitting
+source is unknown, it can be challenging to differentiate fugitive hydro-
+carbon leaks from natural seepage because both frequently have the same
+origin (i.e., the underlying gas reservoir). As a result, their molecular and
+isotopic compositions may overlap. In particular, the stable C isotopic
+composition of CH4 (δ13C–C1) of natural seepage and underground reser-
+voirs can be isotopically indistinguishable15–17. Consequently, certain
+atmospheric observations centered on fugitive emissions may inadvertently
+include gas from natural seepage, which is common in many oil and gas
+production regions, and can contribute to elevated methane in ground-
+water, the soil, and the atmosphere10,18,19. There are also many instances of
+ground-based measurements where it is unclear whether a surface gas
+manifestation (a bubbling pool, a ﬂame from the soil) represents a natural
+seep or a well or pipeline leak (stray gas)20–22. In addition, in ecosystems with
+methanogenic activity (e.g., wetlands, rice paddies, and lakes), natural seeps
+may be erroneously interpreted as modern microbial gas emissions23,24.
+Although gas emissions from oil and gas infrastructure leaks and
+natural seepage commonly originate from the same underlying reservoir,
+they differ in their pathways to the surface. Leaking gas from oil and gas
+infrastructure follows direct and relatively rapid transport pathways from
+the reservoir to the surface (i.e., oil and gas wellbores and underground
+pipelines). Accordingly, fugitive emissions typically exhibit an indis-
+tinguishable molecular and isotopic composition from reservoir gas25.
+Natural seepage, by contrast, often follows more circuitous natural path-
+ways, such as faults or fractures, to move from the reservoir to the surface.
+This longer subsurface residence time, and potential for greater interaction
+with groundwater, can lead to more extensive chemical alterations.
+Here, we show that natural hydrocarbon seeps can actually exhibit
+diagnostic chemical (molecular and isotopic) characteristics that can be
+appliedtodiscriminatenaturalvsanthropogenichydrocarbonemissionsfor
+1Department of Earth, Environmental and Resource Sciences, The University of Texas at El Paso, El Paso, TX, USA. 2Istituto Nazionale di Geoﬁsica e Vulcanologia,
+Sezione Roma 2, Rome, Italy. 3Faculty of Environmental Science and Engineering, Babes-Bolyai University, Cluj-Napoca, Romania. 4Chevron Environment and
+Sustainability, San Ramon, CA, USA.
+e-mail: lmolofsky@utep.edu
+Communications Earth & Environment |  (2025) 6:11 
+1
+1234567890():,;
+1234567890():,;
+both ground-based and atmospheric measurements. We used global data-
+sets of seeps and reservoir gas geochemistry (CH4 and CO2 isotopic com-
+position, and methane to ethane + propane ratio, from 238 thermogenic
+natural seep samples and 5421 conventional thermogenic reservoir gas
+samples;see“Dataavailability”)toevaluatethewidespreaddimensionofthe
+geochemical alterations due to seepage. For a detailed investigation
+exploring additional seepage proxies scarcely reported in the global datasets
+(e.g., the relative abundance of alkanes up to C6+, stable C isotopic com-
+position of ethane (δ13C–C2) and propane (δ13C–C3)), new data were
+obtained from 18 surface free-phase gas manifestations located in ﬁve
+hydrocarbon-bearing basins in California, USA, which are representative of
+the region’s extensive petroleum resources (Fig. 1 and Supplementary
+Fig. 1). The investigated surface gas manifestations are predominantly
+natural seeps documented in the historical literature that pre-date local oil
+and gas extraction activities (e.g., La Brea tar pits), or for which there is no
+nearby anthropogenic source (e.g., an oil or gas well). Utilizing this com-
+prehensive dataset, we show that natural emissions can frequently be dis-
+tinguished from fugitive anthropogenic emissions by identifying an
+ensemble of post-genetic changes in thermogenic gas composition that
+occur during natural migration from reservoir to surface. Understanding
+these compositional changes may allow for improved identiﬁcation of both
+natural seepage and fugitive leak contributions to atmospheric emissions in
+ground-based and remote sampling.
+Results
+Global datasets of natural seep and reservoir gas geochemistry
+The global datasets of thermogenic natural gas seepage (238 samples) and
+conventional thermogenic reservoir gas (5421 samples) display a similar
+distribution of δ13C–C1 values (Fig. 2a). Such a similarity conﬁrms the lack
+of isotopic fractionation during advective migration, as indicated in pre-
+vious works15–17,26,27. However, there are notable differences in the dis-
+tributions of C1/(C2 + C3) ratios and δ13C–CO2 values for these datasets
+(Fig. 2b, c, respectively). Speciﬁcally, 85% of reservoir gas samples exhibit a
+C1/(C2 + C3) ratio less than 100, as compared to only 25% of seepage
+samples. Rather, seepage samples exhibit a broad range of C1/(C2 + C3)
+ratios, with more than a third (38%) displaying ratios greater than 1000.
+Reservoirgassamplesalsoexhibitanarrowerrangeofδ13C–CO2valuesthan
+seepage samples, with 92% of reservoir samples displaying δ13C–CO values
+between −20 and +5‰. By comparison, seepage gas samples exhibit a
+much wider distribution of δ13C–CO2 values, with over half (51%) of see-
+page samples displaying positive δ13C–CO2 values greater than +5‰.
+These data point to a widespread difference between seeps vs reservoir
+gas (equivalent to fugitive emissions) geochemistry. The increased
+C1/C2 + C3 ratio and the 13C-enrichment in CO2 of seeps, mainly due to
+molecular fractionation during migration and secondary methanogenesis
+(as explained in more detail below), were already recognized for some
+regions, such as in the seepage systems of Azerbaijan, Trinidad, Italy, and
+Romania15,16,28.
+Seep and reservoir gas geochemistry in California
+Themolecularand isotopic compositionsof CH4and CO2 forall surface gas
+manifestations investigated in the ﬁve basins in California (Supplementary
+Fig. 1) are consistent with thermogenic origin, in some cases likely admixed
+with microbial gas (Fig. 3). Speciﬁcally, on the updated genetic diagrams of
+methane, based on more than 20,0000 data globally29, i.e., δ13C–C1 vs C1/
+(C2 + C3) (Fig. 3a) and δ13C–C1 vs δ2H–C1 (Fig. 3b), the samples pre-
+dominantly plot in the characteristic oil-associated thermogenic gas ﬁeld,
+and for a subset of samples, within early-mature and late-mature thermo-
+genic gas ﬁelds. Approximately half the surface manifestations exhibit a
+methane contribution from secondary methanogenesis, a typical post-
+geneticprocessrelatedto petroleumbiodegradationobserved inmanyseeps
+worldwide28. This conclusion is supported by the presence of positive
+δ13C–CO2 values (Fig. 3c). One sample from the Salmon Creek surface
+manifestation exhibited particularly 13C-enriched CH4, but a δ2H–C1 value
+outside the thermogenic zonation of Milkov and Etiope29 (Fig. 3b). The
+lower δ2H–C1 value could reﬂect a higher interaction with groundwater
+(partial equilibration with water’s hydrogen) likely due to longer residence
+time in aquifers. This aspectwill be discussed in more detail later as it can be
+diagnostic of a natural seepage process. In sum, all gas manifestations in this
+dataset derive from reservoirs of natural gas generated via catagenesis in
+mature source rocks, which represent the dominant geological source of
+hydrocarbons in California30–32.
+To better understand the chemical and isotopic characteristics of
+natural gas seeps, we compared compositional and isotopic data from the
+surfacegas manifestations to available gas data from local reservoirs (i.e., see
+“Data availability”). Collectively, data from both surface gas manifestations
+Fig. 1 | Location of surface gas manifestations in California and schematic
+representation of natural seepage and anthropogenic leakage. a Map showing the
+18 surface gas manifestations investigated in this work, as well as the locations of
+published seepage data30,44,59–62; (b) Schematic representation of natural geologic
+seepage vs leakage from a buried plugged oil and gas well. Petroleum basins are from
+the California Geological Survey70 and aerial imagery is provided by Esri71.
+https://doi.org/10.1038/s43247-024-01990-8
+Article
+Communications Earth & Environment |  (2025) 6:11 
+2
+Fig. 2 | Distribution of stable C isotope ratio of methane, C1–C3 composition, and
+stable C isotope ratio of carbon dioxide for global datasets of thermogenic nat-
+ural seepage gas vs conventional thermogenic reservoir gas. a δ13C–C1; b C1/
+(C2 + C3); c δ13C–CO2, where C1: methane; C2: ethane; and C3 propane. The source
+of the data is reported in “Data availability”.
+Fig. 3 | The surface gas manifestations in California within the natural gas genetic
+diagrams. a C1/(C2 + C3) vs δ13C–C1; b δ2H–C1 vs δ13C–C1; and c δ13C–CO2 vs
+δ13C–C1. Additional published data are shown as an x symbol. Genetic plots from
+Milkov and Etiope29. CR = CO2 reduction, F = fermentation, SM = secondary
+methanogenic, EMT = early mature thermogenic, LMT = late mature thermogenic,
+OA = oil associated.
+https://doi.org/10.1038/s43247-024-01990-8
+Article
+Communications Earth & Environment |  (2025) 6:11 
+3
+and local hydrocarbon reservoirs were available in the La Brea, Upper Ojai
+Valley, Wiley Canyon, San Ardo, and Eel River areas.
+The majority (>90%) of surface gas manifestations exhibit lower
+quantities of C2 and/or C3, denoted by a higher C1/(C2 + C3) ratio, com-
+pared to the underlying reservoir. This ﬁnding is compatible with the global
+patterndiscussedabove.Afew(<10%),however,exhibitC1/(C2 + C3)ratios
+approaching that of local reservoir gas. For example, in the La Brea area, the
+gas released at the intersection of Wilshire Boulevard and Curson Avenue8
+exhibits a C1/(C2 + C3) ratio only slightly higher than that of the local
+reservoir (Salt Lake ﬁeld; Figs. 4a and 5a). This manifestation is character-
+ized by particularly high gas emissions, prompting the city authorities to
+install a permanent passive ventilation system in 1999. Similarly, the Hamp
+FeeBattery(UpperOjaiValley;Figs.4band5c)andWileyCanyon-2(Wiley
+Canyon;Fig.5b)arecharacterizedbyC1/(C2 + C3)ratiosapproachingthose
+of local reservoir gases, as well as high gas ﬂuxes, inferred from instanta-
+neous exceedances of the methane lower explosive limit (LEL) 15 cm above
+the point of surface manifestation.
+The stable C isotope composition (δ13C–C1) of surface manifestations
+is not markedly different (i.e., typically <5‰) from that of reservoir gas
+(Fig. 4), as observed for the global pattern. However, the stable H isotope
+composition (δ2H–C1), δ13C–CO2, δ13C–C3, C2/C3, and iC4/nC4 ratios of
+surface manifestations can exhibit substantial differences vs gas from local
+reservoirs. For example, in the Upper Ojai and San Ardo areas, three of the
+four surface manifestations with δ2H–C1 data were characterized by >60‰
+δ2H–C1 enrichment compared to the local reservoir (Supplementary Fig. 3).
+More than half of the sampled surface manifestations contain CO2 > 10
+vol.%, and virtually all of these are characterized by δ13C–CO2 > +10‰
+(Supplementary Fig. 5). Nevertheless, within local seepage areas (e.g., La
+Brea),surface manifestations may exhibit a widespread ofδ13C–CO2 values,
+e.g., from +27‰ to −25‰, though the δ13C–C1 composition changes very
+little. Several surfacemanifestations exhibit higher C2/C3 and iC4/nC4 ratios
+relative to local reservoir gases. As an example, detected C2/C3 and iC4/nC4
+ratios of La Brea manifestations are as high as 6.2 and 23 respectively, which
+are markedly higher than the same ratios in the reservoir gas (2.7 and 0.6,
+respectively). δ13C of C2 and C3 data were only available for reservoir gases
+fromtheLaBreaandUpperOjaiValley;thesedatawerecomparedtothatof
+local surface manifestations (Supplementary Fig. 6). The majority of the
+surface manifestations in the La Brea area exhibited similar δ13C of C2, and
+C3 (i.e., within ±5‰) to that of local reservoir gases. However, within the
+Upper Ojai Valley, several surface manifestations exhibited markedly
+enriched δ13C–C3 (i.e., >+25‰) relative to reservoir gas.
+Discussion
+Conceptual model of chemical changes during thermogenic
+natural gas seepage
+Combiningtheresultsofouranalysesandliteraturedata,wehavedeveloped
+a conceptual model describing molecular and isotopic alterations that are
+speciﬁcto gas seepage,and thatcanaid in the differentiationofnaturalseeps
+from anthropogenic leaks of thermogenic gas. As described below, we
+identiﬁed six primary post-genetic changes in gas chemistry during the
+natural migration of thermogenic reservoir gases to the surface (Fig. 6).
+Observations of these alterations in data suggest contributions from natural
+Fig. 4 | Comparison between surface manifestations and local reservoirs in terms of C1–C3 composition and stable C isotope ratio of methane. a The La Brea area; b the
+upper Ojai Valley; c the San Ardo oil ﬁeld area; d the North Eel River Basin; and e the South Eel River Basin. Genetic diagrams as in Fig. 3.
+https://doi.org/10.1038/s43247-024-01990-8
+Article
+Communications Earth & Environment |  (2025) 6:11 
+4
+seepage. This model is intended to be used as a guide to discriminate the
+origin, natural vs anthropogenic, of free-phase gas entering the atmosphere,
+using ground-based or aerial measurements.
+Before discussing the alterations, it is important to note that the stable
+C isotope composition of CH4 (δ13C–C1) is the one parameter that does not
+seem to be substantially modiﬁed during seepage (Figs. 2a and 4). This
+suggests that post-genetic processes that may alter the 13C/12C ratio of C1
+(aerobic and anaerobic microbial oxidation of C1, mixing with microbial
+gases or thermogenic gases with a different δ13C–C1 composition) are
+limited in their effect. Aerobic microbial oxidation is an important process
+actingonC1intheaeratedvadosezonewheregascanaccumulateinsoiland
+sediments33,34. However, in the case of seeps, aerobic microbial oxidation
+may occur in the aerated soil and vadose zone surrounding the seep, but not
+within the oxygen-free gas and water ﬂow of the vent35,36. The lack of sub-
+stantial δ13C–C1 alteration has also been observed in seeps and mud vol-
+canoes in other countries, and supports the assumption that gas migrates
+Fig. 5 | Hydrocarbon molecular composition (from methane to hexane+) of
+surface gas manifestations and local reservoir gases (designated by purple
+square). a La Brea area; b Wiley Canyon, c Upper Ojai Valley; d proximate to San
+Ardo Oil Field; e North Eel River Basin; and f South Eel River basin. Data sources for
+reservoir gases are reported in the “Data availability”.
+https://doi.org/10.1038/s43247-024-01990-8
+Article
+Communications Earth & Environment |  (2025) 6:11 
+5
+dominantlybyadvectionratherthandiffusion(wherethelatterisassociated
+with diffusive isotopic fractionation)15,16,26,37. Note that while evidence of
+secondary methanogenesis is commonly observedin surface manifestations
+(further discussion below), the δ13C–C1 composition of secondary methane
+can be quite similar to that of the parent oil substrate. As a result, secondary
+microbial CH4 may be indistinguishable from oil-associated thermogenic
+CH4,
+and
+therefore
+would
+not
+substantially
+affect
+the
+δ13C–C1
+composition28,38,39. In contrast to δ13C–C1, there were several molecular or
+isotopic parameters that frequently exhibited differences between surface
+gas manifestations and underlying reservoir gas. These are discussed below.
+Increased C1/C2+ ratio. The most common change in gas chemistry
+observed during natural seepage is an increase in the C1/C2+ ratio relative
+to reservoir gas (Figs. 2b and 4). The common nature of this change may
+be attributable to the multiple processes (ﬁve out of the seven processes
+shown in Fig. 6) that can contribute to C2+ loss and/or C1 gain. These
+include: the different solubility and adsorption properties of C2+ gases
+relative to methane, secondary methanogenesis, preferential anaerobic
+oxidation of C3 and n-alkanes, and mixing with microbial gas (Fig. 6).
+Changes in δ2H–C1. The stable H isotope composition of CH4, δ2H–C1,
+in surface manifestations, can vary considerably (e.g., >±20‰) from
+reservoir gas, though the direction of this variation is not uniform. 2H
+enrichment in the surface gas can be due to CH4 oxidation, if associated
+with 13C enrichment, as is the case of Hamp Fee Battery, Arco 22 Pad, and
+Los Lobos Spring; Supplementary Fig. 3. The more pronounced enrich-
+ment in δ2H–C1 relative to δ13C–C1 likely reﬂects the larger effect of
+microbial oxidation on the δ2H–C1 vs δ13C–C1 (where δ2H increases by
+8–14 per mil for every 1 per mil enrichment in δ13C34,40). 2H depletion can
+be due to mixing with microbial gas (if associated with 13C depletion, as
+observed in La Brea). Alternatively, 2H depletion can result from pro-
+longed interaction with groundwater, i.e., partial equilibration with
+water’s hydrogen41,42, likely due to longer residence time in aquifers. In
+this case, 2H depletion is not associated with 13C depletion, as observed in
+gas from the Salmon Creek surface manifestation. On a global scale, there
+is nosigniﬁcant difference between themedian δ2H–C1 values for seeps vs
+reservoir gases (Supplementary Fig. 4). The similarity of these datasets
+may reﬂect the fact that post-genetic alteration of δ2H–C1 is not largely
+unidirectional, and therefore, does not impact the central tendency of
+global δ2H–C1 seep vs reservoir data. However, on a site-speciﬁc basis,
+differences between δ2H–C1 of seeps and underlying reservoir gases may
+be readily apparent, as observed for several California seeps sampled in
+this study.
+Increased δ13C–CO2. The enriched δ13C–CO2 composition of many
+surface manifestations (e.g., in the La Brea area and Upper Ojai Valley, as
+well as globally; Supplementary Fig. 5 and Fig. 2b, respectively) is con-
+sistent with secondary methanogenesis by CO2 reduction following
+hydrocarbon biodegradation, where the latter produces CO2 as a reaction
+byproduct43. Secondary methanogenesis commonly occurs within shal-
+low (<2000 m) biodegraded oil-bearing reservoirs28, or during the
+transport of oil and associated ﬂuids (including gases) from these shallow
+reservoirs to the surface. For this reason, positive δ13C–CO2 values are a
+well-established characteristic of oil-associated natural gas seeps15,16. As
+an example, numerous seeps from La Brea exhibit more positive
+δ13C–CO2 values than reservoir gas, which itself is already biodegraded
+and characterized by 13C-enriched CO2. Of interest, a handful of La Brea
+seepage samples exhibit a lower δ13C–CO2 value relative to reservoir gas.
+This decrease in δ13C–CO2 can result from microbial oxidation of
+C1–C6+ (where 13C-depleted CO2 is a reaction byproduct). Overall,
+biodegraded reservoirs are not common in global natural gas production
+(Fig. 2; consequently, fugitive emissions mostly refer to gas produced in
+large, deeper, and non-biodegraded reservoirs with “normal” δ13C–CO2
+values8,29.
+Increased C2/C3 and iC4/nC4 ratios. Many surface manifestations
+exhibit increased C2/C3 and iC4/nC4 ratios relative to reservoir gas
+(Supplementary Tables 1–3), which is indicative of the preferential
+microbial degradation (anaerobic oxidation) of C3 and n-alkanes43. This
+is a noted characteristic of La Brea seepage9,30,44.
+Increased δ13C–C3+.The preferential degradation of C3+ alkanes results
+in 13C-enrichment in these molecules. In Ojai Valley manifestations, we
+observed a large increase of δ13C–C3 (i.e., >+25‰) relative to reservoir
+Fig. 6 | Conceptual model of post-genetic pro-
+cesses affecting seeping gas. The six types of
+alterations are typical of natural seeps (free-phase
+gas) stemming from advective migration from
+reservoirs.
+https://doi.org/10.1038/s43247-024-01990-8
+Article
+Communications Earth & Environment |  (2025) 6:11 
+6
+gas, as compared to δ13C–C1 and –C2 enrichment (i.e., >+5‰) (Sup-
+plementary Fig. 6).
+Conditions when seeping gas is not substantially altered. Three
+surface gas expressions sampled in this study (the intersection of
+Wilshire Boulevard and Curson Avenue, Hamp Fee Battery, Wiley
+Canyon #2) exhibited a molecular and CH4 isotopic composition
+similar to reservoir gas (i.e., negligible C2+ loss or change in δ13C–C1
+or δ2H–C1 where these data were available for reservoir gas; Fig. 4
+and Supplementary Fig. 3). Based on visual observation (e.g., vigor-
+ous bubbling) and/or free-phase gas concentration measurements in
+ambient air exceeding the level of explosivity, these manifestations
+were characterized by higher gas ﬂow rates than other manifestations.
+The correlation between gas ﬂux and the C1/(C2 + C3) ratio is known
+in seepage studies, especially for mud volcanoes24,45. Speciﬁcally,
+higher natural gas seepage ﬂux is inversely related to post-genetic
+alteration; i.e., the higher the gas ﬂux, the higher the gas velocity, and
+therefore, the less time available for gas–water interaction and
+molecular fractionation. All three of these large and very active
+manifestations are located proximate to noted faults (see “Discus-
+sion” in Supplementary Information), which may act as higher per-
+meability migration pathways. As with many of the natural seeps
+sampled in this study, these three manifestations are also located
+proximate (<500 m) to active or historical oil wells, another potential
+source of reservoir gas. We posit that the similarities of natural
+seepage gas to reservoir gas suggest, at the most basic interpretation,
+a more direct migration pathway with higher-volume ﬂow. However,
+Hamp Fee battery gas has a notably more positive δ13C–CO2 value
+(+26.8‰) than local reservoir gases (+8.8 to 10.6‰), which suggests
+that the manifestation is natural. The δ13C–CO2 value for Wiley
+Canyon #2 is also positive (+15.4‰), although δ13C–CO2 data for
+underlying reservoir gases are not available, which prevents further
+interpretation. Concerning the manifestation of Wilshire Boulevard
+and Curson Avenue in Los Angeles, the oil well database of the
+Department of Conservation’s Division of Oil, Gas, and Geothermal
+Resources of California does not report any well at that site, and the
+Los Angeles city ofﬁcials considered the gas leak a natural seepage
+phenomenon9.
+Limitations of approach
+There are certain limitations to this approach. First, it can be difﬁcult to
+deﬁnitively identify the parent reservoir for surface gas manifestations. In
+the studied basins, gases present in vertically stacked reservoirs commonly
+originate from the same source rock and are compositionally similar32.
+Nevertheless, even in the case of multiple potential gas sources, broad
+compositional shifts away from reservoir gas (or gases) would likely be
+identiﬁable. Second, because this model relies on changes to gas chemistry
+during transport, there may be situations where natural gas seepage has
+migrated via a pathway with high ﬂow and short transport time, and
+therefore is indistinguishable from reservoir gas. However, based on the
+global and local datasets presentedherein, suchsituations are the exceptions
+rather than the rule. Third, this model does not apply to hydrocarbon gases
+dissolved in groundwater, which may undergo additional alteration that
+furthermodiﬁes the chemical composition22. Finally, our interpretations are
+based on the scope of available data and known processes at this time.
+Importantly, since the gas alteration processes take place in saturated
+underground sediments and rocks, our model applies equally to onshore
+and offshore systems. However, the application of the model to offshore
+systems should refer to gas sampled at the seabed, not at the seawater
+surface. During the transport of gas from the seabed to the atmosphere,
+additional alteration processes take place, such as dissolution (impacted by
+the differential solubility of alkanes), gas exchange between bubbles and
+seawater, and oxidation which require additional modeling if gas is exam-
+ined at the sea surface. In addition, for deep submarine seeps (i.e.,
+300–400 m), little gas reaches the surface46,47.
+Potential model application
+In focused ground-based surveys, the model, which utilizes the molecular
+and isotopic analyses shown in Fig. 6, can be directly applied by comparing
+the chemical composition of a discrete surface gas manifestation to that of
+unaltered reservoir gas (the source of most fugitive gas leaks). For example,
+identiﬁcationof anyone of the post-genetic alterationmechanismsreported
+in our model may allow for the likely differentiation of a natural seep vs
+fugitive emissions from abandoned and buried oil and gas wells.
+On a larger scale, to attribute and quantify hydrocarbon gas emis-
+sions from seeps vs other sources in local or regional areas of gas-oil
+production, several aerial and ground-based monitoring approaches
+could be applied using the model outlined herein. Numerous studies have
+relied upon aerial or ground-based chemical and isotopic measurements
+to distinguish fugitive fossil emissions from other methane sources (i.e.,
+landﬁlls, wastewater treatment plants, dairy emissions)10,12,18,19,48–52. Che-
+mical tracers utilized in these studies include: (a) the relative abundances
+of C1–C5 alkanes (including n- and i-alkanes) and CO2 to quantify fossil
+gas emissions from natural gas in urban distribution systems and/or
+geologic seeps, as opposed to gases from landﬁlls and dairies52,53; (b)
+δ13C–C1 to characterize emissions from geologic seeps and the oil and gas
+sector (including pipelines and fossil fuels reﬁning)10,51; (c) δ2H–C1 to
+attribute methane emissions from coal mines and oil and gas extraction
+vs wastewater treatment10,49; and (d) δ13C–CO2 to quantify CO2
+anthropogenic vs biogenic CO2 sources48. However, where natural seeps
+were considered, these studies reported that they could not be dis-
+tinguished from anthropogenic leaks of fossil gases53. Utilizing insights
+from this investigation (and outlined in Fig. 6), existing aerial and
+ground-based monitoring approaches may be successfully applied to
+evaluate the relative contributions of natural seeps vs fugitive leaks of
+reservoir gases and other sources of methane. In addition, with the
+dramatic increase in the range of vehicle-based monitoring platforms for
+source attribution and emission estimates in the last decade54–58, such
+platforms may facilitate the monitoring of multiple molecular and iso-
+topic parameters concurrently. More generally, the model can serve as a
+foundation for future work to better understand the relative contribution
+of natural seepage to local and regional methane emissions in thermo-
+genic gas-bearing basins around the world.
+Methods
+Natural gas seeps in California were identiﬁed through a review of the
+Hodgson59 compilation of “Onshore Oil & Gas Seeps in California,” as well
+as numerous scientiﬁc publications and a global seeps dataset9,30,44,60–63. The
+reported locations of active natural seeps were visited in June and July of
+2022. To evaluate where and if natural gas was surfacing, the area imme-
+diately overlying oil or water seepage was screened for methane (i.e., within
+15 cm of the surface) using a Bascom-Turner Gas Explorer Detector, which
+utilizes dual catalytic methane sensors to provide measurements of com-
+bustiblegaseswith20ppmvresolution.Insomeareas(e.g.,CarpinteriaState
+Beach), natural gas seepage was not located during the ﬁeld visit, despite
+previous reports of its presence.
+Eighteen surface gas manifestation samples were collected (Supple-
+mentary Table 1). Out of the 18 individual sampling locations, 12 surface
+manifestations produced oil in addition to gas, and water was observed in
+association with hydrocarbon seepage at six locations. Natural gas was
+concentrated prior to collection using a sampling shield constructed from a
+stainless steel bowl, which could be placed directly above the seepage
+location (Supplementary Fig. 2). Bowls of various sizes were utilized
+depending on the size and nature of surface gas expression. Each bowl was
+outﬁtted with a port on its apex, through which ¼-inch polyethylene tubing
+was threaded. Gas was allowed to be naturally purged via this port while
+natural gas accumulated within the bowl. The concentration of combustible
+gases purging through the tubing was checked at regular intervals using the
+Bascom Turner Gas Explorer Detector. When combustible gas concentra-
+tions were sufﬁciently high (e.g., greater than 5% v/v), a hand squeeze bulb
+was used to ﬁll a pre-evacuated IsoBag™from Isotech Laboratories (Isotech)
+https://doi.org/10.1038/s43247-024-01990-8
+Article
+Communications Earth & Environment |  (2025) 6:11 
+7
+with approximately 300 cm3 of the collected gas. At select locations with
+lower relative gas production rates, IsoBags™were ﬁlled at lower accumu-
+latedcombustiblegasconcentrations(e.g.,greaterthan500partspermillion
+by volume (ppmv)). At a single seepage location (Los Lobos Spring), a
+dissolved gas sample was collected in an IsoFlask™per the methods
+described in ref. 64. In addition to samples of surface manifestation gas, a
+sample of dissolved reservoir gas was collected using an IsoFlask™container
+from a tank containing a mixture of produced water from multiple oil wells
+in the San Ardo oil ﬁeld, and two samples of reservoir gas were collected in a
+300 cubic centimeter double-ended steel gas cylinder directly from the
+bradenhead of oil wells in the Silverthread oil ﬁeld.
+Gas samples were analyzed for C1–C6+ hydrocarbons and non-
+hydrocarbon gases (CO2, Ar, O2, and N2) by Isotech Laboratories
+(Isotech), in Champaign, Illinois on a Shimadzu 2010 Gas Chro-
+matograph (GC) equipped with both a thermal conductivity detector
+(TCD) and ﬂame ionization detector (FID). Reported analytical
+errors of external standards are as follows: C1–C4: ±5%, C5–C6+:
+±10%, N2, CO2, O2, and Ar: ±10%. For samples where gas con-
+centrations were sufﬁcient, δ13C and δ2H of C1, and δ13C of C2, C3,
+and CO2 were analyzed via dual-inlet isotope ratio mass spectrometer
+(DI-IRMS) using a Finnigan MAT Delta S Isotope Ratio Mass
+Spectrometer (δ13C of C1, C2, C3, and CO2) and a Finnigan Delta Plus
+XL isotope ratio mass spectrometer (δ2H of C1). δ13C and δ2H values
+are reported relative to VPDB and VSMOW, respectively, on a scale
+deﬁned by two-point calibration of LSVEC and NBS19 reference
+standards (δ13C), and VSMOW2 and SLAP2 reference standards
+(δ2H). Two-sigma errors for δ13C and δ2H measurements of gases are
+±0.2‰ and ±7‰. For select samples where concentrations of C1, C2,
+C3, or CO2 were insufﬁcient for isotopic analysis by DI-IRMS,
+samples were analyzed using gas chromatography combustion iso-
+tope ratio mass spectrometry (GC-C-IRMS) at Isotech for δ13C and
+δ2H with 2-sigma errors of ±0.6‰ and ±10‰, respectively. Gas
+analytical data were corrected for air contamination during sampling
+based on the atmospheric N2/O2 ratio.
+Reporting summary
+Further information on research design is available in the Nature Portfolio
+Reporting Summary linked to this article.
+Data availability
+Global reservoir gas geochemistry. We used the molecular and isotopic
+composition of conventional thermogenic reservoir gases from ref. 65.
+Global seep gas geochemistry: we used the molecular and isotopic com-
+position of thermogenic natural gas seepage from the Organic Geochem-
+istry Data from Frogi and Fluid Features Database (CGG63, with license
+restrictions), with additional data from the following sources: Baciu et al.15;
+Etiope et al.28; Jeffrey et al.30; Tassi et al.66; Zheng et al.67. For both global
+datasets (reservoir and seep gas geochemistry), only samples with δ13C–C1
+values consistent with mature thermogenic gas, with limited or no mixing
+with microbial gas (>−50‰, based on natural gas genetic diagrams from
+Milkov and Etiope29) were utilized. California reservoir gas geochemistry:
+we used data from producing oil and gas wells obtained from this study and
+from Duffy et al.60; Jeffrey et al.30; Lorenson et al.61; and Termco Company68
+(Supplementary Table 3). California seep gas geochemistry: in addition to
+theoriginaldataacquiredinthiswork,whichareavailableinSupplementary
+Table1,weusedavailabledataonthemolecularandisotopiccompositionof
+California naturalgasseepagefromDuffyetal.60;Etiopeetal.9;Jeffreyetal.30;
+Lorenson et al.; Weber et al.44; and Weed et al.62 (Supplementary Table 2).
+The data that support the ﬁndings of this study are available in the Figshare
+data repository (https://doi.org/10.6084/m9.ﬁgshare.28012691)69 and in the
+Supplementary Information.
+Received: 8 August 2024; Accepted: 30 December 2024;
+References
+1.
+Ganesan, A. L. et al. Advancing scientiﬁc understanding of the global
+methane budget in support of the Paris agreement. Glob.
+Biogeochem. Cycles 33, 1475–1512 (2019).
+2.
+Saunois, M. et al. The global methane budget 2000–2017. Earth Syst.
+Sci. Data 12, 1561–1623 (2020).
+3.
+Schwietzke, S. et al. Upward revision of global fossil fuel methane
+emissions based on isotope database. Nature 538, 88–91 (2016).
+4.
+Etiope, G. & Schwietzke, S. Global geological methane emissions: an
+update of top–down and bottom–up estimates. Elementa 7, 1–9
+(2019).
+5.
+Thornton, B. F. et al. Conﬂicting estimates of natural geologic
+methane emissions. Elem. Sci. Anth. 9, 00031 (2021).
+6.
+Hmiel, B. et al. Preindustrial 14CH4 indicates greater anthropogenic
+fossil CH4 emissions. Nature 578, 409–412 (2020).
+7.
+Rice, D. D. Biogenic gas: controls, habitats, and resource potential,
+Vol. 1570. In Future Energy Gases—U.S., Geological Survey
+Professional Paper (ed. Howell, D.G.) 585–606 (United States
+Government Printing Ofﬁce, Washington, 1993).
+8.
+Sherwood, O. A., Schwietzke, S., Arling, V. A. & Etiope, G. Global
+inventory of gas geochemistry data from fossil fuel, microbial and
+burning sources, version 2017. Earth Syst. Sci. Data 9, 639–656
+(2017).
+9.
+Etiope, G., Doezema, L. A. & Pacheco, C. Emission of methane and
+heavier alkanes from the La Brea Tar Pits Seepage Area, Los Angeles.
+J. Geophys. Res. 122, 12,008–12,019 (2017).
+10. Menoud, M. et al. CH4 isotopic signatures of emissions from oil and
+gasextraction sitesinRomania.ElementaSci.Anthropocene 10,1–16
+(2022).
+11. Cusworth, D. H. et al. Using remote sensing to detect, validate, and
+quantify methane emissions from California solid waste operations.
+Environ. Res. Lett. 15, 54012 (2020).
+12. Jacob, D. J. et al. Satellite observations of atmospheric methane and
+their value for quantifying methane emissions. Atmos. Chem. Phys.
+16, 14371–14396 (2016).
+13. Mazzini, A. et al. Relevant methane emission to the atmosphere from a
+geological gas manifestation. Sci. Rep. 11, 1–10 (2021).
+14. Mielke-Maday, I. et al. Methane source attribution in a U.S. Dry gas
+basin using spatial patterns of ground and airborne ethane and
+methane measurements. Elementa 7, 13 (2019).
+15. Baciu, C., Ionescu, A. & Etiope, G. Hydrocarbon seeps in Romania:
+gas origin and release to the atmosphere. Mar. Pet. Geol. 89, 130–143
+(2018).
+16. Etiope, G., Feyzullayev, A. & Baciu, C. Terrestrial methane seeps and
+mud volcanoes: a global perspective of gas origin. Mar. Pet. Geol. 26,
+333–344 (2009a).
+17. Fuex, A. N. Experimental evidence against an appreciable isotopic
+fractionation of methane during migration. Phys. Chem. Earth 12,
+725–732 (1980).
+18. Jeong, S., Millstein, D. & Fischer, M. L. Spatially explicit methane
+emissions from petroleum production and the natural gas system in
+California. Env. Sci. Technol. 48, 5982–5990 (2014).
+19. Wennberg, P. O. et al. On the sources of methane to the Los Angeles
+atmosphere. Env. Sci. Technol. 46, 9282–9289 (2012).
+20. Etiope,G., Drobniak,A. & Schimmelmann, A. Natural seepageof shale
+gas and the origin of “ eternal ﬂames” in the Northern Appalachian
+Basin, USA. Mar. Pet. Geol. 43, 178–186 (2013).
+21. McIntosh, J. C. et al. A critical review of state-of-the-art and emerging
+approaches to identify fracking-derived gases and associated
+contaminants in aquifers. Env. Sci. Technol. 53, 1063–1107 (2019).
+22. Molofsky,L. J. et al. A reviewof physical, chemical, and hydrogeologic
+characteristics of stray gas migration: Implications for investigation
+and remediation. Sci. Total. Environ. 779, 146234 (2021).
+23. Douglas, P. M. J. et al. Diverse origins of Arctic and Subarctic
+methane point source emissions identiﬁed with multiply-
+https://doi.org/10.1038/s43247-024-01990-8
+Article
+Communications Earth & Environment |  (2025) 6:11 
+8
+substituted isotopologues. Geochim. Cosmochim. Acta 188,
+163–188 (2016).
+24. Etiope, G., Nakada, R., Tanaka, K. & Yoshida, N. Gas seepage from
+Tokamachi mud volcanoes, onshore Niigata Basin (Japan): origin,
+post-genetic alterations and CH4–CO2 ﬂuxes. Appl. Geochem. 26,
+348–359 (2011).
+25. Schout, G., Grifﬁoen, J., Hassanizadeh, S. M., Cardon de Lichtbuer,
+G. & Hartog, N. Occurrence and fate of methane leakage from cut and
+buried abandoned gas wells in the Netherlands. Sci. Total. Environ.
+659, 773–782 (2019).
+26. Igari, S. & Sakata, S. Chemical and isotopic compositions of natural
+gases from the Japanese major oil and gas ﬁelds: origin and
+compositional change due to migration. Geochem. J. 22, 257–263
+(1988).
+27. Schoell, M. Genetic characterization of natural gases. Am. Assoc.
+Geol. Bull. 67, 2225–2238 (1983).
+28. Etiope, G. et al. Evidence of subsurface anaerobic biodegradation of
+hydrocarbons and potential secondary methanogenesis in terrestrial
+mud volcanoes. Mar. Pet. Geol. 26, 1692–1703 (2009b).
+29. Milkov, A. V. & Etiope, G. Revised genetic diagrams for natural gases
+based on a global dataset of >20,000 samples. Org Geochem 125,
+109–120 (2018).
+30. Jeffrey, A. W. A., Alimi, H. M., Jenden, P. D. Geochemistry of Los
+Angeles Basin oil and gas systems: Chapter 6, Vol. 52. In Active
+Margin Basins American Association of Petroleum Geologists Memoir
+(ed. Biddle, K.T.) 197–219 (1991).
+31. Gordon, G. S. (ed.) Stratigraphic and Sedimentologic Controld on
+Reservoir Quality and Distribution: Middle Wildcat Group, Grizzly Bluff
+Gas Field, Humboldt County, California (California State University,
+Bakersﬁeld, 2009)..
+32. Lillis, P. G., Warden, A., Claypool, G. E., Magoon, L. B. Petroleum
+systems of the San Joaquin Basin Province, California—Geochemical
+characteristics of gas types. In: Petroleum Systems and Geologic
+Assessment of Oil and Gas in the San Joaquin Basin Province,
+California (A.H., S. Ed.,) ch. 10, 30 (U.S. Geological Survey
+Professional Paper 1713, 2007).
+33. Hanson, R. S. & Hanson, T. E. Methanotrophic bacteria. Microbiol.
+Rev. 60, 439–471 (1996).
+34. Kinnaman, F. S., Valentine, D. L. & Tyler, S. C. Carbon and hydrogen
+isotope fractionation associated with the aerobic microbial oxidation
+of methane, ethane, propane and butane. Geochim. Cosmochim.
+Acta 71, 271–283 (2007).
+35. Wrede, C. et al. Aerobic and anaerobic methane oxidation in terrestrial
+mud volcanoes in the Northern Apennines. Sediment. Geol. 263,
+210–219 (2012).
+36. Smit, N. T. et al. Aerobic oxidation of methane and ethane by
+unconventional microbes at a terrestrial methane seep in Sicily, Italy,
+Vol. 2019. In 29th International Meeting on Organic Geochemistry 1–2
+(European Association of Geoscientists & Engineers, 2019).
+37. Zhao, Y., Wang, G., Etiope, G., Zhu, Z., Wang, C. Seasonal variation of
+methane microseepage in the Dawanqi oilﬁeld (China): a possible
+climatic control. J. Geophys. Res. Atmos. https://doi.org/10.1029/
+2021JD034637 (2021).
+38. Brown, A. Identiﬁcation of source carbon for microbial methane in
+unconventional gas reservoirs. Am. Assoc. Pet. Geol. Bull. 95,
+1321–1338 (2011).
+39. Milkov, A. V. Methanogenic biodegradation of petroleum in the West
+Siberian Basin (Russia): signiﬁcance for formation of giant Cenomanian
+gas pools. Am. Assoc. Pet. Geol. Bull. 94, 1485–1541 (2010).
+40. Coleman, D. D., Risatti, J. B. & Schoell, M. Fractionation of carbon and
+hydrogen isotopes by methane-oxidizing bacteria. Geochim.
+Cosmochim. Acta 45, 1033–1037 (1981).
+41. Schoell, M. The hydrogen and carbon isotopic composition of
+methane from natural gasesof various origins. Geochim. Cosmochim.
+Acta 44, 649–661 (1980).
+42. Whiticar, M. J. & Etiope, G. Hydrogen isotope fractionation in land-
+based serpentinization systems. Comment on “Origin of methane in
+serpentinite-hosted hydrothermal systems: the CH4–H2–H2O
+hydrogen isotope systematics of the Hakuba Happo hot spring” by
+Suda et al. [Earth Planet. Sci. Lett. 386 (2014) 112–125]. Earth Planet.
+Sci. Lett. 401, 373–375 (2014).
+43. Pallasser, R. J. Recognizing biodegradation in gas/oil accumulations
+through the δ13C compositions of gas components. Org. Geochem.
+31, 1363–1373 (2000).
+44. Weber, D. et al. Macroseepage of methane and light alkanes at the La
+Brea tar pits in Los Angeles. J. Atmos. Chem. 74, 339–356 (2017).
+45. Hong, W. L., Etiope, G., Yang, T. F. & Chang, P. Y. Methane ﬂux from
+miniseepage in mud volcanoes of SW Taiwan: comparison with the
+data from Italy, Romania, and Azerbaijan. J. Asian Earth Sci. 65, 3–12
+(2013).
+46. McGinnis, D. F., Greinert, J., Artemov, Y., Beaubien, S. E. & Wüest, A.
+Fate of rising methane bubbles in stratiﬁed waters: How much
+methane reaches the atmosphere? J. Geophys. Res. 111, C09007
+(2006).
+47. Schmale, O., Greinert, J. & Rehder, G. Methane emission from high-
+intensity marine gas seeps in the Black Sea into the atmosphere.
+Geophys. Res. Lett. 32, L07609 (2005).
+48. Djuricin, S., Pataki, D. E. & Xu, X. A comparison of tracer methods for
+quantifying CO2 sources in an urban region. J. Geophys. Res. Atmos.
+115, 1–13 (2010).
+49. Fiehn, A. et al. Source apportionment of methane emissions from the
+Upper Silesian Coal Basin using isotopic signatures. Atmos. Chem.
+Phys. 23, 15749–15765 (2023).
+50. Hsu, Y. K. et al. Methane emissions inventory veriﬁcation in southern
+California. Atmos. Env. 44, 1–7 (2010).
+51. Townsend-Small, A., Tyler, S. C., Pataki, D. E., Xu, X. & Christensen, L.
+E. Isotopic measurements of atmospheric methane in Los Angeles,
+California, USA: inﬂuence of “fugitive” fossil fuel emissions. J.
+Geophys. Res. Atmos. 117, 1–11 (2012).
+52. Wunch, D., Wennberg, P. O., Toon, G. C., Keppel-Aleks, G. & Yavin, Y.
+G. Emissions of greenhouse gases from a North American megacity.
+Geophys. Res. Lett. 36, 1–5 (2009).
+53. Peischl, J. et al. Quantifying sources of methane using light alkanes in
+the Los Angeles basin, California. J. Geophys. Res. Atmos. 118,
+4974–4990 (2013).
+54. Brantley, H. L., Thoma, E. D., Squier, W. C., Guven, B. B. & Lyon, D.
+Assessment of methane emissions from oil and gas production pads
+using mobile measurements. Env. Sci. Technol. 48, 14508–14515
+(2014).
+55. Farrell, P., Culling, D. & Leifer, I. Transcontinental methane
+measurements: part 1. A mobile surface platform for source
+investigations. Atmos. Env. 74, 422–431 (2013).
+56. Lan, X., Laine, P. & Torres, A. Characterizing fugitive methane
+emissions in the Barnett Shale area using a mobile laboratory. Env.
+Sci. Technol. 49, 8139–8146 (2015).
+57. Leifer, I., Melton, C., Tratt, D. M. & Buckland, K. N. Airborne trace gas
+remote sensing and surface mobile in situ: a novel tool for the study of
+structural geological controls from a producing oil ﬁeld. SPE Prod.
+Oper. 37, 654–663 (2022).
+58. Yacovitch, T. I. et al. Mobile laboratory observations of methane
+emissions in the Barnett Shale region. Env. Sci. Technol. 49,
+7889–7895 (2015).
+59. Hodgson, S. F. (ed.) Onshore Oil & Gas Seeps (California, Publ. No.
+TR26, 1987).
+60. Duffy, M., Kinnaman, F. S., Valentine, D. L., Keller, E. A. & Clark, J. F.
+Gaseous emission rates from natural petroleum seeps in the upper
+Ojai Valley, California. Environ. Geosci. 14, 197–207 (2007).
+61. Lorenson, T. D. et al. Comparison of Offshore and Onshore Gas
+Occurrences, Eel River Basin, Northern California https://doi.org/10.
+3133/ofr98781 (1998).
+https://doi.org/10.1038/s43247-024-01990-8
+Article
+Communications Earth & Environment |  (2025) 6:11 
+9
+62. Weed, B. M., Brambila, G. D. & Doezema, L. A. Natural seepage of
+methane and light alkanes at three locations in Southern California.
+Atmosphere 11, 979 (2020).
+63. CGG. Organic geochemistry data from FRogi and the ﬂuid features
+database. Retrieved from: http://robertson.cgg.com/products/frogi
+(2015).
+64. Molofsky, L. J. et al. Effect of different sampling methodologies on
+measured methane concentrations in groundwater samples.
+Groundwater 54, 669–680 (2016).
+65. Sherwood, O. A., Schwietzke, S., Lan, X. Global d13C CH4 Source
+Signature Inventory 2020: Global Inventory of Fossil and Non-fossil
+δ13C–CH4 Source Signature Measurements for Improved
+Atmospheric Modeling. NOAA Global Monitoring Laboratory Data
+Repository https://doi.org/10.15138/g3201t (2020).
+66. Tassi, F. et al. Origin of light hydrocarbons in gases from mud
+volcanoes and CH4-rich emissions. Chem. Geol. 294–295, 113–126
+(2012).
+67. Zheng, G. et al. Gas geochemistry and methane emission from
+Dushanzi mud volcanoes in the southern Junggar Basin, NW China. J.
+Asian Earth Sci. 149, 184–190 (2017).
+68. Termo Co. (ed.) Production Gas Analyses, Oat Mountain Field (Zalco
+Laboratories, Inc., 2016).
+69. Molofsky, L. J., Etiope, G., Segal, D., Engle, M. A. Methane-rich gas
+emissions from natural geologic seeps can be chemically
+distinguished from anthropogenic leaks [Dataset]. ﬁgshare https://
+doi.org/10.6084/m9.ﬁgshare.28012691 (2024).
+70. California Geological Survey. Status of Sedimentary Basins in
+California [WWW Document]. http://gif.berkeley.edu/westcarb/
+gallery.html (2011).
+71. Esri. ArcGIS Online Imagery: www.arcgisonline.com (2022).
+Acknowledgements
+We acknowledge Chevron Corporation for their support of this research. We
+also thank the following parties for access to sampling locations and
+assistance with sampling: Carbon Energy Corporation (Vaughn Thompson),
+Humboldt Redwood Company (Keith Lackey and Arron Cox), Green
+Diamond Resource Co. (Jason Woodward), La Brea Tar Pits & Museum
+(Regan Dunn and Karin Rice), and John T. Williams. We also acknowledge
+Adam Molofsky and Gregg Wilkerson for their contributions to the ﬁeld
+sampling program, and Michael Abrams for his insightful feedback.
+Author contributions
+L.J.M., G.E., D.C.S., and M.A.E. designed the study. L.J.M. and G.E.
+interpreted all data and developed the manuscript. L.J.M. and M.A.E.
+executed ﬁeld sampling. D.C.S. and M.A.E. contributed to data
+interpretation and manuscript preparation.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary information The online version contains
+supplementary material available at
+https://doi.org/10.1038/s43247-024-01990-8.
+Correspondence and requests for materials should be addressed to
+Lisa J. Molofsky.
+Peer review information Communications Earth & Environment thanks
+NaveenChandraandtheother,anonymous,reviewer(s)fortheircontribution
+to the peer review of this work. Primary Handling Editors: Prabir Patra and
+Alice Drinkwater. A peer review ﬁle is available.
+Reprints and permissions information is available at
+http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License,
+which permits any non-commercial use, sharing, distribution and
+reproduction in any medium or format, as long as you give appropriate
+credit to the original author(s) and the source, provide a link to the Creative
+Commons licence, and indicate if you modiﬁed the licensed material. You
+do not have permission under this licence to share adapted material
+derived from this article or parts of it. The images or other third party
+material in this article are included in the article’s Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material
+isnot includedin thearticle’s CreativeCommons licenceandyour intended
+use is not permitted by statutory regulation or exceeds the permitted use,
+you will need to obtain permission directly from the copyright holder. To
+view a copy of this licence, visit http://creativecommons.org/licenses/by-
+nc-nd/4.0/.
+© The Author(s) 2025
+https://doi.org/10.1038/s43247-024-01990-8
+Article
+Communications Earth & Environment |  (2025) 6:11 
+10

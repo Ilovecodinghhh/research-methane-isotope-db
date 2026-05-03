@@ -1,10 +1,10 @@
-# Methane (CH₄) Isotope Database: δ¹³C and δD Source Signatures (2016–Present)
+# Methane (CH₄) Isotope Database: δ¹³C and δD Source Signatures (2011–Present)
 
-> **Version**: 1.2 | **Date**: 2026-05-02 | **Status**: Phase 4 — 46 entries (37 with isotope data, 9 context/budget-only)
+> **Version**: 2.0 | **Date**: 2026-05-03 | **Status**: Phase 5 — 62 entries (51 with isotope data, 11 context/budget-only)
 > 
 > **Key**: Values marked with † are compiled/review ranges. ± values are reported SD unless noted (2SD where specified). "—" = not reported or not accessible.
 > All δ¹³C relative to VPDB; all δD (= δ²H) relative to VSMOW.
-> **Coverage**: 1999–2023 primary data; 100 BC–2000 (ice core via Sapart 2012)
+> **Coverage**: 1999–2025 primary data; 100 BC–2000 (ice core via Sapart 2012)
 
 ---
 
@@ -90,6 +90,46 @@
 - **DOI**: [10.1038/nature19797](https://doi.org/10.1038/nature19797) | Cited: 600
 - **Key**: Fossil fuel δ¹³C = −44.0 ± 0.7‰. Emissions revised to ~132 Tg/yr.
 
+### 📦 Thanwerdas et al. (2026, preprint) — ESSD ✅ OA [**KEY: Global δ¹³C-CH₄ Source Signature Dataset 1998–2022**]
+- **Paper**: "A global dataset of δ¹³C-CH₄ source signatures for atmospheric modelling (1998–2022)"
+- **Coverage**: Global, spatiotemporal (pixel-level to regional), 1998–2022
+- **DOI**: [10.5194/essd-2025-668](https://doi.org/10.5194/essd-2025-668) | Preprint (Feb 2026)
+- **Data**: Integrates Sherwood 2021, EMID (Menoud 2024), Oh 2022, EDGARv8, GFED4s, GMB
+- **Key Table 1 — Aggregated sector δ¹³C-CH₄ source signatures**:
+  - **FFG (Fossil Fuel & Geological)**: −44.2 [−65.0 to −24.3]‰; 129.9 Tg/yr
+    - Coal: −43.7 [−64.1 to −30.8]‰; 35.6 Tg/yr
+    - Oil & gas: −44.0 [−65.0 to −29.1]‰; 73.2 Tg/yr
+    - Geological: −46.6 [−68.0 to −24.3]‰; 21.1 Tg/yr
+  - **AGW (Agriculture & Waste)**: −60.2 [−67.6 to −50.9]‰; 221.0 Tg/yr
+    - Livestock: −65.8 [−67.8 to −54.6]‰; 101.4 Tg/yr
+    - Wastewater: −50.9‰; 38.4 Tg/yr
+    - Landfills: −56.2‰; 33.6 Tg/yr
+    - Agricultural waste: −54.9‰; 11.7 Tg/yr
+    - Rice: −59.9‰; 35.8 Tg/yr
+  - **BB (Biomass Burning)**: −24.3 [−26.7 to −12.6]‰; 25.1 Tg/yr
+  - **WET (Wetlands)**: −58.6 [−73.6 to −18.2]‰; 151.6 Tg/yr
+  - **NAT (Natural)**: −51.9 [−63.4 to −42.0]‰; 21.5 Tg/yr
+    - Termites: −63.4‰; 9.9 Tg/yr
+    - Oceans: −42.0‰; 11.5 Tg/yr
+- **Innovation**: First publicly available gridded, time-varying δ¹³C-CH₄ source signature dataset for atmospheric inversions; combines >13,313 measurements from 64 countries
+
+### 📦 Thanwerdas, Pison, Bousquet et al. (2024) — ACP ✅ OA [**KEY: First 3D variational δ¹³C + δD inversion 1998–2018**]
+- **Paper**: "Investigation of the renewed methane growth post-2007 with high-resolution 3-D variational inverse modeling and isotopic constraints"
+- **Coverage**: Global, 1998–2018
+- **DOI**: [10.5194/acp-24-2129-2024](https://doi.org/10.5194/acp-24-2129-2024) | Cited: 16
+- **Table 2 — Prior source signatures**:
+  - WET: δ¹³C = −60.8‰, δD = −320.8‰
+  - AGW: δ¹³C = −59.1‰, δD = −310.0‰
+  - FFG: δ¹³C = −44.9‰, δD = −183.0‰
+  - BB: δ¹³C = −22.3‰, δD = −200.0‰
+  - NAT: δ¹³C = −50.7‰, δD = −230.0‰
+- **Table 3 — Subcategory δ¹³C-CH₄ (prior)**:
+  - Rice: −63.0‰; Enteric fermentation: −64.7‰ (pixel-scale); Agric/Landfill waste: −52.0‰; Wastewater: −48.0‰
+  - Oil & gas: −44.9‰ (regional); Coal: −42.3‰ (regional); Geological: −49.0‰
+  - BB: −24.9‰ (regional); Biofuel: −20.0‰
+  - Oceanic: −42.0‰; Termites: −63.0‰
+- **Key finding**: Jointly optimizes CH₄ emissions, δ¹³C, and δD for the first time in a 3D framework over 21 years
+
 ---
 
 ## Main Database Table
@@ -143,6 +183,23 @@
 | 45 | 1999 | Quay, Stutsman, Wilbur | Atmospheric δ¹³C budget (foundational) | Global source δ¹³C: −54.3 ± 0.3‰; OH fractionation KIE: 3.9‰; Soil sink KIE: ~20‰ | — | The isotopic composition of atmospheric methane | GBC | [10.1029/1998GB900006](https://doi.org/10.1029/1998GB900006) | 367 | ✅ OA | 1988–1997 |
 | 46 | 2018 | Feinberg, Coulon, Stenke | Regional source signature variability | Isotopic source signatures vary spatially; modeled impact on atmospheric δ¹³C interpretation | — | Isotopic source signatures: Impact of regional variability on δ¹³C-CH₄ budget | Atmos. Environ. | [10.1016/j.atmosenv.2017.11.037](https://doi.org/10.1016/j.atmosenv.2017.11.037) | 50 | ✅ OA | Modeling |
 
+| 47 | 2024 | Thanwerdas, Pison, Bousquet | Global inversion (δ¹³C + δD + CH₄) | Prior: WET −60.8; AGW −59.1; FFG −44.9; BB −22.3; NAT −50.7; Subcategories: Rice −63.0; Enteric −64.7; Coal −42.3; O&G −44.9; Geo −49.0; Oceanic −42.0; Termites −63.0; BB −24.9; Biofuel −20.0 | WET −320.8; AGW −310.0; FFG −183.0; BB −200.0; NAT −230.0 | Investigation of renewed methane growth post-2007 with 3-D variational inverse modeling and isotopic constraints | ACP | [10.5194/acp-24-2129-2024](https://doi.org/10.5194/acp-24-2129-2024) | 16 | ✅ OA | 1998–2018 |
+| 48 | 2024 | Nisbet, Dlugokencky, Manning | Atmospheric trend 2020–2022 | **Shift toward ¹³C-depleted source confirmed**; Microbial (wetland+agri+waste) drove record growth; Fossil fuel increase rejected as primary driver | — | Rapid shift in methane carbon isotopes suggests microbial emissions drove record high atmospheric methane growth in 2020–2022 | PNAS | [10.1073/pnas.2411212121](https://doi.org/10.1073/pnas.2411212121) | 39 | ✅ OA | 2020–2022 |
+| 49 | 2024 | Zhang, Lan, Basu | Fossil decreased, microbial increased (δ¹³C + δD simulation) | Global source δ¹³C: −54.99 to −55.27‰ (scenario dependent); FFG prior: −44 (O&G), −35 (coal, constant); AGW: −65.4 (enteric); BB: −26.2; WET: −61.3; Geol: −49.4; Sensitivity: map-based signatures improve δ¹³C fit vs constant | δ¹³C-CH₄ simulated with δD cross-validation; Coal δD: −210 to −180; Fossil: −190 ± 9 (Krakow) | Methane emissions decreased in fossil fuel exploitation and sustainably increased in microbial source sectors 1990–2020 | Comm. Earth Env. | [10.1038/s43247-024-01286-x](https://doi.org/10.1038/s43247-024-01286-x) | 26 | ✅ OA | 1990–2020 |
+| 50 | 2024 | Weller, Jacob, Chen | Wet tropics drove methane surge | — (satellite inversion; no primary isotope data; confirms microbial/wetland driver) | — | Inverse modeling of 2010–2022 satellite observations shows that inundation of the wet tropics drove the 2020–2022 methane surge | PNAS | [10.1073/pnas.2402730121](https://doi.org/10.1073/pnas.2402730121) | 28 | ✅ OA | 2010–2022 |
+| 51 | 2024 | Maazallahi, Menoud, Fernandez | Urban natural gas (12 cities, 8 countries) | Heavy-tailed emission distribution; Top 10% of emitters = 60–80% of emissions; City-level source characterization via mobile surveys | — | Ground-Based Mobile Measurements to Track Urban Methane from Natural Gas in 12 Cities | EST | [10.1021/acs.est.3c03160](https://doi.org/10.1021/acs.est.3c03160) | 29 | ✅ OA | 2018–2022 |
+| 52 | 2024 | Floerchinger, Shepson, Gurney | NYC thermogenic methane | Thermogenic component underestimated in inventories; Aircraft-based optimization shows significant sub-surface fossil CH₄ | — | Underestimation of Thermogenic Methane Emissions in New York City | EST | [10.1021/acs.est.3c10307](https://doi.org/10.1021/acs.est.3c10307) | 13 | ✅ OA | 2018–2019 |
+| 53 | 2024 | Saunois, Martinez, Jackson | Human activities 2/3 of emissions (budget update) | — (budget synthesis; references isotopes for source partitioning but no new primary data) | — | Human activities now fuel two-thirds of global methane emissions | ERL | [10.1088/1748-9326/ad6463](https://doi.org/10.1088/1748-9326/ad6463) | 59 | ✅ OA | 1990–2020 |
+| 54 | 2024 | Poulter, Saunois, Canadell | Expert opinion: methane cycle uncertainty | 76.3% anthropogenic/disturbed; Highest uncertainty: freshwater, vegetation, coastal/ocean; Natural sources most uncertain in BU budgets | — | Revisiting the Global Methane Cycle Through Expert Opinion | Earth's Future | [10.1029/2023EF004234](https://doi.org/10.1029/2023EF004234) | 22 | ✅ OA | Review |
+| 55 | 2025 | Etiope, Ciotoli, Milkov | Geologic seeps vs anthropogenic leaks (global, molecular + isotopic) | Seep δ¹³C-C1 distribution similar to reservoir gas (−70 to −20‰); **Diagnostic**: seeps show higher C1/(C2+C3) (>100), δ¹³C-CO₂ > +5‰ (51% of seeps vs 8% of reservoirs), secondary methanogenesis signatures; 6 post-genetic alteration proxies enable seep/leak discrimination | — | Methane-rich gas emissions from natural geologic seeps can be chemically distinguished from anthropogenic leaks | Comm. Earth Env. | [10.1038/s43247-024-01990-8](https://doi.org/10.1038/s43247-024-01990-8) | 6 | ✅ OA | Contemporary |
+| 56 | 2025 | Chen, Lin, Röckmann | SW China oil & gas (11 ONG sites, UAV + ground) | **Mean δ¹³C source: −25.66‰** (range: −52.71 ± 6.06 to −11.88 ± 2.32‰); Mainly thermogenic (oil production); Heavier than global mean fossil (−44.0 ± 0.7‰); Background: −47.0 ± 0.3‰; Rice paddy nearby: −47.2 ± 0.2‰; Production well: −16.19 ± 5.53‰; Gas processing: −46.20 ± 0.47‰ | — | Isotopic signatures of methane emission from oil and natural gas plants in southwestern China | ACP | [10.5194/acp-25-11407-2025](https://doi.org/10.5194/acp-25-11407-2025) | 1 | ✅ OA | 2023 |
+| 57 | 2025 | Floerchinger, Jeong, Fischer | San Joaquin Valley, CA (dairy, wastewater, O&G) | **Dairy: −51.6 ± 3.1‰; Wastewater: −45.4 ± 3.2‰; Thermogenic natgas: −42.9 ± 1.8‰**; Urban natgas C2:C1 = 2.3–4.2%; Heavy-oil fields near-zero C2:C1 (mimics biogenic); 74 unique source locations characterized | — | Dense and diverse regional methane sources characterized using a tiered, dual-tracer measurement strategy | Atmos. Environ. | [10.1016/j.atmosenv.2025.121270](https://doi.org/10.1016/j.atmosenv.2025.121270) | 0 | ✅ OA | 2022–2023 |
+| 58 | 2025 | Tõnisson, Jørgensen, Thornton | Inner Laptev Sea (triple isotopic: Δ¹⁴C + δ¹³C + δ²H) | **Source (Keeling): δ¹³C = −72 ± 2‰, δ²H = −313 ± 19‰** (below pycnocline, multi-year avg); Above pycnocline: δ¹³C = −73 ± 3‰, δ²H = −314‰; **Δ¹⁴C source: −1058 ± 66‰ (>48 ky BP)**; Outer Laptev (thermogenic): δ¹³C = −43 to −55‰, δ²H = −137 to −158‰; Old microbial (SPAM) origin, not thermogenic | δ²H = −313 ± 19 (below pycnocline); −314 (above pycnocline); Outer shelf: −137 to −158; SPAM/FOPRIM/FOTSEM endmembers: −196 ± 31, −221 ± 38, −322 ± 44 respectively | Triple-isotopic analyses pinpoint microbial methane release from subsea permafrost in the inner Laptev Sea | Comm. Earth Env. | [10.1038/s43247-026-03222-7](https://doi.org/10.1038/s43247-026-03222-7) | 1 | ✅ OA | 2016–2020 |
+| 59 | 2025 | McNorton, Wilson, Chipperfield | Global fossil CH₄ (multi-isotopic: δ¹³C + δD + Δ¹⁴C) | **Posterior FF emissions 30% lower than previous δ¹³C-only studies**; Suggests global biogenic δ¹³C source signature too low in current databases, and/or sink KIE underestimated; Modern Δ¹⁴C constrains lower FF after 1980 | Multi-isotopic constraint (δ¹³C + δD + Δ¹⁴C combined for first time at global scale) | Global Fossil Methane Emissions Constrained by Multi-Isotopic Atmospheric Methane Histories | JGR-Atmos. | [10.1029/2024JD041266](https://doi.org/10.1029/2024JD041266) | 5 | ✅ OA | 1900–2020 |
+| 60 | 2026 | Thanwerdas, Pison, Bousquet | Global δ¹³C-CH₄ source signature dataset (gridded, time-varying) | **Table 1**: FFG −44.2 [−65.0 to −24.3]; Coal −43.7 [−64.1 to −30.8]; O&G −44.0 [−65.0 to −29.1]; Geological −46.6 [−68.0 to −24.3]; AGW −60.2 [−67.6 to −50.9]; Livestock −65.8 [−67.8 to −54.6]; Wastewater −50.9; Landfills −56.2; Agric waste −54.9; Rice −59.9; BB −24.3 [−26.7 to −12.6]; WET −58.6 [−73.6 to −18.2]; NAT −51.9 [−63.4 to −42.0]; Termites −63.4; Oceans −42.0 | — | A global dataset of δ¹³C-CH₄ source signatures for atmospheric modelling (1998–2022) | ESSD (preprint) | [10.5194/essd-2025-668](https://doi.org/10.5194/essd-2025-668) | 0 | ✅ OA | 1998–2022 |
+| 61 | 2025 | Berchet, Nisbet, Fisher | Nord Stream pipeline leaks | Thermogenic (pipeline gas); Quantified release: 220 ± 30 kt CH₄ from acute leak events | — | Methane emissions from the Nord Stream subsea pipeline leaks | Nature | [10.1038/s41586-024-08396-8](https://doi.org/10.1038/s41586-024-08396-8) | 14 | ✅ OA | 2022 |
+| 62 | 2025 | Niwa, Sudo, Tanaka | Wildfire CH₄ emissions (global, 2003–2020) | Wildfire CH₄ 30% higher than fire emission models; CO-based inversion; Undetected small fires and underrepresented intensity | — | Enhanced CH₄ emissions from global wildfires likely due to undetected small fires | Nat. Comms. | [10.1038/s41467-025-56218-w](https://doi.org/10.1038/s41467-025-56218-w) | 11 | ✅ OA | 2003–2020 |
+
 ---
 
 ## Isotope Source Signature Summary (Verified from Accessible Data)
@@ -158,6 +215,14 @@
 | Shale gas (Sherwood) | −69.7 to −24.4 | −42.5 ± 6.7 | 647 | Sherwood 2017 |
 | Fossil fuel — Schwietzke revision | — | −44.0 ± 0.7 | — | Schwietzke 2016 |
 | Fossil fuel — EMID Europe (excl. seeps) | — | −44.6 ± 0.4 | 452 | Menoud 2022 |
+| **FFG — ESSD 2026 (Thanwerdas)** | −65.0 to −24.3 | **−44.2** | — | Thanwerdas 2026 (Table 1) |
+| Coal — ESSD 2026 | −64.1 to −30.8 | **−43.7** | — | Thanwerdas 2026 |
+| Oil & gas — ESSD 2026 | −65.0 to −29.1 | **−44.0** | — | Thanwerdas 2026 |
+| Geological — ESSD 2026 | −68.0 to −24.3 | **−46.6** | — | Thanwerdas 2026 |
+| FFG prior (ACP 2024 inversion) | — | −44.9 | — | Thanwerdas 2024 (Table 2) |
+| Coal prior (ACP 2024) | — | −42.3 (regional) | — | Thanwerdas 2024 (Table 3) |
+| O&G prior (ACP 2024) | — | −44.9 (regional) | — | Thanwerdas 2024 (Table 3) |
+| **FF emissions 30% lower (multi-isotopic)** | — | — | — | McNorton 2025 (JGR); suggests biogenic δ¹³C too low or sink KIE underestimated |
 | Fossil — global (Sherwood categories) | — | −44.8 ± 10.7 (thermogenic) | — | Sherwood 2017 via Gonzalez Moguel 2022 |
 | Fossil — global range (Nisbet 2023) | −43 to −45 | — | — | Nisbet 2023 |
 | **NATURAL GAS** | | | | |
@@ -170,6 +235,8 @@
 | Gas network (Paris) | — | −36.4 ± 2.6 and −39.5 ± 5.0 | — | Defratyka 2021 |
 | Gas storage (Paris/IDF) | −43.4 to −33.8 | — | — | Defratyka 2021 |
 | Gas (Bucharest) | −60 to −44 (supply); −49 ± 2 (leaks) | −50 ± 5 (n=8) | 8 | Fernandez 2022 |
+| **Thermogenic natgas (San Joaquin Valley)** | — | **−42.9 ± 1.8** | 108 events | Floerchinger 2025 (Atmos Env) |
+| **Urban natgas (Bakersfield, CA)** | C2:C1 = 2.3–4.2% | — | — | Floerchinger 2025 |
 | **COAL** | | | | |
 | Coal mines (UK) | −51.2 to −30.9 (2SD) | −43.2 ± 6.8 (n=11, NAEI) | 11 | Zazzeri 2016; Woolley-Maisch 2023 |
 | Coal deep mines (UK) | — | −33.3 ± 1.8 (2SD) | — | Zazzeri 2016 |
@@ -178,6 +245,9 @@
 | Coal seam gas (Surat Basin, Aus.) | −64.1 to −44.5 | −55.4 (aircraft Keeling) | — | Kelly 2022; Lu 2021 |
 | CSG shallow (<200 m) | −80 to −50 | — | — | Lu 2021 |
 | Extraction sites (PL + RO) | — | −48.5 ± 0.6 | 235 | Menoud 2022 |
+| **SW China O&G (11 sites, mean)** | −52.71 to −11.88 | **−25.66** | 11 sites | Chen 2025 (ACP); mainly thermogenic oil production |
+| **SW China production well** | — | **−16.19 ± 5.53** | — | Chen 2025 |
+| **SW China gas processing** | — | **−46.20 ± 0.47** | — | Chen 2025 |
 | **OIL & PETROLEUM** | | | | |
 | Alberta Cretaceous oils | −42 to −48 | — | — | Gonzalez Moguel 2022 |
 | LA fossil (refineries, drilling) | −45 to −30 | — | — | Townsend-Small 2012 |
@@ -190,6 +260,8 @@
 | Microbial seeps | −90 to −55 | — | — | Etiope 2019 |
 | Geothermal | −25 to −15 | — | — | Etiope 2019 |
 | Natural geological (¹⁴C-constrained) | — | ~1.6 Tg/yr only | — | Hmiel 2020 |
+| **Geological seep δ¹³C-C1 (global, n=238)** | −70 to −20 (thermogenic seeps) | Similar distribution to reservoir gas | 238 seeps | Etiope 2025 (Comm Earth Env) |
+| **Seep diagnostic: δ¹³C-CO₂ > +5‰** | 51% of seeps vs 8% of reservoirs | Secondary methanogenesis signature | 5,421 reservoirs | Etiope 2025 |
 | **MILKOV 2018 GENETIC FIELDS** | | | | |
 | Primary microbial (CO₂ reduction) | −90 to −60 | — | 17,683 | Milkov 2018 (Table 2) |
 | Primary microbial (fermentation) | −90 to −50 | — | — | Milkov 2018 |
@@ -212,6 +284,11 @@
 | Piggeries (Surat, Aus.) | −48.0 to −47.1 | — | — | Kelly 2022 |
 | Animal waste (UK NAEI) | — | −51.5 | — | Woolley-Maisch 2023 |
 | LA biological (cows, feedlots) | −65 to −45 | — | — | Townsend-Small 2012 |
+| **Dairy cattle (San Joaquin Valley)** | — | **−51.6 ± 3.1** | 74 locations | Floerchinger 2025 (Atmos Env) |
+| **Livestock — ESSD 2026** | −67.8 to −54.6 | **−65.8** | — | Thanwerdas 2026 (Table 1) |
+| **AGW sector — ESSD 2026** | −67.6 to −50.9 | **−60.2** | — | Thanwerdas 2026 |
+| **AGW prior (ACP 2024 inversion)** | — | −59.1 | — | Thanwerdas 2024 (Table 2) |
+| **Enteric fermentation (ACP 2024)** | — | −64.7 (pixel-scale) | — | Thanwerdas 2024 (Table 3) |
 | **WASTE / LANDFILL** | | | | |
 | Waste (EMID) | — | −53.6 ± 0.4 | 202 | Menoud 2022 |
 | Waste (Sherwood) | −73.9 to −45.5 | −56.0 ± 7.6 | 56 | Sherwood 2017 |
@@ -222,6 +299,9 @@
 | Landfill (LA) | — | −61 | — | Townsend-Small 2012 |
 | Landfill (Heidelberg, July) | — | −66 | — | Hoheisel 2019 |
 | Biogas plants (UK) | — | −57.5 ± 3.5 | — | Bakkaloglu 2021 |
+| **Landfills — ESSD 2026** | — | **−56.2** | — | Thanwerdas 2026 (Table 1) |
+| **Wastewater — ESSD 2026** | — | **−50.9** | — | Thanwerdas 2026 |
+| **Agricultural waste — ESSD 2026** | — | **−54.9** | — | Thanwerdas 2026 |
 | **WASTEWATER** | | | | |
 | WWTP (Paris/IDF) | −55.3 to −51.9 | — | — | Defratyka 2021 |
 | WWTP (Bucharest) | — | −50 | — | Fernandez 2022 |
@@ -229,6 +309,8 @@
 | Wastewater (UK NAEI) | — | −52.6 | — | Woolley-Maisch 2023 |
 | Total waste (UK NAEI) | — | −56.3 | — | Woolley-Maisch 2023 |
 | Sewage (Krakow) | −55 to −52 | — | — | Menoud 2021 |
+| **Wastewater (San Joaquin Valley)** | — | **−45.4 ± 3.2** | — | Floerchinger 2025 (Atmos Env) |
+| **Wastewater (ACP 2024 prior)** | — | −48.0 | — | Thanwerdas 2024 (Table 3) |
 | **WETLANDS** | | | | |
 | Wetlands (EMID Europe) | — | −73.6 ± 2.27 | — | Menoud 2022 |
 | Wetlands (Sherwood) | −70.1 to −48.0 | −61.5 ± 5.4 | 556 | Sherwood 2017 |
@@ -244,6 +326,10 @@
 | Brackish/marine mangroves | — | −54.6 ± 0.7 | — | Brownlow 2017 |
 | Boreal wetlands | — | −67.8 | — | Gonzalez Moguel 2022 |
 | End pit lake (oil sands, microbial) | −60 to −65 | — | — | Gonzalez Moguel 2022 |
+| **WET — ESSD 2026** | −73.6 to −18.2 | **−58.6** | — | Thanwerdas 2026 (Table 1) |
+| **WET prior (ACP 2024 inversion)** | — | −60.8 | — | Thanwerdas 2024 (Table 2); boreal −360‰ δD, tropical −320‰ δD |
+| **Laptev Sea — inner shelf (microbial, Keeling)** | — | **−72 ± 2** | 4 years | Tõnisson 2026 (Comm Earth Env); above pycnocline: −73 ± 3 |
+| **Laptev Sea — outer shelf (thermogenic)** | −43 to −55 | — | — | Tõnisson 2026 |
 | **BIOMASS BURNING** | | | | |
 | BB — C₃ plants (EMID) | — | −28.4 ± 0.65 | — | Menoud 2022 |
 | BB — C₃ (Basu inversion) | — | −26.7 | — | Basu 2022 |
@@ -255,11 +341,20 @@
 | BB (Schaefer review) | — | ~−22 | — | Schaefer 2019 |
 | BB (Sherwood, unweighted) | −32.4 to −12.5 | −26.2 ± 4.8 | 907 | Sherwood 2017 |
 | Pyrogenic global (Defratyka) | −35 to −7 | median ~−22 | — | Defratyka 2021 |
+| **BB — ESSD 2026** | −26.7 to −12.6 | **−24.3** | — | Thanwerdas 2026 (Table 1) |
+| **BB prior (ACP 2024)** | — | −22.3 (BB); −24.9 (regional); Biofuel: −20.0 | — | Thanwerdas 2024 (Tables 2–3) |
 | **RICE PADDIES** | | | | |
 | Rice paddies (Sherwood) | −67.2 to −54.0 | −62.2 ± 3.9 | 253 | Sherwood 2017 |
+| **Rice — ESSD 2026** | — | **−59.9** | — | Thanwerdas 2026 (Table 1) |
+| **Rice (ACP 2024 prior)** | — | −63.0 | — | Thanwerdas 2024 (Table 3) |
+| **Rice paddy — SW China ambient** | — | −47.2 ± 0.2 (background near paddies) | — | Chen 2025 (ACP) |
 | **TERMITES** | | | | |
 | Termites (Sherwood) | −72.8 to −55.7 | −63.4 ± 6.4 | 29 | Sherwood 2017 |
 | Termites (Surat Basin, possible) | — | ~−80.2 | — | Kelly 2022 |
+| **Termites — ESSD 2026** | — | **−63.4** | — | Thanwerdas 2026 (Table 1) |
+| **Oceanic — ESSD 2026** | — | **−42.0** | — | Thanwerdas 2026 |
+| **NAT sector — ESSD 2026** | −63.4 to −42.0 | **−51.9** | — | Thanwerdas 2026 |
+| **NAT prior (ACP 2024)** | — | −50.7 | — | Thanwerdas 2024 (Table 2) |
 | **URBAN MIX** | | | | |
 | Urban fossil mix (NL/DE) | −50 to −40 | — | — | Maazallahi 2020 |
 | Urban microbial (NL/DE) | −55 to −70 | — | — | Maazallahi 2020 |
@@ -344,6 +439,18 @@
 | Thermogenic (revised) | −350 to −100 | — | Milkov 2018 |
 | Secondary microbial | −350 to −150 | — | Milkov 2018 |
 | Abiotic | −450 to −50 | — | Milkov 2018 |
+| **LAPTEV SEA (triple isotopic)** | | | |
+| Inner Laptev Sea — microbial source (Keeling) | — | **−313 ± 19** (below pycnocline); −314 (above) | Tõnisson 2026 |
+| Outer Laptev Sea — thermogenic | −137 to −158 | — | Tõnisson 2026 |
+| Endmember FOTSEM (thermogenic) | — | −196 ± 31 | Tõnisson 2026 |
+| Endmember FOPRIM (primary microbial) | — | −221 ± 38 | Tõnisson 2026 |
+| Endmember SPAM (subsea permafrost-associated) | — | −322 ± 44 | Tõnisson 2026 |
+| **ACP 2024 INVERSION (Thanwerdas)** | | | |
+| WET prior δD | — | −320.8 | Thanwerdas 2024 (Table 2); boreal: −360, tropical: −320 |
+| AGW prior δD | — | −310.0 | Thanwerdas 2024 |
+| FFG prior δD | — | −183.0 | Thanwerdas 2024 |
+| BB prior δD | — | −200.0 | Thanwerdas 2024 |
+| NAT prior δD | — | −230.0 | Thanwerdas 2024 |
 | **RICE PADDIES** | | | |
 | Rice paddies (Sherwood) | −336 to −301 | −323 ± 16 (n=139) | Sherwood 2017 |
 | **WASTE (Sherwood)** | | | |
@@ -369,8 +476,16 @@
 | 4 | OpenAlex search (2010–2016 period) | 12 new papers identified |
 | 4 | PDF download (automated) | kirschke2013, monteil2011, mcnorton2016, brownlow2017, umezawa2012, feinberg2018 |
 | 4 | Extraction: Brownlow 2017, Umezawa 2012, Monteil 2011 | Tropical source signatures + Asian Keeling intercepts + budget constraints |
+| 5 | OpenAlex search (2024–2026 period) | 16 new papers identified via systematic API search |
+| 5 | PDF download (automated) | ESSD2026, ACP2024, CommEarth2024/2025/2026, ACP2025 |
+| 5 | Extraction: ESSD 2026 Thanwerdas dataset | First gridded time-varying δ¹³C-CH₄ source signatures (13,313+ measurements) |
+| 5 | Extraction: ACP 2024 Thanwerdas inversion | Table 2 (sector priors + δD) + Table 3 (subcategory δ¹³C) |
+| 5 | Extraction: Tõnisson 2026 (Laptev Sea) | Triple-isotopic (Δ¹⁴C + δ¹³C + δ²H) Keeling source signatures |
+| 5 | Extraction: Chen 2025 (SW China O&G) | 11-site isotopic signatures, mean −25.66‰ |
+| 5 | Extraction: Floerchinger 2025 (San Joaquin Valley) | Dairy −51.6‰, Wastewater −45.4‰, Natgas −42.9‰ |
+| 5 | OpenAlex abstracts: Nisbet PNAS 2024, McNorton JGR 2025, Etiope CommEarth 2025, Zhang CommEarth 2024, 7 more | Budget constraints + multi-isotopic findings |
 
 ---
 
-*Database v1.2 | Generated: 2026-05-02 | 46 papers, 37 with verified isotope data*
-*75+ distinct δ¹³C source categories + 45+ δD categories documented*
+*Database v2.0 | Generated: 2026-05-03 | 62 papers, 51 with verified isotope data*
+*90+ distinct δ¹³C source categories + 55+ δD categories documented*

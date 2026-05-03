@@ -1,0 +1,1444 @@
+communications earth & environment
+Article
+https://doi.org/10.1038/s43247-024-01286-x
+Methane emissions decreased in fossil
+fuel exploitation and sustainably
+increased in microbial source sectors
+during 1990–2020
+Check for updates
+Naveen Chandra
+1
+, Prabir K. Patra
+1,2,3
+, Ryo Fujita4, Lena Höglund-Isaksson
+5,
+Taku Umezawa
+6, Daisuke Goto7, Shinji Morimoto3, Bruce H. Vaughn8 & Thomas Röckmann
+9
+Methane (CH4) emission reduction to limit warming to 1.5 °C can be tracked by analyzing CH4
+concentration and its isotopic composition (δ13C, δD) simultaneously. Based on reconstructions of the
+temporal trends, latitudinal, and vertical gradient of CH4 and δ13C from 1985 to 2020 using an
+atmospheric chemistry transport model, we show (1) emission reductions from oil and gas exploitation
+(ONG) since the 1990s stabilized the atmospheric CH4 growth rate in the late 1990s and early 2000s,
+and (2) emissions from farmed animals, waste management, and coal mining contributed to the
+increase in CH4 since 2006. Our ﬁndings support neither the increasing ONG emissions reported by
+the EDGARv6 inventory during 1990–2020 nor the large unconventional emissions increase reported
+by the GAINSv4 inventory since 2006. Total fossil fuel emissions remained stable from 2000 to 2020,
+most likely because the decrease in ONG emissions in some regions offset the increase in coal mining
+emissions in China.
+Methane (CH4) abatement has emerged as a top priority for addressing
+climate change in the short term; a reduction of 40–45% in CH4 emissions
+by 2030 could prevent nearly 0.3 °C of global warming by the 2040s1.
+Recognizing this, 110 countries have recently committed to reduce global
+anthropogenic CH4 emissions by 30% from 2020 levels by 2030 through
+the “Global Methane Pledge” initiative, launched at the United Nations
+Climate Change Conference, COP26 in Glasgow. This pledge aims to
+support the Paris Agreement’s goal of limiting global warming to below
+2 °C, preferably 1.5 °C, above the pre-industrial average. Developing
+effective strategies to mitigate CH4 emission necessitates a meticulous
+understanding of the magnitude and spatiotemporal variability of source
+sectors.
+CH4 emission studies employ bottom-up and top-down approaches.
+While bottom-up approaches provide detailed insights into speciﬁc CH4
+sources (Figs. 1, S1) by accounting activity data and emission factors for
+anthropogenic sectors (e.g., oil and Gas (ONG), coal, landﬁlls, enteric
+fermentation and manure management (ENF-MNM) etc.)2–4 and utilizing
+environmental factors in process-based models for natural emission sectors
+(e.g., wetlands, termites etc.)5, discrepancies often arise when comparing
+total emissions (sum of all sectors) to atmospheric observations6–8. This
+incongruence can arise from imprecise emission factors and activity data
+(e.g., fugitive fossil fuel sector2,3,9), or by process-based models that perform
+poorly due to a host of environment factors (e.g., wetland models rely on
+wetland inundation maps, biogeochemical process parameterizations and
+knowledge of carbon availability6). Top-down methods use inversion
+techniques to reﬁne total bottom-up estimates (sum of all emission sector
+contributions) by aligning them with observations of the atmospheric
+growth rate and latitudinal gradient10–17. However, these methods lack
+granularity and have limited ability to distinguish between individual CH4
+sources, resulting in multiple plausible emission scenarios. Although
+advancements in satellite observations reﬁned point sources detection
+capability18, in addition to improved inversion techniques19–22, discerning
+1Research Institute for Global Change (RIGC), JAMSTEC, Kanazawa, Yokohama, Japan. 2Center for Environmental Remote Sensing (CEReS), Chiba University,
+Chiba, Japan. 3CAOS, Tohoku University, Sendai, Japan. 4Meteorological Research Institute, Tsukuba, Japan. 5International Institute for Applied Systems Analysis
+(IIASA),Laxenburg, Austria. 6National Institute forEnvironmental Studies, Tsukuba, Japan. 7NationalInstituteofPolarResearch,Tachikawa,Tokyo, Japan. 8INSTAAR,
+University of Colorado, Boulder, Boulder, CO, USA. 9Institute for Marine and Atmospheric Research Utrecht, Utrecht University, Utrecht, The Netherlands.
+e-mail: naveennegi@jamstec.go.jp; prabir@jamstec.go.jp
+Communications Earth & Environment |  (2024) 5:147 
+1
+1234567890():,;
+1234567890():,;
+individual CH4 source contributions using only atmospheric CH4 obser-
+vations remains a challenge8.
+The isotopic composition of CH4 offers insights into atmospheric CH4
+origins since different sources emit CH4 with characteristic stable carbon
+and hydrogen isotopic ratios (δ13C = ([(13C/12C)sample / (13C/12C)standard] −1;
+hydrogen isotopic ratio (δD) is likewise deﬁned)23–25). The global mean
+atmospheric δ13C source value ranges between −54‰ and −52‰, and
+turns approximately −47‰ with effects of chemical sink corrected25. The
+δ13C-CH4 signatures of microbial sources (−55‰ to −70‰), for example,
+are lower than the atmospheric δ13C value (approximately −47‰), while
+thermogenic sources have higher δ13C-CH4 values (−35‰ to −45‰)24–26.
+Previous 3D inversion13,14,27 and box model28–33 studies have incorporated
+measurements of atmospheric δ13C-CH4 as an additional constraint for
+better source attribution of the global CH4 emissions. Yet, they suggest
+diverse conclusions about the cause of the observed CH4 growth rate
+change10,13,14,16,26–32,34–40. Some emphasize increased emissions from
+microbial sources13,28,29,35,41, while others suggest competing contributions
+from both microbial and fossil fuel sources10,14,30. The studies that
+emphasize large contributions from microbial sources typically conclude
+thatthere has notbeen a rise in fugitive fossil fuel emissionsin thepast two
+decades. Yet, thesteadyupward trendsin fossilfuel emissions arereported
+in emission inventories, caused by the rise in the unconventional gas
+production since 2006, coal mining resurgence, and growth of the Asian
+economies2,3,42,43.
+The discrepancies in previous conclusions may have arisen due to
+variousfactors.Forinstance,theresultsfromsimpliﬁedboxmodelscouldbe
+inﬂuenced by potential biases stemming from factors such as overlooked
+spatialemissions,uncertainδ13C-CH4sourcesignatureinformation,andthe
+absence of real atmospheric 3D transport and chemical processes. Addi-
+tionally, the current sampling networks might introduce biases to the
+hemispheric averages44. Furthermore, δ13C source signatures and kinetic
+isotope effects (KIEs) of chemical sinks are associated with considerable
+uncertainties45–47. When these uncertain parameters are integrated in a
+complex 3D inversion and box modeling system, they can interact and
+impact the simulated composition of the atmospheric CH4 in very complex
+ways. Importantly, when δ13C-CH4 observations are incorporated into 3D
+inversions (as opposed to box-model studies), the spatio-temporal CH4
+constraint greatly outweighs the information from the relatively sparse
+δ13C-CH4 observations, leading to varying results based on modeling choice
+(e.g., Basu et al.13 choose to optimize emission sectors, while Thanwerdas
+et al.14 optimize δ13C source signatures).
+As a complementary effort to δ13C-CH4 inversions, this study
+examines forward simulations to assess the current understanding of the
+CH4 budget. We use the MIROC (version 4)-based atmospheric
+chemistry-transport model (MIROC4-ACTM)48 for simulating the his-
+tory of δ13C-CH4 and δD-CH4 alongside CH4 from 1970 to 2020. The
+simulationsintegratediverse datasources,includingemissioninventories,
+KIE values, chlorine ﬁelds, and region-speciﬁc source signatures (detailed
+in the Methods section and Table 1, S1). Analyzing extensive sets of
+simulations, we propose sector-speciﬁc emission changes that align best
+with observations. Speciﬁcally, the simulation results are compared to
+balloon-basedverticalmeasurements uptothestratosphere andtosurface
+observations covering latitudes and past decades. The simulations are
+tested rigorously against various benchmarks (e.g., choice of initial
+atmospheric CH4 and δ13C-CH4 values (Fig. S4) and drift in tracer mass
+conservation in simulating δ13C-CH4 (Fig. S5)), which are detailed in the
+Methods section. While δD-CH4 simulations are valuable for assessing
+vertical proﬁles and broadly global trend (Fig. S6), they are excluded from
+sub-hemispheric analyses (Fig. 2) due to limited coverage of observation
+and source signatures data.
+Fig. 1 | CH4 emission distributions across various
+source sectors. Temporal (a), latitudinal (b), and
+spatial (c–e) variation in CH4 emissions for different
+sectors used to prepare the baseline scenario (E0;
+details in Table S1). The solid lines and shaded areas
+in the latitudinal plot (b) represent the mean and
+±1σ (standard deviations) for 1970–2020. The
+symbols in maps represent observation locations
+operated by INSTAAR/NOAA (square for CH4
+89
+and plus for δ13C-CH4
+90) and Tohoku University
+(TU) / National Institute of Polar Research (NIPR)
+(green circles for both CH4 and δ13C-CH4
+91). The
+observation sites falling in the three latitude bands
+(as shown in Figs. 2, 4), separated by lines on the
+maps, were used to calculate the mean CH4 and
+δ13C-CH4 time series in respective latitudinal bands.
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+2
+Results
+Decadal trends of atmospheric CH4 and its stable isotopic
+composition
+TheobservationsshowedadeclineintheCH4growthrateandanincreasein
+δ13C-CH4 during the 1990s, followed by a plateau until 2006 (Fig. 2).
+However, since 2007, there has been a substantial increase in atmospheric
+CH4 levels, while δ13C-CH4 turned its trend to negative (i.e., a decrease in
+δ13C). The base simulations, based on emission scenario E0 that uses
+increasing fossil fuel and microbial emissions from EDGARv6 and the
+VISIT model2,5 (details in Table 1 and “Method” Section), reproduces the
+observed CH4 growth rate well (represented by bars in Fig. 2) in 1985–1989
+and to some extent in 1990–1999 (bars agree within the error bars). How-
+ever, after 2000, the E0 simulation overestimates the observed growth rate,
+particularly in the NHL and TrP regions, due to a rapid increase in input
+emissions (Fig. 1a). Additionally, the δ13C-CH4 simulations based on the
+same E0 scenario shows a sustained increase from 2000 to 2020, contra-
+dicting the observed trend of an initial steady state followed by a decrease in
+the mid-2000s and 2010s (r < 0.4), respectively. These discrepancies suggest
+gaps in our understanding of the total and sectorial emissions used in the E0
+scenario (Fig. 2). Previous studies adjusted bottom-up CH4 emissions to
+match global atmospheric CH4 increases and to satisfy global mass balance
+of δ13C-CH4 using the mass-balance equation13,16,35. However, such adjust-
+ment implicitly assumes that CH4 emissions from bottom-up estimates are
+more uncertain than source signature estimates and KIE values. In reality,
+each term of the isotopic mass balance of CH4 includes notable uncer-
+tainties. In this study, we used several bottom-up CH4 estimates from dif-
+ferent inventories, which are more realistic based on varying statistics but
+suffer from observation-based validation4.
+The joint comparison of observed CH4 and δ13C-CH4 and baseline
+simulations trend in Fig. 2 hints at the most plausible potential emission
+sector that need to be changed in the E0 scenario. Reducing emissions from
+microbial (MiB) sectors (e.g., wetlands, landﬁlls, ENF&MNM, etc.) could
+help to reduce the overestimation of CH4 in the E0 emission scenario.
+However, this would not reverse the rising δ13C-CH4 trend in E0, as
+decreasing isotopically light MiB emissions would shift the global δ13C-CH4
+signal towards even higher values. Although emissions from biomass
+burning (BB) are strongly enriched in 13CH4 (δ13C-CH4 ~ −26‰) com-
+pared to other sources, these emissions are relatively small globally (~34 Tg-
+CH4 yr−1 for 1990–2020: Table S1), and thus adjusting them would have a
+little effect on the modeled CH4 growth rate but largely impact δ13C-CH4
+trend32,49,50. Conversely, reducing proportions of 13CH4-enriched fugitive
+fossil fuel (FF) sector (coal, ONG, and geological), the second-largest con-
+tributor in the E0 (Fig. 1 and Table S1), is likely the most plausible way to
+align with both CH4 and δ13C-CH4 observations simultaneously, especially
+given the substantial uncertainties in the EDGARv6 inventory for major
+emitters9.
+Balancing the CH4 and 13CH4 budgetbyrevisingfugitivefossil fuel
+emissions
+Fugitive fossil fuel emissions from the ONG sector are highly uncertain and
+exhibit noteworthy discrepancies between the EDGARv6 and GAINSv4
+inventories regarding their magnitude (exceeding 35 Tg CH4 yr−1) and
+trend(Fig.3a)4.Thesediscrepanciesarisefromvariationsinemissionfactors
+associated with the venting and ﬂaring of associated gas during ONG
+extraction, which differs across various ONG ﬁelds worldwide (further
+details are provided in the Methods section). Meanwhile, trend in microbial
+emission sources, such as ENF-MNM, landﬁlls, wetlands, show smaller
+discrepancies among different inventories and process-based models than
+fossil fuel emissions2,4, offering less scope for change. To address the model-
+data discrepancy, we prepared an ensemble of emission scenarios based on
+GAINSv4 fossil fuel estimates and other suggested estimates in the literature
+(details provided in the Method Section). In these scenarios, we assumed
+that microbial/biomass burning (BB) emissions, depleted/enriched in
+13CH4, align with the inventories.
+The E1 scenario replaces ONG emissions trend in the E0 scenario with
+the GAINSv4 inventory estimates (shown as “ONG_total” in Fig. 3a).
+Though the E1 simulation replicates the CH4 growth rate shifts overthe ﬁrst
+decades, it overestimates the post-2000 growth rate and fails to match the
+δ13C-CH4 trend during the 2010s. The divergence (r < 0.4) likely results
+from overestimated emissions after 2000, tied to overestimated coal
+Table 1 | Details of sensitivity simulations (shown in Figs. 2 and 4) using different combinations of emission sectors from various
+inventories and isotopic source signatures
+Coal
+ONG
+Geological
+Wetland
+ENF & MNM
+LDF
+Biomass
+Burning
+Global mean (1990–2020)
+δ13C-CH4 source sig-
+nature (‰)
+Sensitivity test using combinations of different sector emission for simulating observed CH4 and and δ13C-CH4 growth (Fig. 2)
+E0
+(base)
+EDGARv6
+37Tg yr−1
+VISIT
+EDGARv6
+GFEDv4 /GISS/
+Mac-City
+−54.99
+E1
+EDGARv6
+GAINSv4
+−54.77
+E2
+EDGARv6
+China coal
+scaled
+GAINSv4 – unconventional gas
+emissions excluded from USA
+−54.99
+E3
+EDGARv6
+China coal
+scaled
+GAINSv4 – unconventional gas
+emissions excluded from USA
+19Tg yr−1
+−55.27
+E4
+Same as E3, but EDGARv6 ONG spatial distribution scaled to ONG estimate from GAINSv4 in E3
+−55.27
+Sensitivity test for improving the simulated δ13C-CH4 bias (based on geographically varying (Map) and global invariant source signatures in ‰) (Fig. 4). The emissions are kept
+same as E3
+Coal
+ONG
+Geological
+Wetland
+ENF&MNM
+LDF
+Biomass
+Burning
+Global mean (1990–2020)
+δ13C-CH4 source signature
+E3_const
+−3525,49
+−4424,25
+−49.459
+−61.336
+−65.424
+−5549
+−26.224
+−55.27
+M-all
+Map
+Map
+Map
+Map
+Map
+Map
+−55.05
+M2
+Map
+Map
+−54.55
+M2_Hgeol-ong
+−4049
+−4049
+Map
+Map
+−53.72
+M3_Hgeol-ong
+Map
+−4049
+−4049
+Map
+Map
+−54.15
+The δ13C source signature maps include the country/regional-speciﬁc source signatures based on the updated sample size35. The E3_const used the globally averaged value for all sectors. We show only
+those sectors that are changed for different scenarios as compared to the base scenario (details are given in “Methods” section).
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+3
+emissions in China after 200010,42,43 and unconventional shale gas extraction
+primarily driven by hydraulic fracturing and horizontal drilling in the USA
+since around 2005. Several studies have indicated that the rates of these
+emission increases are highly uncertain across inventories and inconsistent
+with atmospheric observations and regional inversions10,11,15,42,51–53. Addi-
+tionally,thehigherCH4increaserates simulated at the sites close to the USA
+(a downwind area for Bermuda) and China (source area for Mongolia)
+also support higher emission increase rates in E1 scenario over these
+regions (Fig. S9).
+To reconcile observed discrepancies, we designed the E2 scenario,
+excluding 15Tg emission increase (representing an extreme case) from
+unconventional US gas extraction since 2006 (Fig. S10b), as this rise is not
+evident in satellite and surface observations20,51,54. The uncertainty in leakage
+rate55–58 used for calculating the emissions from shale gas production, could
+skew the estimation by inventory. The E2 scenario also aligns China’s coal
+emissions with regional trends from a previous MIROC4-ACTM inversion
+study10. The simulations using the E2 scenario align well with both the CH4
+andδ13C-CH4trends(R > 0.85forCH4andR > 0.7forδ13C-CH4).However,
+a noticeable consistent bias remains between simulated and observed CH4,
+indicating that adjusting emissions from any time-invariant source might
+reduce this systematic offset without altering the overall trend. The global
+emission strength of geological CH4 remain uncertain, with estimates
+varying from 2 TgCH4-yr−1 to 76 TgCH4-yr−1 based on various measure-
+ments and estimates7,59–61. As there is no discernible trend in these emissions
+on the timescale of our simulation, which is relatively short from the per-
+spective of geologic processes59, we have revised the global geological
+emissions down to 19 TgCH4-yr−1 in scenario E3. The simulations based on
+this scenario aligns closely with the observed CH4 magnitude and trend
+across all latitudinal bands.
+We also validate the total CH4 emissions from the E3 scenario using
+inversion estimates (“Inv”; black line in Fig. 3c) based on observed atmo-
+sphericCH4growthasdiscussedinChandraetal.10.Whilethedecadalmean
+of E3 emissions aligns with the inversion estimates, slight discrepancies
+appearintheearly2000sgrowthrate,whichwasalsoevidentintheE3-based
+simulated growth rate for that period (Fig. 2). The high emission growth in
+E3 emission scenario between 2000 and 2006 as compared to inversion
+Fig. 2 | Evaluating the simulations of long-term atmospheric CH4 and
+δ13C-CH4 trend. Model (solid lines) and observation (symbol) comparison of long-
+term trend and growth rates (± standard error) (bars) of atmospheric CH4 (in ppbv)
+from 1985 to 2020 (a–c) and δ13C-CH4 (in ‰) from 1998 to 2020 (d–f). The growth
+rates were calculated as the time derivative of long-term trends (detail in Chandra et
+al.10) and averaged for different periods (deﬁned in the top of panels in “a” for CH4
+and in “d” for δ13C-CH4). The time series are based on an average of atmospheric
+CH4 and δ13C-CH4 measurements and corresponding simulations from multiple
+stations in the marine boundary layer of three respective latitude bands shown in
+Fig. 1. Individual site comparisons for CH4 and δ13C-CH4 are presented in Figs. S7,
+S8. The root-mean-square error (in ‰) and correlation coefﬁcients (obs vs model)
+for different simulation cases are shown for δ13C-CH4 in legends.
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+4
+estimates, indicates some emission sectors (e.g., coal mines, landﬁlls, etc.)
+could still have high growth during this period. It is noteworthy that our
+results arise solely from forward simulations, and further improvement in
+emission inventories could help to reﬁne the remaining changes in emis-
+sions. Although the E3 scenario closely matches the observed CH4 and
+δ13C-CH4 trend, the δ13C-CH4 absolute value is more negative than the
+observations. We undertook additional sensitivity analysis to address the
+source of δ13C-CH4 simulation bias.
+Uncertainty in δ13C-CH4 simulations due to the representation of
+atmospheric chemistry
+The mean atmospheric δ13C-CH4 represents a ﬂux-weighted average of all
+emissions, as well as isotopic fractionation due to sinks of CH4. The bias in
+simulated δ13C-CH4 values could therefore be attributable to the repre-
+sentation of atmospheric chemistry and different speciﬁcations of δ13C-CH4
+source signatures. In this section, we focus on uncertainty due to atmo-
+spheric chemistry, speciﬁcally the role of the Cl sinks and isotopic fractio-
+nation or KIE for OH (KIEOH) in the troposphere (mainly).
+The role of the active Cl sink in the troposphere is poorly constrained
+due to a lack of consensus on the strength and distribution of the tropo-
+spheric Cl sink and trend62–66. Including extra tropospheric Cl via a recently
+proposed photocatalytic mechanism on mineral dust-sea spray aerosols
+could help to reduce the negative bias in δ13C-CH4 simulations66. To assess
+the effect of the Cl sink on modeled CH4 and δ13C-CH4, we ran simulations
+using the cyclostationary Cl ﬁeld from Wang et al.65 (Cl_wang) in addition
+to a control Cl ﬁeld (Cl_ctrl; Takigawa et al.67). The Cl_ctrl ﬁeld has higher
+stratospheric concentrations than the Cl_wang ﬁeld, with a mean value of
+2.1 × 105 molec. cm−3. The primary difference in both ﬁelds is the repre-
+sentation of tropospheric reactive chlorine chemistry through the treatment
+of sea salt aerosol and its chloride mobilization. The Cl_wang ﬁeld includes
+this representation, but Cl_ctrl does not. Simulations with the Cl_wang
+ﬁelds increased the offset in δ13C-CH4 simulations by 0.6‰ compared to
+Cl_ctrl-based simulations, but the trends remained unchanged (Fig. S11).
+These sensitivity tests had a negligible impact on CH4 simulations. The
+Cl_ctrlﬁelddoesnotincludeaparameterizationforatomicClproductionin
+marine environments, as the spatial distribution and interannual variability
+of marine Cl are highly uncertain, which is an interesting target for
+future study.
+OH oxidation is the dominant sink for atmospheric CH4 (~90%).
+Consequently, KIEOH values could greatly inﬂuence the δ13C-CH4 simula-
+tions. The literature suggests notably different values for KIEOH; Saueressig
+et al.45 reported a low KIEOH value (L-KIEOH: 1.0039) compared to Cantrell
+et al.46 (H-KIEOH: 1.0054) and recently Whitehill et al.47 (1.0061). Previous
+studies have adopted either values (L-KIEOH vs H-KIEOH) based on their
+Fig. 3 | Global CH4 emissions change under dif-
+ferent emission scenarios. Panel (a) displays global
+coal and ONG emissions used for sensitivity and
+baseline (E0; EDGARv6) simulations. Sensitivity
+simulations include total ONG emissions from
+GAINSv4 (E1; ONG_total4), ONG emissions from
+GAINSv4 after excluding unconventional emissions
+from the USA (ONG_wUnc), and scaled China coal
+emissions (Scaled_coal) from 2000–2020 based
+previous inversion study10 (E2; ONG_wUnc + Sca-
+led_coal), as well as reduced geological emissions
+(E3) (detailed in Table 1). In (b), we compare the
+most plausible total fugitive fossil fuel and microbial
+emissions of this study, which are able to reproduce
+atmospheric CH4 and δ13C-CH4 history, with inde-
+pendent studies using a box model by Schwietzke et
+al.29. Panel (c) compares global total CH4 emissions
+used for baseline (E0) and sensitivity simulations
+(E1, E2, E3 shown in Fig. 2) with the independent
+inversion-estimated global total emission10.
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+5
+preference14,16,28,29,32,34–36,39,49,50,64. Since we cannot determine the relative
+merits of the reported OH fractionation, we tested both (L-KIEOH,
+H-KIEOH) values in the sensitivity simulations. Simulations with H-KIEOH
+and L-KIEOH differed by approximately 1.2‰, however the impact on the
+temporal δ13C-CH4 trend was negligible (Fig. S12).
+Improving the δ13C-CH4 bias and trend using varying source
+signatures
+Our knowledge of δ13C-CH4 signatures is incomplete because of the sample
+biases (including over- and under-representation of source regions) and
+limited δ13C databases for speciﬁc source categories24,29,68. Along with this,
+the globally uniform δ13C-CH4 source signature used in simulations (shown
+in Fig. 2 and “E3_const” scenario in Fig. 4) does not account for regional/
+geographical variations in CH4 sources (as depicted in Fig. S13). For
+example, the wetland isotope signature varies with temperature, resulting in
+a latitude gradient36,69. Ruminant emissions and biomass burning signatures
+alsodependonfactorslikethediet(C3orC4)andburningmaterialtypes(C3
+or C4)24,35. To assess the overall uncertainty in modeled δ13C-CH4, we ran
+simulations using 32 ensemble scenarios based on the common E3 emission
+scenario and Cl_ctrl ﬁeld, as well as different combinations of δ13C-CH4
+source signatures and two KIEOH values (Tables 1 and S2). The δ13C sig-
+nature maps for coal and ONG were derived from country-speciﬁc values,
+while those for ruminants and biomass burning were based on regional C3/
+C4 fraction maps35. The wetland signature was determined considering
+different wetland subtypes (e.g., bog, fen, and mineral wetlands with C3/C4
+pathways)36.WiththeMIROC4-ACTMsimulations,wehavequantiﬁed the
+contributionfromgloballyinvariantvs. geographicallyvaryingsignaturesof
+individual sectors to the simulated δ13C-CH4 value and trend (Figs. 4,
+S14, S15).
+The global mean source signature of CH4 varies temporally due to
+regional isotopic variations in CH4 sources (Fig. S14g). The ENF&MNM
+source signature, for example, has become less negative from −66.4‰ in
+1990 to −66‰ in 2020 because of expanded agriculture in tropical regions
+like India, South America, and Tropical Asia24; the prevalent C4 vegetation
+Fig. 4 | Evolution of δ13C-CH4 simulations under different scenarios based on
+isotopic signatures and KIEOH. All sensitivity runs use the most likely emission
+scenarios (“E3”), but different combinations of source signatures and KIEs. The
+simulations presented in the left column (a–c) and right column (d–f) correspond to
+H-KIEOH (1.0054: Cantrell et al.46) and L-KIEOH (1.0039: Saueressig et al.45),
+respectively. This sensitivity run proceeds to improve the growth rate and difference
+between modeled and observed δ13C-CH4. The numbers root-mean-square error
+(RMSE) and correlations (R) between observed and δ13C-CH4 simulations are
+shown in the legends. See Fig. S8 for the comparison of individual sites used for
+preparing the mean.
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+6
+diet at lower latitudes would result in higher δ13C-CH4 signature of the
+ENF&MNM source (Fig. S14d). When these variations are incorporated in
+simulations (MENF), δ13C-CH4 values reduced by about −0.2‰ compared
+to E3_const, while the growth rate remains relatively stable (Fig. S15).
+Biomass burning and wetland signatures show yearly variability (IAV)
+without a clear trend (Fig. S13d, f). Incorporating the ~10‰ latitudinal
+difference between the NHL (mean −67.8‰) and tropical (mean –56.7‰)
+wetland signature, using a spatial map of isotope signatures, improves the
+latitudinalgradientandseasonalcycle(obs:model;r = 0.85)andgrowthrate
+as compared to scenario E3_const (Fig. 4). Still, the model underestimates
+the seasonal amplitude, which could be enhanced by incorporating a sea-
+sonal variation in the wetland signature36,69. Updated biomass burning
+signatures (based on a map) increased δ13C-CH4 values by 0.1‰ compared
+to E3_const but had no effect on the trend.
+Withspatiallyvaryingsourcesignature,globalcoalemissionssignature
+transitioned from less negative value in 1970 to more negative post-2011
+(Fig. S14a). The shifts are primarily due to changes in China’s coal
+emissions42, whose δ13C-CH4 signature is relatively high (−36‰) compared
+totheglobalaverage(−44.6‰).Accountingforthesesignatures,simulation
+led to more negative trend compared to the E3_const simulations and slight
+improved growth rate, while the inter-annual variability remained
+unchanged (Mcoal in Fig. S15). Yet, this experiment underscores the sig-
+niﬁcance of China coal emission and its δ13C-CH4 signature in shaping the
+global δ13C-CH4 trend, albeit not clearly quantiﬁed in previous studies due
+to competing contributions of different sources.
+Employing all available source signature maps in the M-all scenario
+notably improves the seasonal cycle and interannual variability (IAV)
+(r > 0.85) in the NHL (Fig. 4). The observed δ13C-CH4 growth rate change
+during 2010s across latitudinal bands was also closely replicated (Fig. 4).
+However, discrepancies remain between simulated and observed atmo-
+spheric δ13C-CH4 (1.4‰ in L-KIEOH, and 0.5‰ in H-KIEOH). By adjusting
+ONG and geological signatures to less negative (−40‰) as suggested in
+previous studies34,49,70, the discrepancies were reduced from 0.5‰ in M-all
+(using H-KIEOH) to within ±0.2‰ (M2_Hgeol-ong: +0.2‰, M3_Hgeol-
+ong: −0.2‰), falling well within the uncertainty range of the observed data
+(Fig. 4a–c). Importantly, these sensitivity experiments suggest that the
+geographicalvariationsinwetland,biomassburning,andcoalsignaturesare
+crucial in simulating the IAV, seasonal cycle, and latitudinal gradient of
+δ13C-CH4 (Fig. 4).
+Evaluating the vertical and geographical distribution of CH4 and
+δ13C-CH4 simulations
+Before attributing emission changes to observed CH4 and δ13C-CH4, it is
+essential to evaluate the model’s dynamical and chemical processes. We use
+simulated vertical proﬁles as indicators of the model’s proﬁciency in cap-
+turing intricate processes, such as stratospheric chemistry and vertical
+transport (stratosphere – troposphere exchange)71. Consequently, beyond
+analyzing long-term trends, we assessed model’s efﬁcacy in representing
+stratosphere-troposphere exchange by comparing simulated and vertical
+proﬁle observations of CH4, δ13C-CH4, and δD-CH4 distributions from
+balloonﬂightsovertheKiruna,Sweden(polarregion)andHyderabad,India
+(subtropical region)71.
+Simulations under the E3 emission scenario, M2_Hgeol-ong signature,
+Cl_ctrl ﬁeld, and H-KIEOH (most plausible to reproduce CH4 and δ13C-CH4
+long-term trend in Figs. 2, 4) demonstrated excellent agreement (r > 0.9)
+with observed proﬁles, indicating the model’s capability in representing
+complex processes likechemicallossand transport (Fig.5). The comparison
+suggests that while the KIEOH introduces offsets (seen from Cl_ctrl_H-
+KIEOH and Cl_ctrl_L-KIEOH inFig.5),theprimaryinﬂuencerofthevertical
+gradient is the Cl distributions (seen from Cl_ctrl_H-KIEOH and
+Cl_wang_H-KIEOH in Fig. 5). Cl_ctrl simulations depict a pronounced
+vertical gradient above 25 km due to higherClconcentrations,corroborated
+by observed δ13C-CH4 and δD-CH4 gradients from the tropical site
+Hyderabad. Conversely, a reduced vertical gradient observed over the polar
+Fig. 5 | Validating model results (transport and
+chemistry) using balloon-borne measurements.
+Comparisons of CH4, δ13C-CH4, and δD-CH4
+simulations (lines) with balloon measurements (ﬁl-
+led circles) over Kiruna (a–c) and Hyderabad
+(d–f)55. Model simulations are sampled at the date
+and time of the observations. The model simulations
+are shown for two different Cl (Cl_Ctrl67; and
+Cl_Wang65;) ﬁelds using the E3 emission scenario
+and M2_Hgeol-ong source signature scenario. The
+sensitivity simulations based on different KIEOH (H-
+KIEOH
+46, L-KIEOH
+45) values are additionally shown
+for δ13C-CH4. The δD-CH4 simulations are adjusted
+by a constant offset of 15‰ to focus on the gradient.
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+7
+site Kiruna aligns with the Cl_Wang ﬁeld. It is important to note that the Cl
+ﬁelds cannot be validated solely based on these limited observations, but
+they provide insights into the associated uncertainty.
+We further evaluated our δ13C-CH4 based emission attribution by
+comparing the observed and simulated latitudinal gradient (Fig. 6) and the
+north-south gradient (expressed as “N-S gradient”; the difference between
+NHL and SHL: Fig. S16)10. Among the scenarios, E3 consistently matched the
+observed CH4 latitudinal distribution (Fig. 6a, d, g). The observed N-S gra-
+dient of CH4 decreased from 1985–1989 to the 1990s (1990–1999) and sta-
+bilized afterward (Fig.S16a)due toa southward emission shift10.Yet, E0(total
+FF emission 142 ± 15 TgCH4 yr−1 for 1990–2020) showed an inconsistent
+increase in this gradient, primarily driven by rising fossil fuel emissions in the
+NHL.WhereastheE3scenario,whichincludedaﬂatfossilfuelemissiontrend
+(by reducing coal emission growth rate over China and excluded rapidly
+increasing unconventional gas emissions after 2006 from the USA) and
+reduced geological emissions, mirrored the observed changes in the N-S
+gradient with a slight overestimation in magnitude. Comparing ONG esti-
+mates, GAINSv4 showed higher emissions than EDGARv6 in the NHL
+(Fig. S17). To address this slight overestimation, we introduced E4 scenario,
+wheretheEDGARv6ONGmapwasscaledtoGAINSv4globaltotalestimate.
+Although both scenarios had the same global emissions, E4 reduced the
+overestimation of the observed N-S CH4 gradient by 10% compared to E3,
+indicating better agreement with EDGARv6 emission spatial patterns in the
+Northern high latitude regions (Fig. S16). Additionally, E4 aligned well with
+the long-term variation of CH4 in the NHL (Fig. S18a).
+During 1998–2020, the latitudinal distribution of δ13C-CH4 showed
+morenegativevaluesintheNHL comparedtotheSHL.Thiswasprimarily
+due to the prevalence of emissions in the north and subsequent fractio-
+nation through reaction with OH during transport to the Southern
+Hemisphere. The E3_const scenario (Fig. 6b–i), which used globally
+uniform source signatures, reasonably captured the observed δ13C-CH4
+gradients south of 30°N but overestimated them in the north (>30°N).
+Incorporating geographically varying δ13C-CH4 source signatures, espe-
+cially from boreal wetlands with lower δ13C-CH4 signatures, improved the
+simulated gradient in the north. Notably, the choice of KIEOH values also
+inﬂuenced the latitudinal δ13C-CH4 gradient (Fig. S16b, c), suggesting
+uncertainty ties to both KIEOH values and source signature and the best
+different combinations may yield to similar model results. For example,
+M-all scenario in the case of L-KIEOH values, as well as “M2_Hgeol-ong”
+and “M3_Hgeol-ong” scenarios in the case of H-KIEOH values reproduce
+the observed N-S gradient (Fig. 6). Recently, Whitehill et al.47 even
+reported a higher KIEOH value of 1.0061, near to H-KIEOH value used in
+this study that align well with observed variation, supporting our ﬁndings
+that a greater KIEOH value is a possibility to reproduce the observed long-
+term trends, vertical distributions, and north-south gradients. Overall, the
+simulated and observed global N-S gradients of CH4 and δ13C-CH4 at
+remote background sites add a spatial source attribution constraint. On
+the basis of simulated scenarios, we ﬁnd that. the E3 emission scenario
+combined with M2_Hgeol-ong source signatures is consistent with the
+observed global N-S gradient.
+Fig. 6 | Evaluating geographical CH4 emissions and δ13C-CH4 source signatures.
+Comparison of the observed and modeled latitudinal gradient of CH4 (a, d, e) and
+δ13C-CH4 using different emission scenarios and KIEOH (H-KIEOH: b, e, h; L-KIEOH:
+c, f, i) values for three periods. Only a few cases are shown for clarity. All simulations
+are adjusted to the SPO observation to highlight the latitudinal gradient. All the
+δ13C-CH4 simulations use common E3 emissions but different combinations of
+source signatures, shown in Fig. 4 (detailed in Table 1). Please note that here the
+number of sites is different from sites used for the long-term trend shown in Figs. 2, 5.
+Also, the total number of sites for CH4 and δ13C-CH4 are different (side codes used
+for δ13C-CH4 plot are shown below y-axis in the bottom panel).
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+8
+Discussion and conclusions
+Reconciling the global CH4 budget remains an under-constrained problem
+with multiple sources of uncertainty from sectoral emission sources (both
+anthropogenic and natural), loss mechanisms (e.g., OH, Cl etc.), isotope
+signatures, KIE values, and limited global CH4 and δ13C-CH4 observations.
+These uncertainties have complicated modeling of the atmospheric CH4
+changes and resulted in diverse conclusions. Our study reﬁnes the under-
+standing of atmospheric CH4 drivers by uniquely leveraging diverse
+inventory estimates, accounting the impact of isotope parameter (KIE
+values and source signature) uncertainties, and incorporating balloon and
+surface observations within a 3D ACTM forward modeling approach.
+Instead of hypothetically adjusting bottom-up emissions to ﬁt global
+CH4 increments and to satisfy the global mass balance of δ13C-CH4, we
+prioritized use of emission estimates from different inventories to check
+their alignment with long-term and vertical observations using MIROC4-
+ACTM. Our primary focus was on fugitive fossil fuel sectors (notably ONG
+and coal) due to substantial uncertainties in their reported trends across
+inventories like EDGARv6 and GAINSv4. The distinction between con-
+ventional and unconventional ONG emissions in GAINSv4 was pivotal in
+analyzingunconventionalONGemissiontrendsintheUSA,whichisoneof
+the most conﬂicting and debated topics and important for the policy
+measures. Although wetland emission estimates can be contentious, the
+utilized VISIT wetland trends align with most of other process-based model
+estimates and hence do not alter our primary conclusion on long-term CH4
+growth rate change drivers. However, we recognize the presence of wetland
+magnitude uncertainties in the relative contribution of mean emissions to
+the total CH4, which will be explored in future studies.
+Additionally, this study utilized diverse isotope signatures from the
+literatures and experimentally distinct KIE valuesto quantify their inﬂuence
+on simulated δ13C-CH4 values and trends. Our ﬁnding indicates that the
+choice of the KIE values has notable impact on both the simulated mag-
+nitude and latitudinal gradient of δ13C-CH4, but not on the long-term
+δ13C-CH4 trend (Figs. 4, 6). Notably, changes in the latitudinal signature of
+sources, such as wetlands, could improve the mismatch between simulated
+and observed latitudinal gradient without requiring emission modiﬁcations
+as widely done by inverse modeling (Fig. 6). These experiments underscore
+the importance of correct KIE and source signature values when trying to
+distinguish relative contribution of sources (e.g., Fossil fuel, Microbial,
+Biomass Burning) in total emissions. Such knowledge is crucial when cor-
+recting emissions using inverse modeling of δ13C-CH4.
+Insummary,consistentincreasesinmicrobialandfossilfuelemissions,
+as indicated by the EDGARv6 inventory (E0 emission scenario in Table 1
+and Fig. 1), did not align with observed atmospheric CH4 and δ13C-CH4
+trendsduring1985–2020.However,theGAINSv4inventory,whichshowed
+declining fossil fuel emissions from 1990–2004 and stability thereafter (after
+removing unconventional emissions from 2006) (E3 emission scenario;
+Fig. 3b), successfully replicated observed trends and latitudinal/vertical
+distribution of atmospheric CH4 and δ13C-CH4 (Figs. 5–7). Although some
+studies13,16,29,35 have suggested stable fossil fuel emissions in recent decades,
+our study further elucidates potential underlying causes in the fossil fuel
+sector. Speciﬁcally, the decline in emissions from the ONG sector during
+2000–2010, combined with the rise and subsequent fall in coal emissions
+during 2000–2012, contributed to the stable fugitive fossil fuel trend
+(Fig. 3b). Our ONG estimates for the USA (~7Tg for 2018–2020), after
+removing unconventional emissions, is very close to an independent esti-
+mate by the GFEIv2 inventory (8.1 Tg) based on UNFCCC data72, but
+slightly lower than the result of an inversion study (12.6 Tg) based on the
+TROPOMI data19. In addition to this, the global coal estimate from this
+study (~30 Tg) closely matches with the TROPOMI data-based inversion
+estimate (~32 Tg) and UNFCCC data (32.8 Tg) during 2018–202072. While
+the total fossil fuel emission trend in E3 seems reasonable in reproducing
+observed CH4 and δ13C-CH4 trend, this study does not assess the validity of
+zero unconventional emissions (an extreme case considered in E3 scenario).
+Nevertheless, our assessment is constrained by the application of a uniform
+source signature for both conventional and unconventional emissions,
+which presents limitations in distinguishing their respective contributions
+to the observed δ13C trend. So, instead, it quantiﬁes the change in the overall
+ONG, coal, and total fossil fuel emissions required to match the observed
+CH4andδ13C-CH4trends.Itisplausiblethatsomeunconventionalshalegas
+emissions exist, but other ONG emissions might have decreased further to
+compensate for fracking emissions. Furthermore, it is possible that any
+reduction in CH4 emissions resulting from improvementsin the natural gas
+industry’s management practices and equipment replacement could be
+offset by increased natural gas production20,73.
+The total CH4 emissions from fossil fuels (FF) in the most plausible E3
+scenario decreased by about 6 TgCH4 yr−1 (from 129 ± 7 TgCH4 yr−1 (mean
+Fig. 7 | Attributing the drivers for global CH4 and
+δ13C-CH4 trends. The emissions are plotted for
+three subcategories i.e., Microbial, Fossil Fuel and
+Biomass burning based on the most plausible E3
+emission scenario. The budget imbalance is deter-
+mined from total sources minus total loss due to
+reactions with OH, atomic Cl, excited oxygen O(1D),
+and oxidation by bacteria in aerobic soils. The
+monthly mean CH4 (circle for observations and line
+for model simulations based on most plausible sce-
+nario E3) values represent the Southern Hemi-
+sphere, as shown in Fig. 2c. For δ13C-CH4, we have
+plotted observations and the “M2_Hgeol-ong” case
+based on H-KIEOH for northern and southern sur-
+face baseline stations, Ny‐Ålesund, Svalbard and
+Syowa, Antarctica, operated by Tohoku University
+(TU) and National Institute of Polar Research
+(NIPR)91.
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+9
+±1σ stdev) in the 1990s to 123 ± 4 Tg-CH4 yr−1 in the 2000s) due to decline
+in ONG emissions, while concurrently microbial and biomass burning
+emissions are increased by roughly 17 TgCH4 yr−1 and 4 TgCH4 yr−1,
+respectively (Figs. 3, 7). The reduction in ONG emissions is attributed to
+decreasedoilproductionaftertheSovietUnion’scollapseinthe1990s3,4,and
+reduced oil extraction emissions resulting from efﬁciency improvements,
+such as increased recovery rates and decreased venting of associated pet-
+roleum gas, mainly in Russia and parts of Africa3. These factors contributed
+to the slowdown in atmospheric CH4 growth from 1990 to 2005. Previous
+studies based on δ13C-CH4 observations provided conﬂicting results on
+changes in FF emissions27,49, with only Bousquet et al.27 suggesting FF
+emission reductions for 1988–2002. In our study, between 2000s and 2010s,
+CH4 emissions from FF and biomass burning remained relatively stable at
+around 124 TgCH4 yr−1 and 33 TgCH4 yr−1 (Figs. 1, 3), respectively. This
+stable fossil fuel emission trend is consistent with previous studies, however
+the magnitude differs13,28,29,35. Meanwhile, microbial emissions increased by
+about27TgCH4yr−1duringthesameperiodduetoexpandingcattlerearing
+in Latin America and increased waste emissions in developing regions like
+China, India, Southeast Asia, Latin America, and Africa (Figs. 7, S19, S20).
+The wetland accounted for approximately 16% of the total increase in
+microbial emissions from 1990s to 2010s. The decadal mean of E3 emissions
+aligns with the inversion estimates using surface observations10 (Fig. 3c),
+which indirectly validate the most plausible emission scenario (E3) from
+this study.
+This study acknowledges certain limitations, particularly in system-
+atically exploring the uncertainties of individual components of CH4 budget
+because the number of uncertain parameters (e.g., emission sectors such as
+wetland, fossil fuel, KIE, OH trend, Cl sink, etc.) outweigh the available
+constrains (CH4 and δ13C-CH4 measurements). For microbial emission
+trends, we rely on the agreement between multiple data sources, including
+inventories and process-based models. Uncertainty in magnitude of
+microbial emissions, like wetlands, could inﬂuence the selection of our
+optimal KIE value, source signatures and relative contribution of fossil fuel
+emissions to balance the δ13C mean value. The magnitude of wetland
+emissions estimated by VISIT is close to the ensemble mean of the Global
+Carbon Project’s (GCP) wetland models, showing consistent variability and
+trends (e.g., recent study for northern high latitude regions74). Therefore,
+integrating results from alternative wetland models will likely lead to similar
+results, in contrast to the different fossil fuel scenarios that we have used. If a
+more robust estimation of KIE becomes available, it could resolve part of the
+uncertainties in assigned values, allowing for more deﬁnitive conclusions
+abouttherelativemagnitudeoffossilfuelandmicrobialemissions,butagain
+a change in the absolute value of the KIE will not affect the temporal trends
+(Fig. S12). Further, due to lack of consensuses on atmospheric OH trend
+from global models constrained by emissions75 versus observationally
+constrained inversion methods17,76,77 over 1990–2018, as detailed in the
+recent IPCC-AR6 report78, this study presumes no long-term changes in
+atmospheric OH sink, in line with methyl chloroform gradient and
+concentration76,79. Yet, we recognize that short-term interannual OH
+variabilities76,77 can inﬂuence on atmospheric CH4 growth rate80. While we
+have primarily examined the impact of Cl uncertainty in δ13C-CH4 simu-
+lations, we plan to address emerging evidence of additional tropospheric
+sources66 in future studies. In conclusion, the ﬁndings of this study suggest
+that the increase in microbial emissions, primarily agriculture and landﬁlls,
+has substantially contributed to the atmospheric CH4 trend over the past
+three decades. These ﬁndings enhance the global effort to reduce methane
+emissions by offering a clearer understanding of historical emission trends,
+which is crucial for developing effective future reduction strategies.
+Materials and methods
+Atmospheric chemistry transport model
+Atmospheric CH4 mole fractions, δ13C-CH4, and δD-CH4 were simulated
+from January 1, 1970, to December 31, 2020, using the JAMSTEC’s Model
+for Interdisciplinary Research on Climate, version 4, based Atmospheric
+Chemistry Transport Model (MIROC4-ACTM)10,48. We ran the model
+globally at a resolution of approximately 2.8125° × 2.8125° over 67 hybrid
+vertical pressure levels extending from the Earth’s surface to 0.0128 hPa
+(~80 km). The MIROC4-ACTM simulated horizontal winds (u and v) and
+temperature (T) are nudged to the Japan Meteorological Agency reanalysis
+ﬁelds81 at 2–61 vertical levels for better representation of synoptic-scale
+transport features. The model’s interhemispheric and vertical transport is
+validated using SF6 simulations in the troposphere and the CO2-derived age
+of air in the troposphere and stratosphere10,48.
+CH4 emission sources and scenarios
+Methane (CH4) emissions can be broadly classiﬁed into three categories:
+fossil fuel exploitation (FF), microbial processes (MiB), and biofuel and
+biomass burning (BB). The FF category includes emissions from indus-
+trial sources (IFF) (such as coal, oil, and natural gas (ONG)), and natural
+geological sources. The IFF mainly emits CH4 through extraction,
+transport, and use, while natural FF sources release CH4 through terres-
+trial and marine seeps, mud volcanoes, and other geological processes.
+The MiB category includes emissions from wetlands, rice paddies, enteric
+fermentation, and manure management (ENF&MNM), and waste/
+landﬁlls (LDF). CH4-generating microbes (methanogens) in anaerobic
+environments produce these emissions. BB emissions result from the
+incomplete combustion of biomass and soil carbon during wildﬁres and
+biofuel burning.
+We prepared four different CH4 emission scenarios, based on bottom-
+up emission estimates (Tables 1, S1). These scenarios are further evaluated
+using the long-term trends and latitudinal gradients of CH4 and δ13C-CH4.
+Baseline scenario (E0)
+We obtained emissions data from various sources to create the baseline
+scenario (E0). For estimates of emissions from IFF sources, we used data
+from
+the
+Emissions
+Database
+for
+Global
+Atmospheric
+Research
+(EDGARv6.0)2. EDGARv6 provides yearly/monthly emissions at a resolu-
+tion of 0.1° × 0.1° for the period of 1970–2018. We extrapolated the emis-
+sions for the years 2018–2020 by calculating the rate of change in previous
+years. For emissions from natural geological sources, we used gridded data
+from Etiope et al.59. We used the same geological emissions for each year by
+assuming no IAV during our study period, as suggested by previous
+studies59. For MiB emissions, we used data from the process-based model
+VISIT(based on Cao scheme)5 for wetlands and rice paddies, and from
+EDGARv6 for ENF&MNM and LDF emissions. For emissions from bio-
+mass burning (BB), we used inter-annually varying emissions from the
+Global Fire Database (GFEDv4s) for the period of 1999–202082. For resi-
+dential burning (RCO), we used data from EDGARv6. We used annually
+repeating emissions from the Goddard Institute for Space Studies (GISS)
+scaled by ×0.315, as an estimation of biofuel burning. For the period of
+1970–1998, we obtained inter-annually varying ﬁre emissions data from the
+Mac-City inventory83. To maintain the same spatial distribution, we used
+GFEDv4s seasonal climatology for the period of 1999–2020 and scaled the
+annual emissions to the Mac-City inventory estimate for the period of
+1970–1998. We used monthly GFEDv4s emissions from 1998 to 2020. For
+emissions from ocean and termites, we used data from Weber et al.84 and
+Saunois et al.8, respectively.
+E1 emission scenario
+To prepare the E1 scenario, the ONG emission in the E0 scenario was
+replaced with estimates from the GAINSv4 model4. The GAINS model,
+developed by the International Institute for Applied Systems Analysis
+(IIASA),is a multipollutant emission estimationmodelthat uses bottom-up
+emissionsestimatesandfuturemitigationpotentialsbasedonanyexternally
+given energy sector scenario.
+EDGARv6 and GAINSv4 provide different estimates of ONG
+emissions, with a difference of over 35 TgCH4 yr−1, and also show
+discrepancies in emission trends from 1990–2018 (Fig. 3a). EDGARv6-
+suggests a consistent increase in ONG emissions during 1990–2018,
+while GAINSv4 suggests a decline from 1990–2006 and a slight increase
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+10
+afterward. These differences arise from varying emission factors related to
+the venting and ﬂaring of associated gas during ONG extraction, whichvary
+across different ONG ﬁelds worldwide. GAINSv4 uses country-speciﬁc
+information on associated petroleum gas generation, recovery, and venting/
+ﬂaring rates, calibrated to satellite image estimates of volumes of gas ﬂared.
+By combining information on the associated gas ﬂow from published
+sources with inter-annual variations in observed ﬂaring of associated gas
+from the Visible Infrared Imaging Radiometer Suite (VIRS) satellite-based
+nighttime ﬁre imagery3, GAINSv4 estimates country-speciﬁc annual CH4
+emissions from ﬂows of associated gas. On the other hand, EDGARv6
+estimates emissions from venting based on national GHG inventories
+reportedtotheUNFCCC.However,itisunclearhowthelatterisreﬂectedin
+emission estimates. National GHG inventories reported to the UNFCCC
+typically apply close to constant default emission factors across historical
+years, making production quantities the main driver for emissions. This
+may explain the relatively stable emission factors reﬂected over time in
+EDGARv6. The GAINSv4 estimates of ONG emissions are available for
+1990–2020, and for 1970–1989, the scaled EDGAR emissions were used at
+the annual global total of GAINS estimates in 1991.
+E2 emission scenario
+Based on the GAINSv4 estimate, CH4 emissions from the oil production
+sector have shown a consistent decline (Fig. S10). However, this decline is
+offsetbya substantialincrease(~19Tg)inemissionsfromunconventional
+gas, mainly shale gas, in the USA from 2006 to 2020 (Fig. S10b). The
+substantial increase in emissions from the unconventional gas sector over
+the USA is highly debatable and atmospheric observations of CH4 around
+the USA contradict these ﬁndings51,54. Despite the increase in CH4 pro-
+duction over the USA, a recent study did not support a large ONG
+emissions72 as well as concomitant large increase in total ONG emissions
+(including shale gas) because of the decrease in CH4 intensity (emissions
+per unit CH4 gas production) from 2010 to 201920. Furthermore, the
+estimates of coal emissions in China provided by EDGAR (used in E0
+and E1) are subject to debate, as regional bottom-up estimates
+and inversions suggest varying rates of increase after 200010,11,42,43,53.
+Therefore, in the E2 emission scenario, we have revised the estimates of
+ONG and coal emissions and other sectors are the same as in the E1
+scenario. Speciﬁcally, we have excluded unconventional gas emissions
+from the total ONG emissions of USA and adjusted the coal emission
+growth in China based on regional emission trends from a MIROC4-
+ACTM inversion study10.
+E3 emission scenario
+We conducted a study to test two hypotheses related to geological CH4
+emissions. These hypotheses were based on recent debates in the scientiﬁc
+literature regarding the total magnitude of geological CH4 emissions59–61.
+Some of the studies suggests that natural geological sources contribute
+largely to the atmospheric CH4 budget59, while others argue that con-
+temporary natural geological emissions have been overestimated based on
+paleo-radiocarbon estimates60,61. The previous scenarios (E0, E1, and E2)
+used the global geological estimates 37 TgCH4 yr−1. Additionally, we con-
+sidered scenario E3 in which global geological emissions in E2 were reduced
+to the value of 19 TgCH4 yr−1. This allowed us to prepare a consistent CH4
+budget and test the impact of different geological emission scenarios on the
+overall budget that was consistent with observed CH4 and δ13C-CH4 trend
+and growth rates, simultaneously.
+Methane loss processes and fractionation in MIROC4-ACTM
+Atmospheric CH4 has four loss mechanisms: atmospheric oxidation by
+hydroxyl radicals (OH) and chlorine (Cl) throughout the atmosphere,
+destruction by electronically excited atomic oxygen (O(1D)) in the strato-
+sphere and consumption by microbes in upland soils (Table S1). The CH4
+consumption by bacteria in soils, taken from the process-based terrestrial
+ecosystem model, VISIT5, is modeled as a negative ﬂux at the surface. The
+loss by chemical reactions is calculated online in the model using the
+following equations.
+CH4 þ OH!CH3 þ H2O ðkOH ¼ 2:45 × 1012 expð1775=TÞÞ
+ðR1Þ
+CH4 þ Cl!CH3 þ HCl ðkCl ¼ 7:3 × 1012 expð1280=TÞÞ
+ðR2Þ
+CH4 þ Oð1DÞ!Products ðkOð1DÞ ¼ 1:5 × 1010Þ
+ðR3Þ
+The temperature-dependent reaction rates (k; units: cm3 molecule−1
+s−1) were taken from the JPL synthesis of chemical kinetics, also used in the
+TransCom-CH4 intercomparison experiment85. The reaction rates differed
+between the CH4, 13CH4, and CH3D which is characterized by a distinct
+kinetic isotope effect (KIE). KIE is quantiﬁed using the ratio of reaction rate
+constants for the light and heavy isotopologue of a certain species, e.g.,
+13CKIEj = kj(12CH4)/kj(13CH4); j = OH, Cl, O1D (Table S1). The loss of the
+heavier methane isotopologues (e.g., 13CH4, and CH3D) is slower than the
+destruction of 12CH4, which is quantiﬁed by a kinetic fractionation factor.
+Each loss process has a different KIE (summarized in Table S1). CH4 losses
+due to reactions with Cl and O(1D) are small compared to the total loss, but
+the strong isotopic fractionations (Table S1) in these reactions greatly
+impact the isotopic budget45,86.
+Methane loss ﬁelds and lifetime
+The inter-annually varying soil sink of CH4 is used from the process-based
+VISIT model. The climatological monthly variations of stratospheric OH
+and the tropospheric and stratospheric control Cl (Cl_ctrl) ﬁelds are used
+from an output of the ACTM’s stratospheric model run, and O(1D) is
+calculated online based on a climatological O3 ﬁeld67. The monthly mean
+three-dimensional tropospheric OH ﬁeld is provided here for online cal-
+culation in the model from Spivakovsky et al87 after scaling by 0.92 to match
+the decay rate of methyl chloroform (CH3CCl3: MCF) in the Earth’s
+atmosphere79. This study did not consider the long-term trend in OH as
+previous research has ruled out an OH-driven explanation for the growth in
+CH4
+10,13,76,77,88.
+The chemical lifetime of CH4 is calculated by τ = Burden / Total
+chemical loss. Despite the climatological OH, Cl, and O(1D) ﬁelds, the
+modeled chemical lifetime of CH4 shows a decreasing trend (~1% -
+decade−1). The decreasing trend could be due to inter-annually varying
+temperatures, as CH4 loss due to OH and Cl increases as temperature
+increases (Eqs. R1, R2). The average CH4 chemical lifetime during
+1985–2020 is 9.59 ± 0.04 years, with a total lifetime of 8.98 ± 0.06 years
+including the soil sink. These estimations agree with the recent IPCC AR6
+estimation.
+Model’s spin-up and mass conservation
+Modelingδ13C-CH4andCH4molefractionsarehighlysensitivetotheinitial
+condition. We used the initial CH4 distributions from a 32-year simulation
+(1985–2016) based on a previous study by Chandra et al.6 to obtain the
+initial distributions of CH4 on January 1, 1970, for this study. To obtain the
+initial distributions of CH4 on 01 January 1970 for this study, the ratio of
+observed atmospheric CH4 values from ice core data and simulations at
+Syowa (a clean representative site of global air mass) were calculated. Then
+the three-dimensional (3-D) distribution in January 1970 was derived by
+globally multiplying the distributions in Jan 2016 by the ratio. To derive the
+initial 3-D δ13C-CH4, we applied Rayleigh fractionation equations16,39 to the
+3-D total CH4 distributions in January 1970. Since we start from atmo-
+sphericCH4andδ13C-CH4ﬁeldsbasedonobservations,thetimerequiredto
+relax to a steady statewill not be more than a fewCH4 lifetimes. We spun up
+our model for 15 years (1970–1984) and selected 1985–2020 for the CH4
+analysis. For δ13C-CH4, we used 25 years (1970–1994) as the spin-up period
+and used 1995–2020 for the analysis.
+To validate our initialization approach, we conducted multiple
+simulations with ﬁxed emissions, but different initial CH4 mixing ratios
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+11
+ranging from 1100 ppbv to 1500 ppbv and δ13C-CH4 ranging from
+−48.5‰to−50‰(Fig. S4).TheCH4 simulationsconvergedtoless than a
+5% difference from its initial values, while δ13C-CH4 simulations con-
+verged at ~0.02‰ difference, which is small enough to have a negligible
+impact on their long-term trend analysis. We conducted an additional
+evaluation to assess the tracer mass conservation capability of MIROC4-
+ACTM in simulating δ13C-CH4. To accomplish this, we disabled fractio-
+nation(i.e.,KIE = 1)andemissionsonJanuary 1,2000. The results reveal a
+consistent δ13C-CH4 value after disabling the sink fractionation and
+emissions (Fig. S5). This indicates that the drift in tracer mass is incon-
+sequential when simulating δ13C-CH4 in MIROC4-ACTM for the trend
+analysis.
+Atmospheric measurements
+We evaluated the performance of model simulations using observations
+from background stations in the NOAA Global Greenhouse Gas Reference
+Network / Institute for Arctic and Alpine Research (INSTAAR) and two
+sites of Tohoku University (TU)/National Institute of Polar Research
+(NIPR) located in the northern and southern polar regions (as shown in
+Fig. 1). The NOAA observed molar fraction values were reported on the
+WMO-X2004A scale89. The INSTAAR δ13C-CH4 data were measured in a
+subset of air samples collected from NOAA’s Global Greenhouse Gas
+Reference Network90. TU/NIPR measurements of CH4 mole fractions and
+δ13C-CH4 were taken at Ny-Ålesund (NAL; since August 1991 for CH4,
+sinceMarch1996forδ13C-CH4),andSyowa(SYO;since1983forCH4,since
+March 1995 for δ13C-CH4). Details of these measurements are described in
+previous studies16,91.
+We used the measurements from all available sites to prepare the
+latitudinal proﬁle of CH4 and δ13C-CH4 for evaluating the latitudinal dis-
+tribution of emissions, as shown in Fig. 4. In addition, we used vertical
+observations of CH4, δ13C-CH4, and δD-CH4 from balloon ﬂights over the
+polar region (Kiruna, Sweden) and the subtropical region (Hyderabad,
+India)71. The balloon observations were used to validate the model’s ability
+to accurately simulate the troposphere-stratosphere exchange of these
+species, which are affected by different factors in different atmospheric
+layers.
+It is worth noting that δ13C-CH4 measurements at different labora-
+tories showed systematic offsets due to variations in instrument settings,
+correctionmethods,andtraceabilitytoreferencematerials92.Forthisreason,
+the δ13C-CH4 values measured by NOAA/INSTAAR and TU/NIPR have
+offsets that impede direct combination for model evaluations. To address
+this, the time series was harmonized with the TU scale by applying an offset
+of −0.20‰ to the NOAA/INSTAAR measurements92. This offset was
+determinedbasedonmeasurementsofcylinders,ﬂasksﬁlledfromcylinders,
+and co-located sample data92.
+Data processing
+Themodelsimulationsaresampledatthetimeoftheobservationsandatthe
+nearest grid point to the measurement locations. To analyze the long-term
+trend, we ﬁtted the measured and simulated daily/weekly time series at each
+station using digital ﬁltertechniques93. We used six harmonics to extract the
+sinusoidalcomponent (i.e.,seasonalcycle) and applied a Butterworthdigital
+ﬁlter with a cut-off length of 24 months to determine the long-term trends.
+The growth rate is calculated by taking the time derivative of the long-term
+trend, expressed in units of ppb yr−1 for CH4 and ‰ yr−1 for δ13C-CH4.
+Our primary interest is in the multi-year trends on a large scale, so we
+selected only a subset of the global network sampling sites (as shown in the
+spatial maps in Fig. 1) that are predominantly inﬂuenced by well-mixed
+backgroundair.Thesesiteswereused toconstructrepresentativemeantime
+series and growth rates for sub-hemispheric latitudinal bands, as shown in
+Fig.1.Weonlyusedsites(atotalof11forδ13C-CH4and18forCH4)thathad
+full-time series available. The number of sites used for the CH4 and
+δ13C-CH4 hemispheric averages are different. However, the latitudinal
+proﬁle uses observations from 50 sites for CH4 and 23 sites for
+δ13C-CH4 (Fig. 6).
+Data availability
+The NOAA-GML and CU-INSTAAR ground-based CH4 and δ13C-CH4
+observations are available from the NOAA GML FTP server (https://gml.
+noaa.gov/dv/data), subject to their fair use policies. Atmospheric CH4 and
+δ13C-CH4 data at NAL and SYO provided by Tohoku University (TU),
+/National Institute of Polar Research (NIPR) are publicly available at the
+WDCGG
+website
+(https://gaw.kishou.go.jp/search/station).
+Emission
+inventories used in this study are publicly available, EDGARv6: https://data.
+jrc.ec.europa.eu/dataset/97a67d67-c62e-4826-b873-9d972c4f670b,
+GAINSv4: http://gains.iiasa.ac.at/models/gains_models4.html for public
+access to emission inventories by major world regions. See also Supplement
+dataset of Höglund-Isaksson et al.4. For access to global gridded CH4
+inventory data, please contact L.H.I. (hoglund@iiasa.ac.at). All data used in
+this study are available at https://doi.org/10.5281/zenodo.1053174994. The
+Four-dimensionalmodelsimulationdataareavailablefreelyfromtheleader
+authors.
+Code availability
+The source code of MIROC4-AGCM is archived at https://doi.org/10.5281/
+zenodo.7274240 (Patra et al., 2022) with restriction because of the copyright
+policy of the MIROC developer community.
+Received: 7 November 2023; Accepted: 27 February 2024;
+References
+1.
+United Nations Environment Programme. Global Methane
+Assessment: Beneﬁts and Costs of Mitigating Methane Emissions -
+Summary for Decision Makers. (2021).
+2.
+Crippa, M. et al. High resolution temporal proﬁles in the emissions
+database for global atmospheric research. Sci. Data 7, 121 (2020).
+3.
+Höglund-Isaksson, L. Bottom-up simulations of methane and ethane
+emissionsfrom global oil andgas systems1980 to 2012. Environ. Res.
+Lett. 12, 024007 (2017).
+4.
+Höglund-Isaksson, L., Gómez-Sanabria, A., Klimont, Z., Rafaj, P. &
+Schöpp, W. Technical potentials and costs for reducing global
+anthropogenic methane emissions in the 2050 timeframe –results
+from the GAINS model. Environ. Res. Commun 2, 025004 (2020).
+5.
+Ito, A., Patra, P. K. & Umezawa, T. Bottom-Up Evaluation of the
+Methane Budget in Asia and Its Subregions. Global Biogeochem.
+Cycles 37, e2023GB007723 (2023).
+6.
+Chang, K.-Y. et al. Observational constraints reduce model spread
+but not uncertainty in global wetland methane emission estimates.
+Global Change Biology 29, 4298–4312 (2023).
+7.
+Stavert, A. R. et al. Regional trends and drivers of the global methane
+budget. Global Change Biol. 28, 182–200 (2022).
+8.
+Saunois, M. et al. The global methane budget 2000–2017. Earth Syst.
+Sci. Data 12, 1561–1623 (2020).
+9.
+Solazzo, E. et al. Uncertainties in the emissions database for global
+atmospheric research (EDGAR) emission inventory of greenhouse
+gases. Atmos. Chem. Phys. 21, 5655–5683 (2021).
+10. Chandra, N. et al. Emissions from the oil and gas sectors, coal mining
+and ruminant farming drive methane growth over the past three
+decades. J. Meteorol. Soc. Jpn. Ser. II advpub, 2021–015 (2021).
+11. Patra, P. K. et al. Regional methane emission estimation based on
+observed atmospheric concentrations (2002–2012). J. Meteorol. Soc.
+Jpn. Ser. II 94, 91–113 (2016).
+12. Houweling, S. etal.GlobalinversemodelingofCH4sourcesandsinks:
+an overview of methods. Atmos. Chem. Phys. 17, 235–256 (2017).
+13. Basu, S. et al. Estimating emissions of methane consistent with
+atmospheric measurements of methane and δ 13 C of methane.
+Atmos. Chem. Phys. 22, 15351–15377 (2022).
+14. Thanwerdas, J., Saunois, M., Berchet, A., Pison, I. & Bousquet, P.
+Investigation of the post-2007 methane renewed growth with high-
+resolution 3-D variational inverse modelling and isotopic constraints.
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+12
+EGUsphere 1–50 https://doi.org/10.5194/egusphere-2023-1326.
+(2023).
+15. Bruhwiler, L. et al. CarbonTracker-CH4: an assimilation system for
+estimating emissions of atmospheric methane. Atmos. Chem. Phys.
+14, 8269–8293 (2014).
+16. Fujita, R. et al. Global and regional CH4 emissions for 1995–2013
+derived from atmospheric CH4, δ13C-CH4, and δD-CH4
+observations and a chemical transport model. J. Geophys. Res.:
+Atmos. 125, e2020JD032903 (2020).
+17. McNorton, J. et al. Attribution of recent increases in atmospheric
+methane through 3-D inverse modelling. Atmos. Chem. Phys. 18,
+18149–18168 (2018).
+18. Lauvaux, T. et al. Global assessment of oil and gas methane ultra-
+emitters. Science 375, 557–561 (2022).
+19. Shen, L. et al. National quantiﬁcations of methane emissions from fuel
+exploitation using high resolution inversions of satellite observations.
+Nat Commun 14, 4948 (2023).
+20. Lu, X. et al. Observation-derived 2010–2019 trends in methane
+emissions and intensities from US oil and gas ﬁelds tied to activity
+metrics. Proc. Natl. Acad. Sci. 120, e2217900120 (2023).
+21. Worden, J. R. et al. Verifying methane inventories and trends with
+atmospheric methane data. AGU Adv. 4, e2023AV000871 (2023).
+22. Cusworth, D. H. et al. A Bayesianframework for deriving sector-based
+methane emissions from top-down ﬂuxes. Commun Earth Environ 2,
+1–8 (2021).
+23. Quay, P. et al. The isotopic composition of atmospheric methane.
+Global Biogeochem. Cycles 13, 445–461 (1999).
+24. Sherwood, O. A., Schwietzke, S., Arling, V. A. & Etiope, G. Global
+inventory of gas geochemistry data from fossil fuel, microbial and
+burning Sources, version 2017. Earth Syst. Sci. Data 9,
+639–656 (2017).
+25. Whiticar, M. & Schaefer, H. Constraining past global tropospheric
+methane budgets with carbon and hydrogen isotope ratios in ice.
+Philos. Trans. R. Soc. A: Math. Phys. Eng. Sci. 365, 1793–1828 (2007).
+26. Nisbet, E. G. et al. Very strong atmospheric methane growth in the 4
+years 2014–2017: Implications for the Paris agreement. Global
+Biogeochem. Cycles 33, 318–342 (2019).
+27. Bousquet, P. et al. Contribution of anthropogenic and natural sources
+to atmospheric methane variability. Nature 443, 439–443 (2006).
+28. Schaefer, H. et al. A 21st-century shift from fossil-fuel to biogenic
+methane emissions indicated by 13CH4. Science 352, 80–84 (2016).
+29. Schwietzke, S. et al. Upward revision of global fossil fuel methane
+emissions based on isotope database. Nature 538, 88–91 (2016).
+30. Zhang, Z. et al. Anthropogenic emission is the main contributor to the
+rise of atmospheric methane during 1993–2017. Natl. Sci. Rev. 9,
+nwab200 (2022).
+31. Skeie, R. B., Hodnebrog, Ø. & Myhre, G. Trends in atmospheric
+methane concentrations since 1990 were driven and modiﬁed by
+anthropogenic emissions. Commun Earth Environ 4, 1–14 (2023).
+32. Worden, J. R. et al. Reduced biomass burning emissions reconcile
+conﬂicting estimates of the post-2006 atmospheric methane budget.
+Nat Commun 8, 2227 (2017).
+33. Nisbet, E. G. et al. Atmospheric methane: Comparison between
+methane’s record in 2006–2022 and during glacial terminations.
+Global Biogeochem. Cycles 37, e2023GB007875 (2023).
+34. Feinberg, A. I., Coulon, A., Stenke, A., Schwietzke, S. & Peter, T.
+Isotopic source signatures: Impact of regional variability on the
+δ13CH4 trend and spatial distribution. Atmos. Environ. 174,
+99–111 (2018).
+35. Lan, X. et al. Improved constraints on global methane emissions and
+sinks using δ13C-CH4. Global Biogeochem. Cycles 35,
+e2021GB007000 (2021).
+36. Oh, Y. et al. Improved global wetland carbon isotopic signatures
+support post-2006 microbial methane emission increase. Commun
+Earth Environ 3, 1–12 (2022).
+37. Turner, A. J., Frankenberg, C., Wennberg, P. O. & Jacob, D. J.
+Ambiguity in the causes for decadal trends in atmospheric methane
+and hydroxyl. Proc. Natl. Acad. Sci. 114, 5367–5372 (2017).
+38. Rigby, M. et al. Role of atmospheric oxidation in recent methane
+growth. Proc. Natl. Acad. Sci. 114, 5373–5377 (2017).
+39. Rice, A. L. et al. Atmospheric methane isotopic record favors fossil
+sourcesﬂat in 1980sand 1990swith recent increase.Proc.Natl. Acad.
+Sci. 113, 10791–10796 (2016).
+40. Thompson, R. L. et al. Variability in atmospheric methane from fossil
+fuel and microbial sources over the last three decades. Geophys. Res.
+Lett. 45, 11,499–11,508 (2018).
+41. Drinkwater, A. et al. Atmospheric data support a multi-decadal shift in
+the global methane budget towards natural tropical emissions.
+Atmos. Chem. Phys. 23, 8429–8452 (2023).
+42. Liu,G. et al.Recentslowdown of anthropogenicmethaneemissions in
+China driven by stabilized coal production. Environ. Sci. Technol. Lett.
+8, 739–746 (2021).
+43. Peng, S. et al. Inventory of anthropogenic methane emissions in
+mainland China from 1980 to 2010. Atmos. Chem. Phys. 16,
+14545–14562 (2016).
+44. Naus, S. et al. Constraints and biases in a tropospheric two-box
+model of OH. Atmos. Chem. Phys. 19, 407–424 (2019).
+45. Saueressig, G. et al. Carbon 13 and D kinetic isotope effects in the
+reactions of CH4 with O(1 D) and OH: New laboratory measurements
+and their implications for the isotopic composition of stratospheric
+methane. J. Geophys. Res.: Atmos. 106, 23127–23138 (2001).
+46. Cantrell, C. A. et al. Carbon kinetic isotope effect in the oxidation of
+methane by the hydroxyl radical. J. Geophys. Res.: Atmos. 95,
+22455–22462 (1990).
+47. Whitehill, A. R. et al. Clumped isotope effects during OH and Cl
+oxidation of methane. Geochimica et Cosmochimica Acta 196,
+307–325 (2017).
+48. Patra, P. K. et al. Improved chemical tracer simulation by MIROC4.0-
+based atmospheric chemistry-transport model (MIROC4-ACTM).
+Sola 14, 91–96 (2018).
+49. Monteil, G. et al. Interpreting methane variations in the past two
+decades using measurements of CH4 mixing ratio and isotopic
+composition. Atmos. Chem. Phys. 11, 9141–9153 (2011).
+50. Ghosh, A. et al. Variations in global methane sources and sinks during
+1910–2010. Atmos. Chem. Phys. 15, 2595–2612 (2015).
+51. Lan, X. et al. Long-term measurements show little evidence for large
+increases in total US methane emissions over the past decade.
+Geophys. Res. Lett. 46, 4991–4999 (2019).
+52. Milkov, A. V., Schwietzke, S., Allen, G., Sherwood, O. A. & Etiope, G.
+Using global isotopic data to constrain the role of shale gas
+production in recent increases in atmospheric methane. Sci. Rep. 10,
+4199 (2020).
+53. Saeki, T. & Patra, P. K. Implications of overestimated anthropogenic
+CO2 emissions on East Asian and global land CO2 ﬂux inversion.
+Geosci. Lett. 4, 9 (2017).
+54. Bruhwiler, L. M. et al. U.S. CH4 emissions from oil and gas production:
+Have recent large increases been detected? J. Geophys. Res.: Atmos.
+122, 4070–4083 (2017).
+55. Caulton, D. R. et al. Toward a better understanding and quantiﬁcation
+of methane emissions from shale gas development. Proc. Natl. Acad.
+Sci. 111, 6237–6242 (2014).
+56. Howarth, R. W. Ideas and perspectives: Is shale gas a major driver of
+recent increase in global atmospheric methane? Biogeosciences 16,
+3033–3046 (2019).
+57. Karion, A. et al. Methane emissions estimate from airborne
+measurements over a western United States natural gas ﬁeld.
+Geophys. Res. Lett. 40, 4393–4397 (2013).
+58. Peischl, J. et al. Quantifying atmospheric methane emissions from the
+Haynesville, Fayetteville, and northeastern Marcellus shale gas
+production regions. J. Geophys. Res.: Atmos. 120, 2119–2139 (2015).
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+13
+59. Etiope, G., Ciotoli, G., Schwietzke, S. & Schoell, M. Gridded maps of
+geological methane emissions and their isotopic signature. Earth
+Syst. Sci. Data 11, 1–22 (2019).
+60. Hmiel, B. et al. Preindustrial 14CH4 indicates greater anthropogenic
+fossil CH4 emissions. Nature 578, 409–412 (2020).
+61. Petrenko, V. V. et al. Minimal geological methane emissions during the
+Younger Dryas–Preboreal abrupt warming event. Nature 548,
+443–446 (2017).
+62. Thanwerdas, J. et al. How do Cl concentrations matter for the
+simulation of CH4 and δ13C(CH4) and estimation of the CH4 budget
+through atmospheric inversions? Atmos. Chem. Phys. 22,
+15489–15508 (2022).
+63. Gromov, S., Brenninkmeijer, C. A. M. & Jöckel, P. A very limited role of
+tropospheric chlorine as a sink of the greenhouse gas methane.
+Atmos. Chem. Phys. 18, 9831–9843 (2018).
+64. Strode, S. A. et al. Strong sensitivity of the isotopic composition of
+methane to the plausible range of tropospheric chlorine. Atmos.
+Chem. Phys. 20, 8405–8419 (2020).
+65. Wang, X. et al. The role of chlorine in global tropospheric chemistry.
+Atmos. Chem. Phys. 19, 3981–4003 (2019).
+66. van Herpen, M. M. J. W. et al. Photocatalytic chlorine atom production
+on mineral dust–sea spray aerosols over the North Atlantic. Proc. Natl.
+Acad. Sci. 120, e2303974120 (2023).
+67. Takigawa, M., Takahashi, M. & Akiyoshi, H. Simulation of ozone and
+other chemical species using a Center for Climate System Research/
+National Institute for Environmental Studies atmospheric GCM with
+coupled stratospheric chemistry. J. Geophys. Res.: Atmos. 104,
+14003–14018 (1999).
+68. Menoud, M. et al. New contributions of measurements in Europe to
+the global inventory of the stable isotopic composition of methane.
+Earth Syst. Sci. Data 14, 4365–4386 (2022).
+69. Ganesan, A. L. et al. Spatially resolved isotopic source signatures of
+wetland methane emissions. Geophys. Res. Lett. 45,
+3737–3745 (2018).
+70. Kangasaho, V. et al. The Role of Emission Sources and Atmospheric
+Sink in the Seasonal Cycle of CH4 and δ13-CH4: Analysis based on
+the atmospheric chemistry transport model TM5. Atmosphere 13,
+888 (2022).
+71. Röckmann, T., Brass, M., Borchers, R. & Engel, A. The isotopic
+composition of methane in the stratosphere: high-altitude
+balloon sample measurements. Atmos. Chem. Phys. 11,
+13287–13304 (2011).
+72. Scarpelli, T. R. et al. Updated Global Fuel Exploitation Inventory (GFEI)
+for methane emissions from the oil, gas, and coal sectors: evaluation
+with inversions of atmospheric methane observations. Atmos. Chem.
+Phys. 22, 3235–3249 (2022).
+73. US EPA, O. Global Non-CO2 GHG Emissions: 1990–2030. https://
+www.epa.gov/global-mitigation-non-co2-greenhouse-gases/
+global-non-co2-ghg-emissions-1990-2030 (2016).
+74. Ito, A. et al. Cold-season methane ﬂuxes simulated by GCP-CH4
+models. Geophys. Res. Lett. 50, e2023GL103037 (2023).
+75. Stevenson, D. S. et al. Trends in global tropospheric hydroxyl radical
+and methane lifetime since 1850 from AerChemMIP. Atmos. Chem.
+Phys. 20, 12905–12920 (2020).
+76. Patra, P. K. et al. Methyl chloroform continues to constrain the
+hydroxyl (OH) variability in the troposphere. J. Geophys. Res.: Atmos.
+126, e2020JD033862 (2021).
+77. Naus, S., Montzka, S. A., Patra, P. K. & Krol, M. C. A three-
+dimensional-model inversion of methyl chloroform to constrain the
+atmospheric oxidative capacity. Atmos. Chem. Phys. 21,
+4809–4824 (2021).
+78. Intergovernmental Panel on Climate Change (IPCC). Short-lived
+Climate Forcers. in Climate Change 2021 – The Physical Science
+Basis: Working Group I Contribution to the Sixth Assessment Report
+of the Intergovernmental Panel on Climate Change 817–922
+(Cambridge University Press, Cambridge, 2023). https://doi.org/10.
+1017/9781009157896.008.
+79. Patra, P. K. et al. Observational evidence for interhemispheric
+hydroxyl-radical parity. Nature 513, 219–223 (2014).
+80. Peng, S. et al. Wetland emission and atmospheric sink changes
+explain methane growth in 2020. Nature 612, 477–482 (2022).
+81. Kobayashi, S. et al. The JRA-55 reanalysis: Generalspeciﬁcationsand
+basic characteristics. J. Meteorol. Soc. Jpn. Ser. II 93, 5–48 (2015).
+82. van der Werf, G. R. et al. Global ﬁre emissions estimates during
+1997–2016. Earth Syst. Sci. Data 9, 697–720 (2017).
+83. Lamarque, J.-F. et al. Historical (1850–2000) gridded anthropogenic and
+biomass burning emissions ofreactive gases andaerosols:methodology
+and application. Atmos. Chem. Phys. 10, 7017–7039 (2010).
+84. Weber, T., Wiseman, N. A. & Kock, A. Global ocean methane
+emissions dominated by shallow coastal waters. Nat Commun 10,
+4584 (2019).
+85. Patra, P. K. et al. TransCom model simulations of CH4 and related
+species: linking transport, surface ﬂux and chemical loss with CH 4
+variability in the troposphere and lower stratosphere. Atmos. Chem.
+Phys. 11, 12813–12837 (2011).
+86. Saueressig, G., Bergamaschi, P., Crowley, J. N., Fischer, H. & Harris,
+G. W. Carbon kinetic isotope effect in the reaction of CH4 with Cl
+atoms. Geophys. Res. Lett. 22, 1225–1228 (1995).
+87. Spivakovsky, C. M. et al. Three-dimensional climatological
+distribution of tropospheric OH: Update and evaluation. J. Geophys.
+Res.: Atmos. 105, 8931–8980 (2000).
+88. Montzka,S. A. et al. Small interannual variability of global atmospheric
+hydroxyl. Science 331, 67–69 (2011).
+89. Lan, X. et al. Atmospheric Methane Dry Air Mole Fractions from the
+NOAA GML Carbon Cycle Cooperative Global Air Sampling Network,
+1983-2021. https://doi.org/10.15138/VNCZ-M766 (2022).
+90. Michel, S. E. et al. University of Colorado, Institute of Arctic and Alpine
+Research (INSTAAR). Stable Isotopic Composition of Atmospheric
+Methane (13C) from the NOAA GML Carbon Cycle Cooperative Global
+Air Sampling Network, 1998–2022 Version: 2023-09-21 https://doi.
+org/10.15138/9p89-1x02 (2023).
+91. Morimoto, S., Fujita, R., Aoki, S., Goto, D. & Nakazawa, T. Long-term
+variations of the mole fractionand carbon isotoperatio of atmospheric
+methane observed at Ny-Ålesund, Svalbard from 1996 to 2013. 69,
+1380497 (2017).
+92. Umezawa, T. et al. Interlaboratory comparison of δ13C and δD
+measurements of atmospheric CH4 for combined use of data sets
+from different laboratories. Atmos. Meas. Tech. 11, 1207–1231 (2018).
+93. Nakazawa, T., Ishizawa, M., Higuchi, K. & Trivett, N. B. A. Two curve
+ﬁtting methods applied to CO2 ﬂask data. Environmetrics 8,
+197–218 (1997).
+94. Chandra, N. Replication Data for: Methane emissions decreased in
+fossil fuel exploitation and sustainably increased in microbial source
+sectors during 1990–2020. Zenodo https://doi.org/10.5281/zenodo.
+10531749 (2024).
+Acknowledgements
+This work was made possible by the exceptional efforts of NOAA ESRL, CU-
+INSTAAR, Tohoku University (TU), and the National Institute of Polar
+Research (NIPR) in providing high-quality atmospheric measurements of
+CH4 and stable isotope compositions. We extend our gratitude to the
+Japanese Antarctic Research Expedition (JARE) Science Program staff and
+the Norwegian Polar Institute for their diligent collection of air samples in
+Syowa, Antarctica, and Ny-Ålesund, Svalbard. Special thanks to Prof. Aki-
+hiko Ito for sharing wetland and rice emission data from the VISIT model, Dr.
+Sourish Basu for recommending the mass conservation test (Fig. S5), and
+Dr. John Miller for highlighting KIE uncertainty issues at the TransCom-2022
+meeting in Wageningen. Earth Simulator was used for simulation via the
+support ofthe JapanAgencyforMarine-EarthScienceandTechnology.This
+research was supported by the Arctic Challenge for Sustainability II (ArCS-II)
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+14
+project (grant no. JPMXD1420318865), funded by Japan’s Ministry of
+Education, Culture, Sports, Science and Technology (MEXT).
+Author contributions
+N.C. and P.K.P. conceptualized the work. N.C., R.F., P.K.P. and T.U.
+developed the methodology. L.H.I. shared the GAINSv4 ﬂuxes. D.G., S.M.,
+B.H.V. and T.R. curated the measurement datasets involved in the study.
+P.K.P. and S.M. supervise and acquired funding. N.C. performed the CH4
+and δ13C-CH4 simulations, analyze results and wrote the original draft.
+P.K.P., T.U., R.F., L.H.I., T.R. and S.M. actively contributed in the reviewing
+and editing of the manuscript.
+Competing interests
+P.K.P. is an Editorial Board Member for Communications Earth &
+Environment, but was not involved in the editorial review of, nor the decision
+to publish this article. All other authors declare no competing interests.
+Additional information
+Supplementary information The online version contains
+supplementary material available at
+https://doi.org/10.1038/s43247-024-01286-x.
+Correspondence and requests for materials should be addressed to
+Naveen Chandra or Prabir K. Patra.
+Peer review information Communications Earth & Environment thanks the
+anonymous reviewers for their contribution to the peer review of this work.
+Primary Handling Editors: Clare Davis. A peer review ﬁle is available
+Reprints and permissions information is available at
+http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long
+as you give appropriate credit to the original author(s) and the source,
+provide a link to the Creative Commons licence, and indicate if changes
+were made. The images or other third party material in this article are
+included in the article’s Creative Commons licence, unless indicated
+otherwise in a credit line to the material. If material is not included in the
+article’s Creative Commons licence and your intended use is not permitted
+by statutory regulation or exceeds the permitted use, you will need to
+obtain permission directly from the copyright holder. To view a copy of this
+licence, visit http://creativecommons.org/licenses/by/4.0/.
+© The Author(s) 2024
+https://doi.org/10.1038/s43247-024-01286-x
+Article
+Communications Earth & Environment |  (2024) 5:147 
+15
