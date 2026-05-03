@@ -1,6 +1,6 @@
 # Methane (CH₄) Isotope Database: δ¹³C and δD Source Signatures
 
-> **Version**: 6.0 | **Date**: 2026-05-03 | **Status**: Phase 9 — 120 entries (98 with isotope data, 22 context/budget-only)
+> **Version**: 6.1 | **Date**: 2026-05-03 | **Status**: Phase 9 — 121 entries (99 with isotope data, 22 context/budget-only)
 > 
 > **Key**: Values marked with † are compiled/review ranges. ± values are reported SD unless noted (2SD where specified). "—" = not reported or not accessible.
 > All δ¹³C relative to VPDB; all δD (= δ²H) relative to VSMOW.
@@ -256,6 +256,7 @@
 | 118 | 2015 | Sperlich, Schaefer, Brew, Mahieu, Fischer | Ice core δ¹³C during Greenland Interstadial 21.2 (~85 ka BP) | **NEEM + NGRIP ice cores**: δ¹³C of additional CH₄ source during GI-21.2 = **−56.8 ± 2.8‰** (Keeling plot analysis); Best matches tropical wetland signature (−58‰, Whiticar & Schaefer 2007); Rules out boreal wetlands (−63‰) as main driver; **Table 2 source signatures†**: Tropical wetlands −58‰, Boreal wetlands −63‰, CH₄ hydrates −62.5‰, Aerobic C3 −58‰, Aerobic C4 −50‰, Termites −70‰, Geological −40‰, Biomass burning −25‰, Thermokarst lakes −70‰; Box model confirms KPA result; Implies tropical wetland response to Dansgaard-Oeschger warming | — | Carbon isotope ratios suggest no additional methane from boreal wetlands during the rapid GI-21.2 | GBC | [10.1002/2014GB005007](https://doi.org/10.1002/2014GB005007) | ~30 | ✅ OA | ~85 ka BP |
 | 119 | 2025 | Fujita, Patra, Lan, Prasad, Bousquet, Tarasova, Dlugokencky | Multi-isotope constraints on global CH₄ budget 1750–2015 | **Posterior source δ¹³C-CH₄**: Total BIO = **−60.2 [−61.0, −59.7]‰** (~2‰ heavier than prior Schwietzke 2016); Total FF = **−43.1 [−44.3, −41.9]‰** (consistent with database); **KIE constraints**: KIEC(total) = 1.0075 [1.0070, 1.0078]; KIED(total) = 1.283 [1.274, 1.292]; Sink fractionation implies ~3% tropospheric Cl contribution (~18 Tg/yr); **Posterior FF fraction** (1986–2000): 21.5 [18.3, 24.7]% (lower than Lassey 2007's 30%); GEO emissions: 3.4 Tg CH₄/yr (<8.8 at 97.5th %ile), consistent with Hmiel 2020; Combines δ¹³C, δD, Δ¹⁴C constraints via particle filter approach | **δD constraints included**: KIED = 1.283 [1.274, 1.292]; δD-CH₄ used alongside δ¹³C and Δ¹⁴C for multi-tracer budget | Multi-isotopic constraints on the global methane budget 1750–2015 | JGR-Atmos. | [10.1029/2024JD041266](https://doi.org/10.1029/2024JD041266) | New | ✅ OA | 1750–2015 |
 | 120 | 2026 | He, Naik, Horowitz | Chemistry-climate model with spatially resolved δ¹³C signatures | **Source-weighted δ¹³C (EXP1)**: 1980s = −54.72 ± 0.27‰; 1990s = −55.32 ± 0.37‰; 1999–2006 = −55.25 ± 0.20‰; 2007–2017 = −54.96 ± 0.24‰; 0.6‰ decrease 1980s→1990s then 0.2–0.3‰ increase post-2006; **Sink-weighted fractionation**: −6.21 ± 0.09‰ (1980s) → −6.20 ± 0.02‰ (2007–2017); **Spatially resolved input signatures**: AGR −62‰ (rice) to −60‰ (ruminant, varies by region); ENE −41.2‰ (coal), −44.6‰ (O&G); BMB includes C3–C4 differential; WET from Ganesan et al. 2018 spatial map; Post-2006 δ¹³C shift explained by increased ¹³C-depleted AGR+WST + decreased BB + increasing OH trend; **Budget (EXP1, 2007–2017)**: Total = 607 ± 11 Tg/yr; AGR+WST = 225 ± 6; ENE = 150 ± 6; WET = 177 ± 7; BMB = 5 ± 5; Sinks = 589 ± 8 (OH = 526 ± 8) | **δD not used** in this study (δ¹³C only + CH₄ concentrations) | Interpreting changes in global methane budget in a chemistry-climate model constrained with methane and isotopic observations | AGU Advances | [10.1029/2025AV001822](https://doi.org/10.1029/2025AV001822) | New | ✅ OA | 1980–2017 |
+| 121 | 2006 | Ferretti, Miller, White, Etheridge, Lassey, Lowe | Aerobic plant emissions δ¹³C constraint (ice core top-down) | **Table 1 δ¹³C source signatures used**: Plants (aerobic, C3:C4 60:40 weighted): **−50‰**; Biomass burning: −20‰; Anaerobic sources: −60‰; Fossil (geologic + coal + energy): −40‰; Sink fractionation: −7 to −5‰; **Budget constraint**: Pre-industrial total = 232 Tg/yr (δ¹³C ≈ −49‰); Modern total = 540 Tg/yr (δ¹³C ≈ −47‰); **Best estimate plant emissions**: 0–46 Tg/yr (pre-industrial), 0–137 Tg/yr (modern) — much lower than Keppler 2006's 62–236 Tg/yr; C3:C4 ratio variation (40:60 to 60:40) shifts weighted source δ¹³C by ≤2.6‰; Companion to Ferretti 2005 (Science) ice core δ¹³C record | — | Stable isotopes provide revised global limits of aerobic methane emissions from plants | ACPD | [10.5194/acpd-6-5867-2006](https://doi.org/10.5194/acpd-6-5867-2006) | ~120 | ✅ OA | 0–2000 AD |
 
 ---
 
@@ -509,6 +510,8 @@
 | Glacial CH₄ hydrates | — | −62.5 | — | Sperlich 2015 |
 | Glacial aerobic C₃ plants | — | −58 | — | Sperlich 2015; from Keppler 2006 |
 | Glacial aerobic C₄ plants | — | −50 | — | Sperlich 2015 |
+| **Aerobic plant (C3:C4 60:40 weighted)** | — | **−50** | — | Ferretti 2006 (ACPD); ice core constraint |
+| **Plant emissions best estimate** | — | 0–46 Tg/yr (pre-ind); 0–137 (modern) | — | Ferretti 2006; much lower than Keppler 2006 |
 | Glacial termites | — | −70 | — | Sperlich 2015 |
 | Glacial geological | — | −40 | — | Sperlich 2015 |
 | Glacial biomass burning | — | −25 | — | Sperlich 2015 |
@@ -682,6 +685,6 @@
 
 ---
 
-*Database v6.0 | Generated: 2026-05-03 | 120 papers, 98 with verified isotope data*
+*Database v6.1 | Generated: 2026-05-03 | 121 papers, 99 with verified isotope data*
 *170+ distinct δ¹³C source categories + 85+ δD categories + sink KIE section documented*
 *Temporal span: Craig 1953 → He 2026 (AGU Advances); ice core records to 650 kyr BP; Dansgaard-Oeschger events ~85 ka BP*
