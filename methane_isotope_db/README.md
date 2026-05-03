@@ -4,11 +4,11 @@
 Comprehensive literature database of CH₄ carbon isotopes (δ¹³C) and hydrogen isotopes (δD/δ²H) source signatures, from foundational works (1953) through cutting-edge research (2026).
 
 ## Scope
-- **116 papers** catalogued (94 with verified isotope data, 22 context/budget-only)
-- **140+ distinct δ¹³C** source signature categories
+- **120 papers** catalogued (98 with verified isotope data, 22 context/budget-only)
+- **170+ distinct δ¹³C** source signature categories
 - **85+ δD** source signature categories
 - **Sink fractionation (KIE)** section: OH, soil, stratospheric, Cl
-- **Temporal span**: Craig 1953 → ESSD 2026; ice core records to 650 kyr BP
+- **Temporal span**: Craig 1953 → He 2026 (AGU Advances); ice core records to 650 kyr BP; Dansgaard-Oeschger events ~85 ka BP
 
 ## Foundational Literature (1953–1999)
 
@@ -47,8 +47,8 @@ These seminal works established the entire field of methane isotope geochemistry
 ## Database Structure
 See `database.md` for:
 1. **Deep-dive cards** — Detailed extraction summaries for key papers
-2. **Main table** — 116 entries with ID, year, authors, source type, isotope values, DOI, citations, access status
-3. **δ¹³C source signature summary** — 140+ categories organized by source type
+2. **Main table** — 120 entries with ID, year, authors, source type, isotope values, DOI, citations, access status
+3. **δ¹³C source signature summary** — 170+ categories organized by source type
 4. **δD source signature summary** — 85+ categories
 5. **Sink fractionation (KIE)** — OH, soil, stratospheric, Cl sink fractionation factors
 6. **Clumped isotopes (Δ₁₈)** — Thermogenic vs biogenic formation temperatures
@@ -80,9 +80,10 @@ See `database.md` for:
 | 3.0 | 83 | 6 | + 2010–2016 |
 | 4.0 | 107 | 7 | + 2002–2010 |
 | 5.0 | 116 | 8 | + 1953–1999 foundational literature |
+| 6.0 | 120 | 9 | + Rice paddies (Zhang 2011), ice core DO events (Sperlich 2015), multi-isotope budget (Fujita 2025), chemistry-climate model (He 2026) |
 
 ---
-*Generated: 2026-05-02 | Last updated: 2026-05-03 (v5.0)*
+*Generated: 2026-05-02 | Last updated: 2026-05-03 (v6.0)*
 
 ---
 

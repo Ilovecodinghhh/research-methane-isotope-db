@@ -1,10 +1,10 @@
 # Methane (CH₄) Isotope Database: δ¹³C and δD Source Signatures
 
-> **Version**: 5.0 | **Date**: 2026-05-03 | **Status**: Phase 8 — 116 entries (94 with isotope data, 22 context/budget-only)
+> **Version**: 6.0 | **Date**: 2026-05-03 | **Status**: Phase 9 — 120 entries (98 with isotope data, 22 context/budget-only)
 > 
 > **Key**: Values marked with † are compiled/review ranges. ± values are reported SD unless noted (2SD where specified). "—" = not reported or not accessible.
 > All δ¹³C relative to VPDB; all δD (= δ²H) relative to VSMOW.
-> **Coverage**: 1953–2026 (foundational → cutting-edge); ice core records to 650 kyr BP
+> **Coverage**: 1953–2026 (foundational → cutting-edge); ice core records to 650 kyr BP (+ Dansgaard-Oeschger event ~85 ka BP)
 
 ---
 
@@ -252,6 +252,10 @@
 | 114 | 1988 | Quay, King, Stutsman, Wilbur | Global δ¹³C-CH₄ budget model (Pacific atmosphere) | **First isotopic budget model**: Used atmospheric δ¹³C-CH₄ measurements (Pacific stations) to construct a quantitative global CH₄ source-sink budget; Estimated fossil fuel contribution ~20–25% of total; Demonstrated that isotopes constrain source partitioning far better than concentration data alone | — | Carbon isotopic composition of atmospheric CH₄: Fossil and biomass burning source strengths | Global Biogeochem. Cycles | [10.1029/GB002i004p00547](https://doi.org/10.1029/GB002i004p00547) | ~400+ | ❌ PW | 1987–1988 |
 | 115 | 1988 | Chanton, Martens | Seasonal ebullition δ¹³C variation + oxidation fractionation | **Process fractionation**: First detailed study of seasonal δ¹³C variation in wetland/estuarine methane ebullition; Demonstrated that partial oxidation enriches residual CH₄ in ¹³C (Rayleigh distillation); Oxidation shifts δ¹³C by +5 to +15‰; Critical for interpreting field signatures vs production signatures | — | Seasonal variations in ebullitive flux and carbon isotopic composition of methane in a tidal freshwater estuary | Global Biogeochem. Cycles | [10.1029/GB002i003p00289](https://doi.org/10.1029/GB002i003p00289) | ~300+ | ❌ PW | 1984–1986 |
 | 116 | 1999 | Whiticar | **The Whiticar diagram** — definitive isotope classification | **Magnum opus**: The most cited single reference in methane isotope geochemistry; Synthesized decades of data into the definitive δ¹³C vs δD classification diagram; Categories: Bacterial CO₂ reduction (δ¹³C: −110 to −60‰, δD: −250 to −170‰); Bacterial fermentation (δ¹³C: −65 to −50‰, δD: −400 to −250‰); Thermogenic associated (δ¹³C: −50 to −20‰, δD: −275 to −100‰); Thermogenic non-associated (δ¹³C: −50 to −20‰, δD: −200 to −100‰); Abiogenic (δ¹³C: −50 to +10‰, δD: varies); Still THE standard reference used in every modern isotope study | **Comprehensive δD**: see δ¹³C column for all pathway ranges | Carbon and hydrogen isotope systematics of bacterial formation and oxidation of methane | Chem. Geol. | [10.1016/S0009-2541(98)00147-0](https://doi.org/10.1016/S0009-2541(98)00147-0) | ~3000+ | ❌ PW | Global compilation |
+| 117 | 2011 | Zhang, Ding, Cai, Xu, Yagi, Nouchi | Rice paddy δ¹³C — methanogenic pathway + oxidation fraction | **Table 1 compilation†**: Rice field δ¹³C from 12+ studies worldwide: −72 to −48‰ (emitted); −71 to −52‰ (pore water); −66 to −34‰ (floodwater); **This study (Jiangsu, China, year-round flooding)**: Pore water δ¹³C ≈ −65‰ (most of season), −55‰ (Jul–Aug); Floodwater δ¹³C = −50 to −34‰ (heavy oxidation); Emitted δ¹³C = −68 to −48‰ (rice season), −56 to −44‰ (fallow); Hydrogenotrophic methanogenesis dominant (~60–80%); Oxidation fraction (fox) higher in fallow; Confirms that transport-mediated oxidation enriches emitted CH₄ in ¹³C by 10–20‰ vs pore water production | — | Carbon isotopic composition, methanogenic pathway, and fraction of CH₄ oxidized in a rice field flooded year-round | JGR-Biogeosci. | [10.1029/2011JG001696](https://doi.org/10.1029/2011JG001696) | ~50 | ✅ OA | 2003–2004 |
+| 118 | 2015 | Sperlich, Schaefer, Brew, Mahieu, Fischer | Ice core δ¹³C during Greenland Interstadial 21.2 (~85 ka BP) | **NEEM + NGRIP ice cores**: δ¹³C of additional CH₄ source during GI-21.2 = **−56.8 ± 2.8‰** (Keeling plot analysis); Best matches tropical wetland signature (−58‰, Whiticar & Schaefer 2007); Rules out boreal wetlands (−63‰) as main driver; **Table 2 source signatures†**: Tropical wetlands −58‰, Boreal wetlands −63‰, CH₄ hydrates −62.5‰, Aerobic C3 −58‰, Aerobic C4 −50‰, Termites −70‰, Geological −40‰, Biomass burning −25‰, Thermokarst lakes −70‰; Box model confirms KPA result; Implies tropical wetland response to Dansgaard-Oeschger warming | — | Carbon isotope ratios suggest no additional methane from boreal wetlands during the rapid GI-21.2 | GBC | [10.1002/2014GB005007](https://doi.org/10.1002/2014GB005007) | ~30 | ✅ OA | ~85 ka BP |
+| 119 | 2025 | Fujita, Patra, Lan, Prasad, Bousquet, Tarasova, Dlugokencky | Multi-isotope constraints on global CH₄ budget 1750–2015 | **Posterior source δ¹³C-CH₄**: Total BIO = **−60.2 [−61.0, −59.7]‰** (~2‰ heavier than prior Schwietzke 2016); Total FF = **−43.1 [−44.3, −41.9]‰** (consistent with database); **KIE constraints**: KIEC(total) = 1.0075 [1.0070, 1.0078]; KIED(total) = 1.283 [1.274, 1.292]; Sink fractionation implies ~3% tropospheric Cl contribution (~18 Tg/yr); **Posterior FF fraction** (1986–2000): 21.5 [18.3, 24.7]% (lower than Lassey 2007's 30%); GEO emissions: 3.4 Tg CH₄/yr (<8.8 at 97.5th %ile), consistent with Hmiel 2020; Combines δ¹³C, δD, Δ¹⁴C constraints via particle filter approach | **δD constraints included**: KIED = 1.283 [1.274, 1.292]; δD-CH₄ used alongside δ¹³C and Δ¹⁴C for multi-tracer budget | Multi-isotopic constraints on the global methane budget 1750–2015 | JGR-Atmos. | [10.1029/2024JD041266](https://doi.org/10.1029/2024JD041266) | New | ✅ OA | 1750–2015 |
+| 120 | 2026 | He, Naik, Horowitz | Chemistry-climate model with spatially resolved δ¹³C signatures | **Source-weighted δ¹³C (EXP1)**: 1980s = −54.72 ± 0.27‰; 1990s = −55.32 ± 0.37‰; 1999–2006 = −55.25 ± 0.20‰; 2007–2017 = −54.96 ± 0.24‰; 0.6‰ decrease 1980s→1990s then 0.2–0.3‰ increase post-2006; **Sink-weighted fractionation**: −6.21 ± 0.09‰ (1980s) → −6.20 ± 0.02‰ (2007–2017); **Spatially resolved input signatures**: AGR −62‰ (rice) to −60‰ (ruminant, varies by region); ENE −41.2‰ (coal), −44.6‰ (O&G); BMB includes C3–C4 differential; WET from Ganesan et al. 2018 spatial map; Post-2006 δ¹³C shift explained by increased ¹³C-depleted AGR+WST + decreased BB + increasing OH trend; **Budget (EXP1, 2007–2017)**: Total = 607 ± 11 Tg/yr; AGR+WST = 225 ± 6; ENE = 150 ± 6; WET = 177 ± 7; BMB = 5 ± 5; Sinks = 589 ± 8 (OH = 526 ± 8) | **δD not used** in this study (δ¹³C only + CH₄ concentrations) | Interpreting changes in global methane budget in a chemistry-climate model constrained with methane and isotopic observations | AGU Advances | [10.1029/2025AV001822](https://doi.org/10.1029/2025AV001822) | New | ✅ OA | 1980–2017 |
 
 ---
 
@@ -446,6 +450,10 @@
 | **Rice — ESSD 2026** | — | **−59.9** | — | Thanwerdas 2026 (Table 1) |
 | **Rice (ACP 2024 prior)** | — | −63.0 | — | Thanwerdas 2024 (Table 3) |
 | **Rice paddy — SW China ambient** | — | −47.2 ± 0.2 (background near paddies) | — | Chen 2025 (ACP) |
+| **Rice emitted (Zhang 2011 compilation†)** | −72 to −48 | — | 12+ studies | Zhang 2011 (JGR); global compilation |
+| **Rice pore water (Zhang 2011)** | −71 to −52 | ≈ −65 (most season) | — | Zhang 2011; Jiangsu year-round flood |
+| **Rice floodwater (Zhang 2011)** | −66 to −34 | — | — | Zhang 2011; heavy oxidation signature |
+| **Rice fallow season (Zhang 2011)** | −56 to −44 | — | — | Zhang 2011; fox higher than rice season |
 | **TERMITES** | | | | |
 | Termites (Sherwood) | −72.8 to −55.7 | −63.4 ± 6.4 | 29 | Sherwood 2017 |
 | Termites (Surat Basin, possible) | — | ~−80.2 | — | Kelly 2022 |
@@ -495,6 +503,27 @@
 | Pre-industrial geologic | — | −40 | 4 Tg/yr | Lassey 2007 |
 | Pre-industrial rice | — | −64 | 10 Tg/yr | Lassey 2007 |
 | Pre-industrial wildfires | — | −25 | 5 Tg/yr | Lassey 2007 |
+| **GLACIAL SOURCE SIGNATURES (Sperlich 2015 Table 2†)** | | | |
+| Glacial tropical wetlands | — | −58 | — | Sperlich 2015; from Whiticar & Schaefer 2007 |
+| Glacial boreal wetlands | — | −63 | — | Sperlich 2015 |
+| Glacial CH₄ hydrates | — | −62.5 | — | Sperlich 2015 |
+| Glacial aerobic C₃ plants | — | −58 | — | Sperlich 2015; from Keppler 2006 |
+| Glacial aerobic C₄ plants | — | −50 | — | Sperlich 2015 |
+| Glacial termites | — | −70 | — | Sperlich 2015 |
+| Glacial geological | — | −40 | — | Sperlich 2015 |
+| Glacial biomass burning | — | −25 | — | Sperlich 2015 |
+| Glacial thermokarst lakes | — | −70 | — | Sperlich 2015 |
+| **GI-21.2 additional source (KPA)** | — | **−56.8 ± 2.8** | — | Sperlich 2015; best match = tropical wetlands |
+| **MULTI-ISOTOPE BUDGET (Fujita 2025)** | | | |
+| Posterior BIO δ¹³C | — | **−60.2 [−61.0, −59.7]** | — | Fujita 2025 (JGR); particle filter |
+| Posterior FF δ¹³C | — | **−43.1 [−44.3, −41.9]** | — | Fujita 2025 |
+| Total sink KIE-C | — | 1.0075 [1.0070, 1.0078] | — | Fujita 2025; implies ~3% Cl contribution |
+| GEO emissions | — | 3.4 Tg/yr (<8.8 at 97.5%) | — | Fujita 2025; consistent with Hmiel 2020 |
+| **CHEMISTRY-CLIMATE MODEL (He 2026)** | | | |
+| Source-weighted δ¹³C (1980s) | — | −54.72 ± 0.27 | — | He 2026 (AGU Advances); EXP1 |
+| Source-weighted δ¹³C (1990s) | — | −55.32 ± 0.37 | — | He 2026; 0.6‰ decrease from 1980s |
+| Source-weighted δ¹³C (2007–2017) | — | −54.96 ± 0.24 | — | He 2026; partial recovery |
+| Sink-weighted ε (total) | — | −6.20 ± 0.02 (2007–2017) | — | He 2026 |
 | **ASIAN SOURCE MIX** | | | | |
 | South Asia excess (UT Keeling) | — | −56.5 | — | Umezawa 2012 |
 | East Asia excess (UT Keeling) | — | −49.6 | — | Umezawa 2012 |
@@ -644,9 +673,15 @@
 | 7 | Entries 84–107 added to main table + summary tables updated | 24 new entries covering 2002–2010 era |
 | 8 | Foundational literature (1953–1999) added | 9 seminal papers: Craig 1953, Bernard 1978, Schoell 1980, Rice & Claypool 1981, Stevens & Rust 1982, Whiticar et al. 1986, Quay et al. 1988, Chanton & Martens 1988, Whiticar 1999 |
 | 8 | Summary tables updated with foundational δ¹³C + δD classifications | Whiticar 1986/1999 pathway ranges, Schoell 1980 ranges, Stevens & Rust 1982 atmospheric baseline |
+| 9 | Manual PDF download + PyMuPDF extraction (76 papers archived) | Tyler 2007, Etiope 2008, Walter Anthony 2008, Mischler 2009, Allan 2007, Schaefer 2008, etc. now with full text |
+| 9 | Data extraction: Zhang 2011 (rice paddy δ¹³C) | Table 1 compilation of 12+ rice field studies worldwide + year-round flooding experiment |
+| 9 | Data extraction: Sperlich 2015 (ice core GI-21.2) | δ¹³C of additional CH₄ source = −56.8 ± 2.8‰ (tropical wetlands); Table 2 glacial source signatures |
+| 9 | Data extraction: Fujita 2025 (multi-isotope budget) | Posterior BIO δ¹³C = −60.2‰, FF δ¹³C = −43.1‰; KIE constraints; GEO < 8.8 Tg/yr |
+| 9 | Data extraction: He 2026 (chemistry-climate model) | Spatially resolved δ¹³C signatures 1980–2017; source-weighted δ¹³C evolution; Table 2 budget |
+| 9 | Entries 117–120 added to main table | 4 new entries: Zhang 2011 (rice), Sperlich 2015 (ice core), Fujita 2025 (budget), He 2026 (model) |
 
 ---
 
-*Database v5.0 | Generated: 2026-05-03 | 116 papers, 94 with verified isotope data*
-*140+ distinct δ¹³C source categories + 85+ δD categories + sink KIE section documented*
-*Temporal span: Craig 1953 → ESSD 2026; ice core records to 650 kyr BP*
+*Database v6.0 | Generated: 2026-05-03 | 120 papers, 98 with verified isotope data*
+*170+ distinct δ¹³C source categories + 85+ δD categories + sink KIE section documented*
+*Temporal span: Craig 1953 → He 2026 (AGU Advances); ice core records to 650 kyr BP; Dansgaard-Oeschger events ~85 ka BP*
