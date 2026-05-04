@@ -1,0 +1,452 @@
+[
+  {
+    "old": "ACP2024_Thanwerdas",
+    "new": "Thanwerdas2024ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "ACP2025_SW_China",
+    "new": "Chen2025ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "AMT2025_14C_sampler",
+    "new": "Zazzeri2025AMT",
+    "status": "renamed"
+  },
+  {
+    "old": "Allan2007_JGR",
+    "new": "Allan2007JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Borjesson2007_EST",
+    "new": "Borjesson2007EST",
+    "status": "renamed"
+  },
+  {
+    "old": "Bousquet2006_Nature",
+    "new": "Bousquet2006Nature",
+    "status": "renamed"
+  },
+  {
+    "old": "Bousquet2006_Nature_pdf",
+    "new": "Bousquet2006Nature_pdf",
+    "status": "renamed"
+  },
+  {
+    "old": "Bousquet2011_ACP_source_attribution",
+    "new": "Bousquet2011ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "Chanton2005_OrgGeochem",
+    "new": "Chanton2005OrgGeochem",
+    "status": "renamed"
+  },
+  {
+    "old": "Chen2006_JGR",
+    "new": "Chen2006JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "CommEarth2024_fossil_microbial",
+    "new": "Chandra2024CommEarth",
+    "status": "renamed"
+  },
+  {
+    "old": "CommEarth2025_seeps",
+    "new": "Molofsky2025CommEarth",
+    "status": "renamed"
+  },
+  {
+    "old": "CommEarth2026_laptev",
+    "new": "Brussee2026CommEarth",
+    "status": "renamed"
+  },
+  {
+    "old": "Conrad2009_LO",
+    "new": "Conrad2009LO",
+    "status": "renamed"
+  },
+  {
+    "old": "Cunnold2002_JGR",
+    "new": "Cunnold2002JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Dalsoren2016_ACP_methane_40yr",
+    "new": "Dalsoren2016ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "Dean2018",
+    "new": "Dean2018RoG",
+    "status": "renamed"
+  },
+  {
+    "old": "Defratyka2021",
+    "new": "Defratyka2021EST",
+    "status": "renamed"
+  },
+  {
+    "old": "Dlugokencky2003_GRL",
+    "new": "Dlugokencky2003GRL",
+    "status": "renamed"
+  },
+  {
+    "old": "Dlugokencky2009_GRL",
+    "new": "Dlugokencky2009GRL",
+    "status": "renamed"
+  },
+  {
+    "old": "ESSD2026_Thanwerdas",
+    "new": "Tapin2026ESSD",
+    "status": "renamed"
+  },
+  {
+    "old": "Etiope2008_GRL",
+    "new": "Etiope2008GRL",
+    "status": "renamed"
+  },
+  {
+    "old": "Fernandez2022",
+    "new": "Fernandez2022AtmosEnv",
+    "status": "renamed"
+  },
+  {
+    "old": "Fernandez_Cortes2015_cave_sink",
+    "new": "FernandezCortes2015NatComm",
+    "status": "renamed"
+  },
+  {
+    "old": "Ferretti2005_Science",
+    "new": "Ferretti2005Science",
+    "status": "renamed"
+  },
+  {
+    "old": "Ferretti2006_ACPD",
+    "new": "Ferretti2006ACPD",
+    "status": "renamed"
+  },
+  {
+    "old": "Fisher2006_RCMS",
+    "new": "Fisher2006RCMS",
+    "status": "renamed"
+  },
+  {
+    "old": "Fisher2017",
+    "new": "WoolleyMaisch2024JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Fujita2025",
+    "new": "Fujita2025JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Ganesan2018",
+    "new": "Ganesan2018GRL",
+    "status": "renamed"
+  },
+  {
+    "old": "Gentner2014_ACP_SJV_petroleum_dairy",
+    "new": "Gentner2014ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "Ghosh2015_ACP_methane_1910_2010",
+    "new": "Ghosh2015ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "He2026",
+    "new": "He2026JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Houweling2006_GRL",
+    "new": "Houweling2006GRL",
+    "status": "renamed"
+  },
+  {
+    "old": "Keppler2006_Nature",
+    "new": "Keppler2006Nature",
+    "status": "renamed"
+  },
+  {
+    "old": "Keppler2006_Nature_pdf",
+    "new": "Keppler2006Nature_pdf",
+    "status": "renamed"
+  },
+  {
+    "old": "Kietavainen2015_deep_crystalline",
+    "new": "Kietavainen2015AG",
+    "status": "renamed"
+  },
+  {
+    "old": "Lassey2007_ACP_centennial",
+    "new": "Lassey2007ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "Milkov2018",
+    "new": "Milkov2018OrgGeochem",
+    "status": "renamed"
+  },
+  {
+    "old": "Mischler2009_GBC",
+    "new": "Mischler2009GBC",
+    "status": "renamed"
+  },
+  {
+    "old": "Nakagawa2005_OrgGeochem",
+    "new": "Nakagawa2005OrgGeochem",
+    "status": "renamed"
+  },
+  {
+    "old": "Nisbet2019",
+    "new": "Nisbet2019GBC",
+    "status": "renamed"
+  },
+  {
+    "old": "Nisbet2023",
+    "new": "Nisbet2023GBC",
+    "status": "renamed"
+  },
+  {
+    "old": "Okumura2016_PEPS_methanogenesis",
+    "new": "Okumura2016PEPS",
+    "status": "renamed"
+  },
+  {
+    "old": "Rigby2008_GRL",
+    "new": "Rigby2008GRL",
+    "status": "renamed"
+  },
+  {
+    "old": "Schaefer2008_GBC",
+    "new": "Schaefer2008GBC",
+    "status": "renamed"
+  },
+  {
+    "old": "Schaefer2019",
+    "new": "Schaefer2019CurrClimChR",
+    "status": "renamed"
+  },
+  {
+    "old": "Schwietzke2017",
+    "new": "Schwietzke2016Nature",
+    "status": "renamed"
+  },
+  {
+    "old": "Sherwood2017",
+    "new": "Sherwood2017ESSD",
+    "status": "renamed"
+  },
+  {
+    "old": "Spahni2011_BG_wetland_methane",
+    "new": "Spahni2011BG",
+    "status": "renamed"
+  },
+  {
+    "old": "Sperlich2015",
+    "new": "Sperlich2015ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "TownsendSmall2012",
+    "new": "TownsendSmall2012JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Tyler2007_JGR",
+    "new": "Tyler2007JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "WalterAnthony2008_JGR",
+    "new": "WalterAnthony2008JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Warwick2016_ACP_Arctic_d13C_dD",
+    "new": "Warwick2016ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "WoolleyMaisch2023",
+    "new": "WoolleyMaisch2024JGR_dup",
+    "status": "renamed"
+  },
+  {
+    "old": "Zazzeri2015_AtmosEnv_UK_sources",
+    "new": "Zazzeri2015AE",
+    "status": "renamed"
+  },
+  {
+    "old": "Zazzeri2016_ACP_coal_isotope",
+    "new": "Zazzeri2016ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "Zhang2011",
+    "new": "Zhang2011JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "basu2022",
+    "new": "Basu2022ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "brownlow2017",
+    "new": "Brownlow2017ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "douglas2021",
+    "new": "Douglas2021BG",
+    "status": "renamed"
+  },
+  {
+    "old": "etiope2019",
+    "new": "Etiope2019ESSD",
+    "status": "renamed"
+  },
+  {
+    "old": "feinberg2018",
+    "new": "Feinberg2018JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "feng2022",
+    "new": "Feng2022NatComm",
+    "status": "renamed"
+  },
+  {
+    "old": "fiehn2020",
+    "new": "Fiehn2020ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "fiehn2023_silesia",
+    "new": "Fiehn2023ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "gonzalez_moguel2022",
+    "new": "GonzalezMoguel2022ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "hmiel2020",
+    "new": "Hmiel2020Nature",
+    "status": "renamed"
+  },
+  {
+    "old": "hoheisel2019",
+    "new": "Hoheisel2019AE",
+    "status": "renamed"
+  },
+  {
+    "old": "kelly2022_surat",
+    "new": "Kelly2022ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "kirschke2013",
+    "new": "Kirschke2013NatGeo",
+    "status": "renamed"
+  },
+  {
+    "old": "lu2021",
+    "new": "Lu2021ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "maasakkers2019",
+    "new": "Maasakkers2019ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "maazallahi2020",
+    "new": "Maazallahi2020AE",
+    "status": "renamed"
+  },
+  {
+    "old": "mcnorton2016",
+    "new": "McNorton2016ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "menoud2020_lutjewad",
+    "new": "Menoud2020TellusB",
+    "status": "renamed"
+  },
+  {
+    "old": "menoud2021_krakow",
+    "new": "Menoud2021ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "menoud2022_emid",
+    "new": "Menoud2022ESSD",
+    "status": "renamed"
+  },
+  {
+    "old": "monteil2011",
+    "new": "Monteil2011ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "moya_zwamps2021",
+    "new": "Nisbet2022PhilTransA",
+    "status": "renamed"
+  },
+  {
+    "old": "nisbet2016",
+    "new": "Nisbet2016GBC",
+    "status": "renamed"
+  },
+  {
+    "old": "nisbet2020_mitigation",
+    "new": "Nisbet2020RoG",
+    "status": "renamed"
+  },
+  {
+    "old": "rockmann2016",
+    "new": "Rockmann2016ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "saunois2016",
+    "new": "Saunois2016ESSD",
+    "status": "renamed"
+  },
+  {
+    "old": "saunois2020",
+    "new": "Saunois2020ESSD",
+    "status": "renamed"
+  },
+  {
+    "old": "umezawa2012",
+    "new": "Umezawa2012ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "worden2017",
+    "new": "Worden2017NatComm",
+    "status": "renamed"
+  },
+  {
+    "old": "zhang2020_permian",
+    "new": "Zhang2020SA",
+    "status": "renamed"
+  },
+  {
+    "old": "zhang2021",
+    "new": "Zhang2021NatComm",
+    "status": "renamed"
+  }
+]
