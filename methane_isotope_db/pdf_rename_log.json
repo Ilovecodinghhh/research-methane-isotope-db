@@ -1,0 +1,392 @@
+[
+  {
+    "old": "ACP2024_Thanwerdas_isotopic_inversion",
+    "new": "Thanwerdas2024ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "ACP2025_SW_China_oil_gas_isotopic",
+    "new": "Chen2025ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "AMT2025_portable_14C_sampler",
+    "new": "Zazzeri2025AMT",
+    "status": "renamed"
+  },
+  {
+    "old": "Allan et al. 2007 (JGR)",
+    "new": "Allan2007JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Basu et al.2022",
+    "new": "Basu2022ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "Bousquet2006_Nature",
+    "new": "Bousquet2006Nature",
+    "status": "renamed"
+  },
+  {
+    "old": "B\u00f6rjesson et al. 2007",
+    "new": "Borjesson2007EST",
+    "status": "renamed"
+  },
+  {
+    "old": "Chanton 2005",
+    "new": "Chanton2005OrgGeochem",
+    "status": "renamed"
+  },
+  {
+    "old": "Chen & Prinn 2006 (JGR)",
+    "new": "Chen2006JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "CommEarth2024_fossil_decreased_microbial_increased",
+    "new": "Chandra2024CommEarth",
+    "status": "renamed"
+  },
+  {
+    "old": "CommEarth2025_geologic_seeps_vs_anthropogenic",
+    "new": "Molofsky2025CommEarth",
+    "status": "renamed"
+  },
+  {
+    "old": "CommEarth2026_triple_isotopic_Laptev_Sea",
+    "new": "Brussee2026CommEarth",
+    "status": "renamed"
+  },
+  {
+    "old": "Conrad et al. 2009",
+    "new": "Conrad2009LO",
+    "status": "renamed"
+  },
+  {
+    "old": "Cunnold et al. 2002 (JGR)",
+    "new": "Cunnold2002JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Dean et al. 2018 ",
+    "new": "Dean2018RoG",
+    "status": "renamed"
+  },
+  {
+    "old": "Defratyka et al.2021",
+    "new": "Defratyka2021EST",
+    "status": "renamed"
+  },
+  {
+    "old": "Dlugokencky et al. 2003 (GRL)",
+    "new": "Dlugokencky2003GRL",
+    "status": "renamed"
+  },
+  {
+    "old": "Dlugokencky et al. 2009",
+    "new": "Dlugokencky2009GRL",
+    "status": "renamed"
+  },
+  {
+    "old": "ESSD2026_Thanwerdas_global_d13C_dataset",
+    "new": "Tapin2026ESSD",
+    "status": "renamed"
+  },
+  {
+    "old": "Etiope et al. 2008 (GRL)",
+    "new": "Etiope2008GRL",
+    "status": "renamed"
+  },
+  {
+    "old": "Fernandez et al.2022",
+    "new": "Fernandez2022AtmosEnv",
+    "status": "renamed"
+  },
+  {
+    "old": "Ferretti 2006 ACPD ",
+    "new": "Ferretti2006ACPD",
+    "status": "renamed"
+  },
+  {
+    "old": "Ferretti et al. 2005",
+    "new": "Ferretti2005Science",
+    "status": "renamed"
+  },
+  {
+    "old": "Fisher et al.2006",
+    "new": "Fisher2006RCMS",
+    "status": "renamed"
+  },
+  {
+    "old": "Fisher et al.2017",
+    "new": "WoolleyMaisch2024JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Fujita et al.2025",
+    "new": "Fujita2025JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Ganesan et al.2018",
+    "new": "Ganesan2018GRL",
+    "status": "renamed"
+  },
+  {
+    "old": "He et al.2026",
+    "new": "He2026JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Houweling2006_GRL",
+    "new": "Houweling2006GRL",
+    "status": "renamed"
+  },
+  {
+    "old": "Keppler2006_Nature",
+    "new": "Keppler2006Nature",
+    "status": "renamed"
+  },
+  {
+    "old": "Lassey2007_ACP_centennial",
+    "new": "Lassey2007ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "Milkov et al.2018",
+    "new": "Milkov2018OrgGeochem",
+    "status": "renamed"
+  },
+  {
+    "old": "Mischler et al. 2009 (GBC)",
+    "new": "Mischler2009GBC",
+    "status": "renamed"
+  },
+  {
+    "old": "Nakagawa et al. 2005",
+    "new": "Nakagawa2005OrgGeochem",
+    "status": "renamed"
+  },
+  {
+    "old": "Nisbet et al. 2019",
+    "new": "Nisbet2019GBC",
+    "status": "renamed"
+  },
+  {
+    "old": "Nisbet et al. 2023",
+    "new": "Nisbet2023GBC",
+    "status": "renamed"
+  },
+  {
+    "old": "Rigby et al. 2008 (GRL)",
+    "new": "Rigby2008GRL",
+    "status": "renamed"
+  },
+  {
+    "old": "Schaefer & Whiticar 2008 (GBC)",
+    "new": "Schaefer2008GBC",
+    "status": "renamed"
+  },
+  {
+    "old": "Schaefer et al.2019",
+    "new": "Schaefer2019CurrClimChR",
+    "status": "renamed"
+  },
+  {
+    "old": "Schwietzke et al.2017",
+    "new": "Schwietzke2016Nature",
+    "status": "renamed"
+  },
+  {
+    "old": "Sherwood et al.2017",
+    "new": "Sherwood2017ESSD",
+    "status": "renamed"
+  },
+  {
+    "old": "Sperlich et al.2015",
+    "new": "Sperlich2015ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "Townsend-Small et al.2012",
+    "new": "TownsendSmall2012JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Tyler et al. 2007 (JGR)",
+    "new": "Tyler2007JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Walter Anthony et al. 2008 (JGR)",
+    "new": "WalterAnthony2008JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "Woolley Maisch et al.2023",
+    "new": "WoolleyMaisch2024JGR_dup",
+    "status": "renamed"
+  },
+  {
+    "old": "Zazzeri et al.2016",
+    "new": "Zazzeri2016ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "Zhang et al.2011",
+    "new": "Zhang2011JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "brownlow2017",
+    "new": "Brownlow2017ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "douglas2021",
+    "new": "Douglas2021BG",
+    "status": "renamed"
+  },
+  {
+    "old": "etiope2019",
+    "new": "Etiope2019ESSD",
+    "status": "renamed"
+  },
+  {
+    "old": "feinberg et al.2018",
+    "new": "Feinberg2018JGR",
+    "status": "renamed"
+  },
+  {
+    "old": "feng2022",
+    "new": "Feng2022NatComm",
+    "status": "renamed"
+  },
+  {
+    "old": "fiehn2020",
+    "new": "Fiehn2020ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "fiehn2023_silesia",
+    "new": "Fiehn2023ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "gonzalez_moguel2022",
+    "new": "GonzalezMoguel2022ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "hmiel et al. 2020",
+    "new": "Hmiel2020Nature",
+    "status": "renamed"
+  },
+  {
+    "old": "hoheisel2019",
+    "new": "Hoheisel2019AE",
+    "status": "renamed"
+  },
+  {
+    "old": "kelly2022_surat",
+    "new": "Kelly2022ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "kirschke et al.2013",
+    "new": "Kirschke2013NatGeo",
+    "status": "renamed"
+  },
+  {
+    "old": "lu2021",
+    "new": "Lu2021ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "maasakkers2019",
+    "new": "Maasakkers2019ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "maazallahi2020",
+    "new": "Maazallahi2020AE",
+    "status": "renamed"
+  },
+  {
+    "old": "mcnorton2016",
+    "new": "McNorton2016ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "menoud2020_lutjewad",
+    "new": "Menoud2020TellusB",
+    "status": "renamed"
+  },
+  {
+    "old": "menoud2021_krakow",
+    "new": "Menoud2021ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "menoud2022_emid",
+    "new": "Menoud2022ESSD",
+    "status": "renamed"
+  },
+  {
+    "old": "monteil2011",
+    "new": "Monteil2011ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "moya_zwamps2021",
+    "new": "Nisbet2022PhilTransA",
+    "status": "renamed"
+  },
+  {
+    "old": "nisbet2016",
+    "new": "Nisbet2016GBC",
+    "status": "renamed"
+  },
+  {
+    "old": "nisbet2020_mitigation",
+    "new": "Nisbet2020RoG",
+    "status": "renamed"
+  },
+  {
+    "old": "rockmann2016",
+    "new": "Rockmann2016ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "saunois2016",
+    "new": "Saunois2016ESSD",
+    "status": "renamed"
+  },
+  {
+    "old": "saunois2020",
+    "new": "Saunois2020ESSD",
+    "status": "renamed"
+  },
+  {
+    "old": "umezawa2012",
+    "new": "Umezawa2012ACP",
+    "status": "renamed"
+  },
+  {
+    "old": "worden2017",
+    "new": "Worden2017NatComm",
+    "status": "renamed"
+  },
+  {
+    "old": "zhang2020_permian",
+    "new": "Zhang2020SA",
+    "status": "renamed"
+  },
+  {
+    "old": "zhang2021",
+    "new": "Zhang2021NatComm",
+    "status": "renamed"
+  }
+]
